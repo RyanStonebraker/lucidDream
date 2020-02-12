@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+GloVe
+models/fastText/*
+encoder/*
+.DS_Store
+models/encoder/*
