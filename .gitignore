@@ -4,3 +4,4 @@ models/fastText/*
 encoder/*
 .DS_Store
 models/encoder/*
+lucidDream.code-workspace
