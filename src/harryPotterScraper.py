@@ -61,35 +61,19 @@ def parse_second_book(transcript):
     return all_dialogue
 
 
-def parse_book(transcript, book):
+def parse_third_book(transcript, book):
     all_dialogue = []
-    attribute = ""
-    statement = ""
     transcript = re.sub(r"[\s\t]+", " ", transcript)
-    for author, line in re.findall(r"<b>([^a-z]+)</b>(.*?)<b>", transcript):
-        author = author.strip().lower()
-        line = line.strip().lower()
-        if not line or "<" in line or not author or "(continued)" in author or "the end" in author:
+    for character, statement in re.findall(r"<b>([^a-z]+)</b>(.*?)<b>", transcript):
+        character = character.strip().lower()
+        statement = statement.strip().lower()
+        if not statement or "<" in statement or not character or "(continued)" in character or "the end" in character:
             continue
-        print(author, ":::", line)
-        if re.match(r"^(?:MRS?.\s?)?[^a-z!.']+$", line):
-            if attribute and statement:
-                line_number = len(all_dialogue)
-                for character in attribute.split("/"):
-                    all_dialogue.append(form_bundle(character, statement, line_number, 2))
-            elif attribute and not statement and all_dialogue:
-                all_dialogue[-1]["statement"] += f" {line}"
-            attribute = re.sub(r"\(.+\)", "", line).lower().strip()
-            attribute = attribute if attribute and not re.findall(r"[0-9]+|\s-\s", line) else "environment"
-            # for env_marker in ["scene", "montage", "dissolve", "closeup", "close-up", "chamber", "sees"]:
-                # attribute = "environment" if env_marker in attribute else attribute
-            # attribute = attribute.replace("justin-finch", "justin finch").replace("lucious", "lucius").replace("young ", "")
-            # attribute = "albus dumbledore" if attribute == "dumbledore" else attribute
-            # attribute = "tom riddle" if attribute == "riddle" else attribute
-            # attribute = "cornelius fudge" if attribute == "fudge" or attribute == "cornelius" else attribute
-            statement = ""
-        else:
-            statement = line if not statement else f"{statement} {line}"
+        line_number = len(all_dialogue)
+        if re.findall(r"[0-9)]+", character):
+            character = "environment"
+        for same_line_character in character.split("/"):
+            all_dialogue.append(form_bundle(same_line_character, statement, line_number, book))
     return all_dialogue
 
 
@@ -103,8 +87,7 @@ def parse_transcript(transcript, book):
     elif book == 2:
         all_dialogue = parse_second_book(transcript)
     else:
-        all_dialogue = parse_book(transcript, book)
-    # print(pd.DataFrame(all_dialogue))
+        all_dialogue = parse_third_book(transcript, book)
     return pd.DataFrame(all_dialogue)
 
 
@@ -112,8 +95,8 @@ def scrape_books():
     base = "http://www.hogwartsishere.com"
     all_books_url = f"{base}/library/book/7391"
     book_urls = {
-        # 1: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
-        # 2: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
+        1: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
+        2: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
         3: "http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/all_imsdb_05_19_10/Harry-Potter-and-the-Prisoner-of-Azkaban.html"
     }
     books = {}
@@ -126,7 +109,6 @@ def scrape_books():
         transcript_df = parse_transcript(transcript, i)
         transcript_df.to_csv(f"../corpora/harry_potter/harry_potter_{i}.csv", index=False)
 
-        break
 
 if __name__ == "__main__":
     scrape_books()
