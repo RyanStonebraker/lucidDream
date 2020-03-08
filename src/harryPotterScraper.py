@@ -81,7 +81,6 @@ def parse_third_book(transcript, book):
 def parse_transcript(transcript, book):
     all_dialogue = []
     transcript = transcript.strip()
-
     if book == 1:
         all_dialogue = parse_first_book(transcript)
     elif book == 2:
@@ -96,7 +95,7 @@ def scrape_books():
     all_books_url = f"{base}/library/book/7391"
     book_urls = {
         1: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
-        2: "http://www.hogwartsishere.com/library/book/7391/chapter/1",
+        2: "http://www.hogwartsishere.com/library/book/7391/chapter/2",
         3: "http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/all_imsdb_05_19_10/Harry-Potter-and-the-Prisoner-of-Azkaban.html"
     }
     books = {}
