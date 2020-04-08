@@ -1,0 +1,330 @@
+albus dumbledore:  I should have known that you would be here...Professor McGonagall.
+environment: The cat meows, sniffs out and the camera pans back to a wall. The cats shadow is seen progressing into a human. There are footsteps and MINERVA MCGONAGALL is revealed.
+albus dumbledore:  I'm afraid so, Professor. The good, and the bad.
+albus dumbledore:  Hagrid is bringing him.
+albus dumbledore:  Ah, Professor, I would trust Hagrid with my life.
+environment: There is a motor sound, and the two professors look up to see a flying motorcycle coming down from the air. It skids on the street and halts. A large man, RUBEUS HAGRID, takes off his goggles.
+hagrid:  Professor Dumbledore, Sir. Professor McGonagall.
+albus dumbledore:  No problems, I trust, Hagrid?
+hagrid:  No, sir. Little tyke fell asleep just as we were flying over Bristol. Heh. Try not to wake him. There you go.
+environment: Hagrid hands a baby in a blanket over to Dumbledore.
+albus dumbledore:  The only family he has.
+environment: They stop outside a house.
+albus dumbledore:  Exactly. He's better off growing up away from all that. Until he is ready.
+environment: Hagrid coughs and sniffles, he is crying. He clears his throat.
+albus dumbledore:  There, there, Hagrid. It's not really good-bye, after all.
+environment: Hagrid nods. Dumbledore takes a letter and places it on the baby, who is now at the foot of the door. The baby has a visible lightning-bolt shaped scar on his forehead.
+albus dumbledore:  Good luck...Harry Potter.
+environment: The camera pans into the scar and the opening title shows:
+environment: HARRY POTTER AND THE PHILOSOPHER'S STONE
+environment: Almost ten years after the: DURSLEY's home. The camera pans on a sleeping boy, almost eleven, with a lightning-bolt shaped scar on his forehead.
+environment: There is a click, and knocking. Outside, a tall woman, PETUNIA DURSLEY, raps the door.
+environment: A large, tubby boy, DUDLEY DURSLEY, suddenly comes running down the stairs above the closet. He stops half-way down and goes back, jumping on the staircase.
+environment: Dudley laughs, comes down the stairs and runs for the kitchen. The boy, HARRY POTTER, tries to come out of the closet, but is pushed back in by Dudley.
+environment: Petunia is in the kitchen, where Dudley has gone.
+albus dumbledore:  I have a few start of term notices I wish to announce. The first years please note that the dark forest is strictly forbidden to all students. Also, our caretaker, Mr. Filch {signals to ragged old man with a cat with red eyes} has asked me to remind you that the 3rd floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you.
+hermione:  Oh, no. Okay, relax. {She goes up}
+ron:  Mental that one, I'm telling you.
+environment: Harry nods in agreement.
+environment: Sorting Hat: Ah, right then...hmm...right. Okay...Gryffindor!!
+environment: (Cheering)
+environment: Hermione jumps off with a smile.
+environment: Draco saunters up proudly. The tattered hat nearly freaks before touching down on Dracos head.
+environment: Sorting Hat: SLYTHERIN!
+albus dumbledore:  Let the feast...begin.
+environment: Food magically appears on all the tables, and the hall is filled with awe and chatter.
+harry:  Wow.
+environment: Draco looks at all the food, raises his eyebrows and digs in.
+environment: Ron stuffs his face.
+environment: SEAMUS FINNIGAN, a tiny boy, speaks.
+environment: Neville laughs.
+environment: Harry is sitting next to Percy. He leans over.
+harry:  Say, Percy, who's that teacher talking to Professor Quirrell?
+albus dumbledore:  SILLLLLEEENNNNCEEEEE! {Everyone stops.} Everyone will please, not panic. Now, Prefects will lead their houses back to the dormitories. Teachers will follow me to the dungeons.
+environment: Snape looks aghast, and he disappears through a doorway.
+environment:  Percy is leading the house down a hall.
+harry:  How could a troll get in?
+ron:  Not by itself. Trolls are really stupid. Probably people playing jokes. {Suddenly, Harry stops and pulls Ron aside.} What?
+harry:  Hermione! She doesn't know!
+environment: The two run off, down corridors. They start running down a hall when they stop, because there is a grunting noise. Harry pulls Ron into a doorway and a large, ugly TROLL thunks by into a room.
+harry:  He's going into the Girl's Bathroom!
+albus dumbledore:  Back again, Harry? {Harry turns around and stands up.} I see that you, like so many before you, have discovered the delights of the Mirror of Erised. I trust by now you realize what it does. Let me give you a clue. The happiest man on earth would look into the mirror and see only himself, exactly as he is.
+harry:  So, then it shows us what we want? Whatever we want?
+albus dumbledore:  Yes...and no. It shows us nothing more or less than the deepest, most desperate desires of our hearts. Now you, who have never known your family, you see them standing beside you. But remember this, Harry. This mirror gives us neither knowledge or truth. Men have wasted away in front of it, even gone mad. That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again. It does not do to dwell on dreams, Harry, and forget to live. {Harry looks back at the mirror.}
+environment: Daytime. It is all snowy. Harry is out in a main courtyard, bundled up, with Hedwig on his arm. He stops and she lifts off, soaring away into the sky. When she returns, it is spring time.
+environment: In the library. Harry and Ron are seated, reading. Hermione comes up with a huge book. She thumps it onto the table. Harry jumps.
+hermione:  I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.
+ron:  This is light?
+hermione:  {glares} Of course! Here it is! "Nicholas Flamel is the only known maker of the Philosopher's Stone!"
+environment: Ron and Harry: The what?
+hermione:  Honestly, don't you two read? "The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal."
+ron:  Immortal?
+hermione:  It means you'll never die.
+ron:  I know what it means!
+albus dumbledore:  Good afternoon, Harry. Ah. Tokens from your admirers?
+harry:  Admirers?
+albus dumbledore:  What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. {Both smile.} Ah, I see your friend Ronald has saved you the trouble of opening your Chocolate Frogs.
+harry:  Ron was here? Is he all right? What about Hermione?
+albus dumbledore:  Fine. They're both just fine.
+harry:  But, what happened to the Stone?
+albus dumbledore:  Relax, dear boy. The stone has been destroyed. My friend Nicholas and I had a little chat and agreed it was best all around.
+harry:  But Flamel, he'll die, won't he?
+albus dumbledore:  {sits on the bed.} He has enough Elixir to set his affairs in order. But yes, he will die.
+harry:  How is it I got the Stone, sir? One minute I was staring in the mirror, and the next...
+albus dumbledore:  Ah. You see, only a person who wanted to find the Stone, find it, but not use it, would be able to get it. That is one of my more brilliant ideas. And between you and me thats saying something. {Smile both.}
+harry:  Does that mean, with the Stone gone, I mean, that Voldemort can never come back?
+albus dumbledore:  Ah, I'm afraid there are ways in which he can return. Harry, do you know why Professor Quirrell couldn't bear to have you touch him? {Harry shakes his head.} It was because of your mother. She sacrificed herself for you, and that kind of act leaves a mark. {Harry touches his scar.} No, no, this kind of mark cannot be seen. It lives in your very skin.
+harry:  What is it?
+albus dumbledore:  Love, Harry, love. {Pats Harry's head and stands up.} Ah. Bertie Bott's Every Flavour Beans. I was most unfortunate in my youth to come across a vomit flavoured one, and since then I have lost my liking for them. But I think I could be safe with a nice toffee...{takes brown bean and eats it.} Mm. Alas. Earwax.
+environment: Harry approaches a room where up on a stairwell balcony Hermione and Ron are talking. They stop when they see Harry and lean over the railing.
+harry:  All right there, Ron?
+ron:  All right? You?
+harry:  {shrug} All right. Hermione?
+hermione:  {smile} Never better.
+environment: In the great hall. All students are seated, and green banners with snakes on them are around the ceiling.
+environment: Dumbledore, at the head table, nods to McGonagall.
+environment: She dings her glass and the chatter stops. Dumbledore rises.
+albus dumbledore:  Another year gone. And now, as I understand it, the house cup needs awarding, and the points stand thus. In fourth place, Gryffindor with 312 points. {Clapping. Harry and Hermione hide their heads.} Third place, Hufflepuff, with 352 points. {Clapping.} In second place, Ravenclaw, with 426 points. {Clapping.} And in first place, with 472 points, Slytherin House.
+environment: There is immense cheering.
+albus dumbledore:  Yes, yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account. And I have a few last minute points to award. {The Gryffindor students look up.} To Miss Hermione Granger, for the use of cool intellect when others were in great peril, 50 points. {Applause.}
+harry:  {Pats} Good job.
+albus dumbledore:  Second, to Mr. Ronald Weasley, for the best played game of chess {Ron looks at Harry and mouths, 'Me?' Harry nods, and mouths, 'You!'} that Hogwarts has seen these many years...50 points. {Applause} And third, to Mr. Harry Potter, for pure nerve and outstanding courage, I award Gryffindor house 60 points. {Immense cheering.}
+hermione:  We're tied with Slytherin!
+albus dumbledore:  And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award 10 points to Neville Longbottom.
+environment: Immense cheering erupts. Neville is unbelieving, and sits there while cheering gets louder. Draco is downfallen.
+albus dumbledore:  Assuming that my calculations are correct, I believe that a change of direction is in order. {Claps. The green banners change to Gryffindor red and yellow.} Gryffindor wins the House Cup!
+environment: Cheering.
+hagrid:  Yes! {grins}
+environment: All students stand and throw their hats into the air, except Draco, who smashes his down onto the table.
+environment: All rub each other's hair and jump around, cheering and laughing.
+environment: The outdoor train station. Students are walking around, getting in the train.
+hagrid:  Come on now, hurry up. You'll be late. Train's leaving. Go on. Go on. Come on. Hurry up.
+environment: Harry hands Hedwig to a train man, and walks to an open door of the train with Hermione. Hermione waves to Hagrid, who waves back. Hermione gets in the train.
+hermione:  Come on, Harry.
+albus dumbledore: They are not. Harry and Ron turn. ALBUS DUMBLEDORE stands in the doorway. Alongside him is a distinctly annoyed PROFESSOR McGONAGALL.
+harry: Professor Dumbledore. Professor McGonagall...
+snape: Headmaster, these boys have flouted the Decree for the Restriction of Underage Wizardry. As such...
+albus dumbledore: I'm well aware of our bylaws, Severus, having written more than a few myself. However, as Head of Gryffindor House, it is for Professor McGonagall to determine the appropriate action.
+ron: (rising gloomily) We'll go and get our stuff. PROFESSOR McGONAGALL What are you talking about, Mr. Weasley?
+environment: . (2) 37 RON
+ron: Well, you're going to expel us, aren't you? PROFESSOR McGONAGALL Not today, Mr. Weasley. But I must impress upon both of you the seriousness of what you have done. I will be sending owls to both of your families tonight. And you will each get a detention. Snape casts a look of pure venom at Harry and Ron.
+albus dumbledore: Splendid. Now, I suggest we return to the feast. There's a delicious-looking custard tart I want to sample. Rising, Harry spies an ENVELOPE on the floor. Taking it, he reads the back "KWIKSPELL. A CORRESPONDENCE COURSE IN BEGINNER'S MAGIC." It's addressed to "MR. ARGUS FILCH."
+harry: Mr. Filch. You dropped this... Filch turns, eyes the envelope with embarrassment, then snatches it from Harry's hand and stuffs it into his pocket.
+environment: 39 EXT. HOGWARTS CASTLE - MORNING 39 The Whomping Willow sulks in the courtyard, SLINGS strung about its injured branches. CAMERA CRANES OVER the castle walls, REVEALING the exterior of GREENHOUSE THREE, where students hurry inside for the beginning of class. 40 INT. GREENHOUSE THREE - MORNING 40 As Harry and Ron enter, SEAMUS, NEVILLE and some of the other Gryffindors hover nearby.
+environment: 35. 40 HERMIONE
+hermione: I should think you'd count yourself lucky that's all you got.
+ron: I should think you'd mind your own business. They glare at each other. PROFESSOR SPROUT, a squat little witch, TAPS her wand on a stack of POTS.
+hermione: Mandrake, or Mandragora, is used to return those who have been transfigured to their original state. It's also quite dangerous. The Mandrake's cry is fatal to anyone who hears it.
+albus dumbledore: Argus! Dumbledore marches forward, trailed by a phalanx of teachers. Seeing the wall, Dumbledore's face darkens.
+albus dumbledore: Everyone will proceed to their dormitories immediately. (to Harry, Ron, Hermione) Everyone except you three. As the corridor empties, Dumbledore steps to the wall and, with extreme gentleness, removes Mrs. Norris.
+albus dumbledore: She's not dead, Argus. She's been Petrified.
+albus dumbledore: But how she's been Petrified... I cannot say.
+harry: It's not true, sir! I swear! I never touched Mrs. Norris -- And I don't even know what a Squib is.
+environment: . (3) 59 SNAPE
+snape: If I might, Headmaster... The others turn, watch Snape separate from the shadows.
+snape: Perhaps Potter and his friends were simply in the wrong place at the wrong time... Could Snape be defending Harry and the others blink. them?
+snape: However, the circumstances are suspicious. I, for one, don't recall seeing Potter at dinner.
+hermione: That's why Ron and I went looking for him, Professor. We'd just found him when Harry said...
+snape: (raising an eyebrow) Yes, Miss Granger?
+albus dumbledore: Innocent until proven guilty.
+environment: . (4) 59 DUMBLEDORE
+albus dumbledore: We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth of Mandrakes. When they have matured, a potion will be made which will revive Mrs. Norris. In the meantime, I advise caution. To all.
+environment: 60A INT. CORRIDOR - NIGHT (A BIT LATER) 60A Harry, Ron and Hermione walk down the corridor.
+ron: A Squib's someone who's born into a wizarding family but hasn't got any powers of their own. It's why Filch is trying to learn magic from a Kwikspell course. It's also why he hates students so much. He's bitter. Hermione, who's only been half-listening -- as if trying to unravel something in her mind -- speaks then.
+hermione: Harry. This voice. You said you heard it first in Lockhart's office?
+harry: Yes.
+hermione: And did he hear it?
+harry: He said he didn't.
+ron: Maybe he was lying.
+hermione: I hardly think someone with Gilderoy Lockhart's credentials would lie to one of his students, Ronald. Besides, if you recall, we didn't hear anything either.
+environment: . 60A HARRY
+harry: You do believe me, don't you?
+albus dumbledore: There's been another attack. Madam Pomfrey GASPS. It is not a statue lying there. It is Colin Creevey, CAMERA still clutched to his eye. PROFESSOR McGONAGALL Perhaps he managed to get a picture of his attacker... Dumbledore opens the camera. A JET OF STEAM HISSES forth. PROFESSOR McGONAGALL What does this mean, Albus?
+albus dumbledore: It means our students are in great danger, Minerva. Mr. Creevey was fortunate. If not for this... (holding up the camera) He would surely be dead.
+environment: A. (3) 67
+environment: PROFESSOR McGONAGALL What sould I tell the staff, Albus?
+albus dumbledore: Tell them the truth. Tell them Hogwarts is no longer safe. Tell them it's as we feared. The Chamber of Secrets is indeed open again.
+environment: 68A EXT. GIRLS BATHROOM 68A We PAN SLOWLY FROM the defiled wall to the bathroom door. 63. 69 INT. GIRLS BATHROOM - DAY 69 A gloomy place. Cracked mirrors. Chipped sinks. Guttering candles. Harry and Ron huddle over a SMALL, BUBBLING CAULDRON, as Hermione adds STRANGE INGREDIENTS.
+hermione: Again? You mean, the Chamber of Secrets has been opened before?
+ron: Of course! Don't you see? Lucius Malfoy must've opened it when he was at school here, and now he's told Draco how to do it.
+hermione: Maybe. We'll have to wait for the Polyjuice Potion to know for sure.
+ron: Enlighten me. Why are we brewing this potion in broad daylight, in the middle of a girls' lavatory? Don't you think we'll get caught?
+hermione: Never. No one over comes in here.
+ron: Why?
+hermione: Moaning Myrtle.
+ron: Who's Moaning Myrtle? There is a LOUD, PIERCING SCREECH, and the GHOST OF A YOUNG GIRL COMES RACING OUT OF THE WALL. FACE TO FACE with Ron.
+albus dumbledore: About time too. He's been looking dreadful for days. Pity you had to see him on a Burning Day. He's really very handsome most of the time. (off Harry's look) Fawkes is a phoenix, Harry. Phoenixes burst into flame when it is time for them to die and are reborn from the ashes. Harry looks to the floor. The ASHES swirl. A baby Fawkes pokes out his wrinkled head, blinking through the dust.
+albus dumbledore: Fascinating creatures, phoenixes. They can carry immensely heavy loads, their tears have healing powers, and they make highly faithful pets. Just then, Hagrid -- still clutching the dead rooster -- BURSTS through the door.
+hagrid: It wasn't Harry, Professor Dumbledore!
+environment: . (2) 77 DUMBLEDORE
+albus dumbledore: Hagrid --
+hagrid: I was talkin' ter 'im jus' before that kid was found. It can't've bin 'im!
+albus dumbledore: Hagrid --
+hagrid: I'll swear ter it in front o' the Ministry o' Magic --
+albus dumbledore: HAGRID! I do not think that Harry has attacked anyone.
+hagrid: Oh. Right. I'll wait outside then. As Hagrid exits, Harry looks hopefully at Dumbledore.
+harry: You don't think it was me, Professor?
+albus dumbledore: No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all? Dumbledore waits. Harry debates. Finally...
+harry: No, Professor. Nothing. 78 EXT. HOGWARTS CASTLE - DAY 78 Students drift into the snow with their trunks, heading home for holiday. As Harry, Ron, and Hermione appear, Ernie and few others cast wary glances.
+environment: . 78 RON
+ron: Oh, c'mon, Harry. Fred's just having a laugh.
+harry: He's the only one.
+ron: Okay, so half the school thinks you're nipping off to the Chamber of Secrets every night. Who cares?
+harry: Maybe they're right.
+hermione: (reproachfully) Harry!
+harry: (frustrated) I didn't know I could speak Parseltongue. What else don't I know about myself? Maybe you can do something... even something horrible... and not know you did it.
+hermione: You don't believe that, Harry, I know you don't. And if it makes you feel better, I just heard Malfoy's staying over for holiday, too.
+albus dumbledore: It's not wise to be wandering around this late, Tom.
+environment: . 97 TOM RIDDLE
+tom riddle: Yes, Professor. I suppose I -- I just had to see for myself, if... Riddle glances toward the young wizards, watches them carry the stretcher out of the Hall, into the night.
+tom riddle: ... the rumors were true.
+albus dumbledore: I'm afraid they are, Tom.
+tom riddle: About the school as well? They wouldn't really close Hogwarts, would they, Professor?
+albus dumbledore: Headmaster Dippet may have no choice, I'm afraid.
+tom riddle: Sir? If it all stopped. If the person responsible was caught...
+albus dumbledore: Is there something you wish to tell me, Tom?
+tom riddle: (a long beat) No, sir. Nothing. Dumbledore studies Riddle for a moment.
+albus dumbledore: Very well then. Hurry along. Dumbledore strides directly past Harry, not seeing him. When he is gone, Riddle moves quickly, toward the dungeon steps.
+environment: &amp; &amp;
+environment: 100 INT. CORRIDOR - DUNGEONS - NIGHT (MOMENTS LATER) 100 Up ahead, a SPLINTER of LIGHT leaks through a DOOR. Riddle puts his eye to the crack. Inside, someone is SPEAKING.
+environment: . 100
+environment: VOICE (O.S.) C'mon, Aragog. Gotta get yeh outta here... C'mon now.. in the box... As Riddle pushes the door clear, Harry sees a second, smaller room. Crouched by a BOX, is a huge boy... YOUNG HAGRID. A STRANGE CLICKING comes from the BOX.
+tom riddle: Evening, Hagrid. Hagrid SLAMS the door shut.
+tom riddle: I'm going to have to turn you in, Hagrid. I don't think you meant it to kill anyone --
+hagrid: No, yeh can't! Yeh don' understand!
+tom riddle: Hagrid. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure the thing that killed their daughter is slaughtered.
+hagrid: It wasn' him! Aragog never'd kill no one! Never!
+tom riddle: Monsters don't make good pets, Hagrid. Now... stand aside... Riddle draws his wand, BLASTS the closed DOOR off its hinges, extinguishing the torches within. Harry GASPS. A low-slung CREATURE with a tangle of black legs, a gleam of many eyes and a pair of razor-sharp pincers, scuttles out of the shadows. As Riddle points his wand at it, Hagrid LEAPS...
+albus dumbledore: Good evening, Hagrid.
+environment: 100. 114 RON
+ron: (whispering to Harry) That's Dad's boss! Cornelius Fudge. The Minister of Magic! Harry elbows Ron to shut him up.
+hagrid: I never... You know I never, Professor Dumbledore, sir...
+albus dumbledore: I want it understood, Cornelius, that Hagrid has my full confidence.
+hagrid: Take me? Where? Not Azkaban prison.
+hagrid: What're you doin' here! Get outta my house!
+environment: 101. (2) 114 LUCIUS MALFOY
+albus dumbledore: And what exactly did you want with me, Lucius?
+hagrid: An' how many did yeh have ter threaten before they agreed!
+hagrid: Yeh can take Dumbledore! Take him away an' the Muggle-borns won' stand a chance! There'll be killin's next!
+environment: 102. (3) 114 DUMBLEDORE
+albus dumbledore: Calm yourself, Hagrid! (steely-eyed) If the governors want my removal, Lucius, I shall of course step aside. However... you will find that I will only truly have left this school when none here are loyal to me. You will also find that help will always be given at Hogwarts to those who... ask for it. Dumbledore's eyes drift -- unmistakably -- to Harry.
+hagrid: If anyone wanted ter find out some stuff, all they'd have ter do is follow the spiders. That'd lead 'em right! Tha's all I'm sayin'. Fudge stares at Hagrid in amazement, then follows him out. As the door SLAMS SHUT, FANG starts to HOWL, scratching at the closed door. Harry and Ron emerge from the cloak.
+ron: Hagrid's right. With Dumbledore gone, there'll be an attack a day.
+harry: Look... At the windowsill, a TRAIL OF SPIDERS escapes through a crack in the glass. Harry grabs Hagrid's LANTERN.
+harry: C'mon. 103.
+environment: thru thru
+environment: 119 EXT. HAGRID'S HUT - NIGHT 119 Harry illuminates the TRAIL OF SPIDERS. They run from the window to the ground, to the dark trees in the near distance. As Harry moves to follow, Ron hesitates.
+ron: What are you doing?
+harry: You heard Hagrid. Follow the spiders.
+ron: They're heading into the Dark Forest. Harry sighs, heads off. Terrified, Ron grabs Fang, follows.
+albus dumbledore: Ingenious. Simply... ingenious. (looking up) Of course, Tom Riddle was probably the most brilliant student Hogwarts has ever seen. I taught him myself fifty years ago. After he left, I would occasionally hear stories of his activities -- dark rumors -- but after awhile, even the rumors stopped. When he finally resurfaced as Lord Voldemort, most people had completely forgotten the clever Head Boy he'd once been.
+environment: . 135
+environment: Hearing this, Harry frowns in thought, recollecting...
+albus dumbledore: Wiser wizards than you have been hoodwinked by Lord Voldemort, Miss Weasley. No, I think you've endured enough. I would suggest a bit of bed rest, however. And perhaps a large mug of hot chocolate. I always find that cheers me up. Minerva, will you show Arthur and Molly up to the hospital wing? PROFESSOR McGONAGALL Certainly, Albus. As they exit, Harry and Ron watch them go. Mrs. Weasley's VOICE carries
+albus dumbledore: You two realize, of course, that in the last few hours, you have broken perhaps a dozen school rules?
+harry: Yes, sir.
+ron: Yes, sir.
+albus dumbledore: And that there is sufficient evidence to expel you both?
+harry: Yes, sir.
+ron: Yes, sir.
+environment: A. (1A) 135 DUMBLEDORE
+albus dumbledore: Therefore, it seems only fitting... (eyes twinkling) That you both receive Special Awards for Services to the School. And -- let me see -- yes, I think two hundred points apiece, which, I believe, should be more than enough to secure Gryffindor the House Cup.
+environment: . (2) 135 HARRY/RON
+harry: (grinning) Thank you, sir.
+ron: (grinning) Thank you, sir.
+albus dumbledore: Now, Mr. Weasley, if you would, have an owl deliver these release papers to Azkaban. We need our gamekeeper back. Ron nods, takes the envelope and exits.
+albus dumbledore: First, Harry, I want to thank you. You must have shown me real loyalty down in the Chamber. Nothing but that could have called Fawkes to you. Secondly, I sense you're troubled by something. Am I right?
+harry: It's just, you see, sir, I couldn't help noticing certain things. Certain similarities. Between Tom Riddle and me.
+environment: . (3) 135 DUMBLEDORE
+albus dumbledore: You can speak Parseltongue, Harry, because Lord Voldemort can speak Parseltongue. Unless I'm much mistaken, he transformed some of his own powers to you the night he gave you that scar.
+harry: Voldemort put a bit of himself in me?
+albus dumbledore: Not intentionally, but... yes.
+harry: So the Sorting Hat was right. I should be a Slytherin.
+albus dumbledore: It's true, Harry. You do possess many of the qualities Voldemort himself prizes. Resourcefulness. Determination. A certain disregard for the rules. Yet the Sorting Hat placed you in Gryffindor.
+harry: Only because I asked it to.
+albus dumbledore: Exactly. Which makes you very different from Voldemort. It's not our abilities that show what we truly are, Harry. It's our choices. (smiling at him) If you want proof that you belong in Gryffindor, Harry, I suggest you look more closely at this. Dumbledore hands the bloodstained sword to Harry. An ENGRAVED NAME glimmers above the ruby-encrusted hilt.
+harry: 'Godric Gryffindor.'
+albus dumbledore: Only a true Gryffindor could have pulled that out of the Hat. . (4) 135
+environment: Suddenly, Lucius Malfoy enters, dragging... Dobby by the ear.
+harry: Dobby! This is your Master? The family you serve is the Malfoys! Dobby nods, chagrined. Lucius Malfoy brushes past Harry.
+albus dumbledore: Yes. When the governors heard that Arthur Weasley's daughter had been taken into the Chamber, they saw fit to summon me back. (a wry smile) Curiously, several of them seemed under the impression that you would curse their families if they didn't agree to suspend me in the first place, Lucius.
+albus dumbledore: Oh yes. It was Voldemort. Only this time, he chose to act through someone else. By means of... this. As Dumbledore nudges the diary toward Lucius Malfoy, Harry sees Dobby nod meaningfully from the diary to Lucius.
+albus dumbledore: Fortunately, our young Mr. Potter discovered it. (a chill to his voice) One only hopes that no more of Lord Voldemort's old school things find their way into innocent hands. The consequences for the one responsible could be... severe.
+environment: . (5) 135
+environment: Lucius Malfoy stares icily at Dumbledore, then turns away.
+harry: Sir? I wonder if I could have that. Dumbledore looks up, follows Harry's eyes to the diary. 135A EXT. DUMBLEDORE'S OFFICE - DAY (MOMENTS LATER) 135A As the elevator opens, Harry dashes out.
+harry: Mr. Malfoy! I have something of yours. Harry comes up running, thrusts the diary into Malfoy's hand.
+harry: I think you do, sir. I think you slipped it into Ginny Weasley's cauldron that day in Diagon Alley. Malfoy shoves the diary into Dobby's face, then leans close to Harry and, with a nasty grin, WHISPERS
+environment: . 135A DOBBY
+albus dumbledore: Before we begin our feast, let's give a round of applause to Professor Sprout and Madame Pomfrey, whose Mandrake Juice has been successfully administered to all those who had been petrified. Everyone applauds.
+albus dumbledore: Also, in the wake of recent events, as a school treat, all exams have been cancelled. Everyone cheers, save for Hermione.
+hermione: Oh, no! At the rear of the Hall, the great doors OPEN. It's Hagrid. He enters. Stops. Looks around. The room falls SILENT. All eyes upon him. He glances around. Nervous. Embarrassed.
+hagrid: Sorry I'm late. The owl deliverin' my release papers got all lost 'n confused. Some ruddy bird named Errol.
+environment: . (2) 137
+environment: Ron exchanges a nervous glance with Dumbledore. Hagrid looks at all of the faces staring at him. He turns to Harry.
+hagrid: I jus' want to say... that if it wasn't fer' you, Harry... you an' Ron... and Hermione... Well, I jus' want to say... Thanks.
+harry: There's no Hogwarts without you, Hagrid. Just then... Dumbledore gets to his feet and... slowly... brings his hands together. The others join him. Soon, everyone is on their feet and the Hall ROARING. As the students surround Hagrid, he blinks, wipes at his eyes, and... CAMERA PULLS BACK, THROUGH the window, leaving the celebration. WE CONTINUE TO CRANE BACK... BACK... TO a WIDE SHOT OF HOGWARTS... glittering gloriously in the night. FADE TO BLACK.
+albus dumbledore: welcome! welcome to another year at hogwarts! i have a few things to say, before we become befuddled by our excellent feast. i myself am particularly looking forward to the flaming kiwi cups, which, while somewhat treacherous for those of us with facial hair... mcgonagall clears her throat.
+albus dumbledore: as some of you may know, professor kettleburn, our care of magical creatures teacher for many years, has decided to retire in order to spend more time with his remaining limbs. fortunately, i'm delighted to announce that his place will be filled by none other than our own rubeus hagrid!
+environment: harry, ron, and hermione stare at each other -- stunned -- then applaud vigorously. hagrid turns ruby red, rises, and nearly topples the staff table, sending water goblets weaving.
+albus dumbledore: the dementors will be stationed at the entrances to the grounds. while they are under strict orders not to enter the castle itself, you will on occasion see them as you go about your daily activities. under no circumstances are you to approach them. it is not in the nature of a dementor to be forgiving.
+environment: harry, ron and hermione arrive at the seventh floor landing and approach the fat lady in the portrait.
+environment: the gryffindors trail through the common room, the girls heading one way, boys the other.
+ron: good to be home, eh, harry? harry turns -- caught -- and finds ron studying him from his own bed, scabbers cradled in his hand. harry nods and turns to the window..
+environment: harry continues to stare.
+environment: as bridge and castle glimmer in the distance, hagrid emerges from the forbidden forest, dragging a fistful of dead ferrets by the tail. a bird appears, circles his head playfully, chirp-chirp-chirping merrily before it... ... flutters off, pin-wheeling past flowers, into a birdbath, finally coming to rest upon... ... an ancient tree. it twitters cheerfully, singing its lovely song, when -- thwock! -- a branch punts the bird into the air. as feathers fly, the whomping willow resumes its shape.
+environment: harry, ron and hermione sit on fat little pouffes in a murky, incense-laden room, along with neville, dean, seamus, lavender brown, parvati patil and others.
+ron: where'd you come from?
+albus dumbledore: mr. filch. round up the ghosts. tell them to search every painting in the castle for the fat lady.
+environment: just then, there is a scream. the students dash to the landing, where all the paintings whisper fearfully. filch's rheumy eyes peer up, searching the upper shadows, then... narrow.
+albus dumbledore: dear lady. who did this to you?
+albus dumbledore: secure the castle, mr. filch. the rest of you... to the great hall.
+environment: camera drifts through the silent room, over an ocean of sleeping bags, finds harry lying awake, staring at the net of stars glimmering beyond the highest window.
+environment: a gentle creak is heard and harry's eyes shift, see snape pass through the great doors, converge with dumbledore.
+albus dumbledore: (nodding) i didn't really expect him to linger.
+snape: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+albus dumbledore: no... i feel quite confident the castle is safe. and i'm more than willing to let the students return to their houses. but tomorrow. for now, let them sleep... as dumbledore's gaze finds harry, he shuts his eyes, feigns sleep.
+environment: the whomping willow idly casts off a few withering leaves.
+environment: the fat lady has been replaced by a painting of a tiny knight (sir cadogan). stalking a bare stretch of grass as his pony grazes nearby, he brandishes his sword wildly as a group of gryffindors regard him warily.
+ron: yeah, we'll call you... if we ever need someone mental.
+environment: snap! snape pulls down a screen over the blackboard, turns.
+harry: excuse me, sir, but... where's professor lupin?
+ron: werewolves?
+snape: quiet!
+snape: now. which of you can tell me the difference between an animagus and a werewolf? as the class stares mutely at a slide of an attacking werewolf, hermione waiting desperately for someone to respond to snape's question, the moth flutters by harry.
+albus dumbledore: sir cadogan. is it possible that you let a mysterious man enter gryffindor tower tonight?
+harry: he was right there. close enough to touch. i could've killed him.
+ron: i find it astonishing that someone who prides herself on being so logical can be in such denial.
+ron: harry was there! he'll tell you how it was. go on, harry, tell her.
+ron: really? wasn't you had to roll under the bed last night to avoid getting cut to ribbons! a person could die being your friend, harry! ron stops, wishes he could take it back. they all wish he could. avoiding each other's eyes, they turn, continue on.
+hermione: how'd it go, hagrid?
+hermione: i meant the hearing.
+hermione: (dreading it) and...? hagrid slings another rock into water.
+ron: draco. it's him the committee should punish. it's him they should send off to the forest, not buckbeak.
+hermione: (dreading the answer) where's he going, hagrid?
+albus dumbledore: i do, miss granger. but i'm sorry to say the word of three thirteen- year-old wizards will convince few others. a child's voice, however honest and true, is meaningless to those who have forgotten how to listen. as dumbledore turns to the window, a shooting star plummets silently through the sky.
+albus dumbledore: by the way, when in doubt, i find retracing my steps to be a wise place to begin... good luck. he smiles, exits. harry glances curiously at the chocolate.
+hermione: sorry, ron. but seeing as you can't walk... as ron and harry exchange a curious glance, the bell continues to chime -- ding! ding! -- and...
+hermione: seven-thirty. where were we at seven-thirty?
+hermione: come on! we can't be seen! hermione grabs harry's arm, slams through the door.
+harry: hermione! will you please tell me what it is we're doing?! she holds up a hand, silencing him. annoyed, harry follows her gaze and blinks in disbelief. across the grounds...
+harry: but that... that's... us. this is not... normal.
+hermione: this is a time-turner, harry. mcgonagall gave it to me first term. this is how i've been getting to my lessons all year.
+hermione: yes. dumbledore wanted us to return to this moment. clearly something happened he wants us to change.
+environment: a soft smack is heard. they turn, see malfoy land on the seat of his pants in the sundial garden, rub his kisser.
+hermione: hurry! malfoy's coming! hermione pulls harry under the bridge. seconds later, footsteps clamor over their heads.
+albus dumbledore: professor dippet had those blackberries planted when he was headmaster... harry and hermione shoo buckbeak along, disappear into the forest... just as dumbledore concludes his reverie.
+albus dumbledore: (a hint of amusement) how extraordinary!
+hagrid: professor, i swear! i didn't!
+harry: now what?
+harry: and we do that... how?
+environment: subjective pov, gliding through a thicket of trees, to the forest's edge, the trees thinning, revealing...
+harry: wait until fred and george hear about that one.
+harry: and now we wait.
+hermione: 'least someone's enjoying himself. harry and hermione sit together in the lengthening shadows. harry snaps off a piece of chocolate, hands it to hermione.
+hermione: yes?
+albus dumbledore: by the way, when in doubt, i always find retracing my steps to be a wise place to begin... good luck. as dumbledore begins to close the door, harry and hermione stumble frantically forward, the door about to hit the jamb, when... suddenly... dumbledore stops. looks up.
+harry: he's free -- sirius. we... we did it.
+environment: ... they catch the faintest glimpse of... themselves... across the room... just as they evaporate. ron blinks. turns. frowns.
+hermione: what d'you think, harry? too much for him -- everything that's happened tonight?
+environment: the whomping willow sways in a light breeze. the black lake shimmers, clouds drifting in its glassy mirror.

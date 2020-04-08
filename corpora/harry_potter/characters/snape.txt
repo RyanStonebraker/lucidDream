@@ -1,0 +1,160 @@
+snape:  There will be no foolish wand waving or silly incantations in this class. As such, I don't expect many of you to enjoy the subtle science and exact art that is potion making. However, for those select few {looks at Draco, who smiles}, who possess the predisposition, I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory and even put a stopper {Draco looks on} in death. {Draco raises his eyebrows.} {Snape sees Harry, writing this down, in, his view, not paying attention.} Then again, maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confidant enough to not...pay...attention.
+environment: Hermione nudges Harry in the ribs. He looks up.
+snape:  Mr. Potter. Our...new...celebrity. Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood? {Hermione's hand skyrockets. Harry shrugs.} You don't know? Well, let's try again. Where, Mr. Potter, would you look if I asked you to find me a bezoar? {Hermione's hand shoots up again.}
+harry:  I don't know, Sir.
+snape:  And what is the difference between Monkshood and Wolfbane?
+harry:  I don't know, Sir.
+snape:  Pity. Clearly, fame isn't everything, is it, Mr. Potter?
+environment:  In the great hall, probably midday. The students are all working on homework.
+environment: Seamus is trying a spell on a cup.
+harry:  What's Seamus trying to do to that glass of water?
+ron:  Turn it into rum. Actually managed a weak tea yesterday, before...
+environment: ZAPOOF! The cup explodes. There is laughter amongst the students. Suddenly, a flock of owls start coming into the hall from the rafters above.
+ron:  Ah. Mail's here!
+environment: The owls soar by, dropping parcels to students. Harry gets nothing. He sees the newspaper Ron has put down.
+harry:  Can I borrow this? {Ron nods} Thanks.
+environment: Neville is unwrapping a gift. It is a clear ball with gold around it.
+snape:  Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin. {Leaves, limping.}
+harry:  That explains the blood.
+hermione:  Blood?
+harry:  Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that 3 headed dog. But, he got himself bitten, that's why he's limping.
+hermione:  But why would anyone go near that dog?
+harry:  The day I was at Gringotts, Hagrid took something out of one of the vaults. He said it was Hogwarts' business, very secret.
+hermione:  So you're saying...
+harry:  That's what the dog's guarding. That's what Snape wants.
+environment: {An owl screeches. It is Hedwig. She is carrying a very large, long parcel. She drops it off.}
+hermione:  Bit early for mail, isn't it?
+harry:  But I-I never get mail.
+snape:  What? Oh! {knocks the man back, who falls into Quirrell, who then also falls. Snape bats out the fire and acts as though nothing happened. The broom stop bucking, and Harry climbs back on. The Slytherin seeker is after the Snitch. Harry takes off.}
+ron:  Go!
+hagrid:  Go go go!
+environment: Harry rams the Slytherin Seeker, then is butted out. He returns, smashing the Seeker again as the Snitch dives. The boys follow, but they approach the ground quickly. The Slytherin Seeker backs out, and Harry pulls up his broom as he follows the Snitch, feet above the ground. Harry stands up, and steps forward, trying to grab the ball. He goes too far, and topples off the broom with a yelp, tumbling on the ground. He gets up and lurches.
+environment: The crowd gasps. Hermione appears beside a tower to see.
+hagrid:  Looks like he's gonna be sick!
+environment: Harry lurches and the Snitch pops out of his mouth. It lands in his hands.
+snape:  You don't want me as your enemy, Quirrell.
+snape:  You know perfectly well what I mean. {Snape senses something. Harry stops breathing. Snape reaches out to grab something, but doesn't. He whips his finger back in front of Quirrell's face.} We'll have another chat soon...when you've had time to decide where your loyalties lie.
+environment: Filch appears, carrying the broken lamp.
+environment: They all dart off. A door opens, and closes. On the other side, there is a vast, empty room that has a large mirror in the center. Harry appears and walks over to the mirror. In it, he sees two people appear.
+harry:  Mum? {the woman nods and smiles} Dad? {nods and smiles. Harry reaches out to touch them, but only gets the mirror. Then, his mother puts her hand on his shoulder. He puts his own hand on his own shoulders, as if trying to feel her there.
+environment: The boys' room. Harry comes whipping in, invisible.
+harry:  Ron! You've really got to see this! Ron! You've got to see this! {pulls back covers. Ron wakes up.} Ron, Ron, come on. Get out of bed!
+ron:  Why?
+harry:  There's something you've got to see. Now, come on!
+environment: Back in the mirror room. Harry and Ron appear as if magically and Harry runs to the mirror.
+harry:  Come on. Come. Come look, it's my parents!
+snape:  Good afternoon. Now, what would three young Gryffindors such as yourselves be doing inside on a day like this?
+hermione:  Uh...we were just...
+snape:  You want to be careful. People will think you're {Harry glares madly at Snape, who looks shocked} up to something. {Exit.}
+hermione:  Now what do we do?
+harry:  We go down the trapdoor. Tonight.
+environment:  Nighttime. In the Gryffindor Common Room. The three friends come down the stairs and begin to walk across the floor. They stop when they hear croaking.
+harry:  Trevor.
+ron:  Trevor shh! Go, you shouldn't be here!
+harry:  Now, Neville, listen. We were
+hermione:  Neville, I'm really, really sorry about this...{takes out wand} Petrificus Totalus.
+environment: Neville is frozen and falls backwards onto the ground. Hermione puts her wand back.
+snape: You were seen! By no less then seven Muggles. Do you have any idea how serious this is? You have risked the exposure of our world. Not to mention the damage you inflicted on a Whomping Willow that has been on these grounds for hundreds of years.
+ron: Honestly, Professor Snape, I think it did more damage to us.
+snape: Silence! I assure you, were you in Slytherin and your fate rested with me, the both of you would be on the train home tonight. As it is --
+albus dumbledore: They are not. Harry and Ron turn. ALBUS DUMBLEDORE stands in the doorway. Alongside him is a distinctly annoyed PROFESSOR McGONAGALL.
+harry: Professor Dumbledore. Professor McGonagall...
+snape: Headmaster, these boys have flouted the Decree for the Restriction of Underage Wizardry. As such...
+albus dumbledore: I'm well aware of our bylaws, Severus, having written more than a few myself. However, as Head of Gryffindor House, it is for Professor McGonagall to determine the appropriate action.
+ron: (rising gloomily) We'll go and get our stuff. PROFESSOR McGONAGALL What are you talking about, Mr. Weasley?
+environment: . (2) 37 RON
+ron: Well, you're going to expel us, aren't you? PROFESSOR McGONAGALL Not today, Mr. Weasley. But I must impress upon both of you the seriousness of what you have done. I will be sending owls to both of your families tonight. And you will each get a detention. Snape casts a look of pure venom at Harry and Ron.
+albus dumbledore: Splendid. Now, I suggest we return to the feast. There's a delicious-looking custard tart I want to sample. Rising, Harry spies an ENVELOPE on the floor. Taking it, he reads the back "KWIKSPELL. A CORRESPONDENCE COURSE IN BEGINNER'S MAGIC." It's addressed to "MR. ARGUS FILCH."
+harry: Mr. Filch. You dropped this... Filch turns, eyes the envelope with embarrassment, then snatches it from Harry's hand and stuffs it into his pocket.
+environment: 39 EXT. HOGWARTS CASTLE - MORNING 39 The Whomping Willow sulks in the courtyard, SLINGS strung about its injured branches. CAMERA CRANES OVER the castle walls, REVEALING the exterior of GREENHOUSE THREE, where students hurry inside for the beginning of class. 40 INT. GREENHOUSE THREE - MORNING 40 As Harry and Ron enter, SEAMUS, NEVILLE and some of the other Gryffindors hover nearby.
+environment: 35. 40 HERMIONE
+snape: If I might, Headmaster... The others turn, watch Snape separate from the shadows.
+snape: Perhaps Potter and his friends were simply in the wrong place at the wrong time... Could Snape be defending Harry and the others blink. them?
+snape: However, the circumstances are suspicious. I, for one, don't recall seeing Potter at dinner.
+hermione: That's why Ron and I went looking for him, Professor. We'd just found him when Harry said...
+snape: (raising an eyebrow) Yes, Miss Granger?
+harry: When I said I wasn't hungry. We were heading back to the Common Room and... found Mrs. Norris. Snape eyes Harry coldly, knowing he's lying. Harry looks away... and finds Dumbledore studying him as well.
+albus dumbledore: Innocent until proven guilty.
+environment: . (4) 59 DUMBLEDORE
+albus dumbledore: We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth of Mandrakes. When they have matured, a potion will be made which will revive Mrs. Norris. In the meantime, I advise caution. To all.
+environment: 60A INT. CORRIDOR - NIGHT (A BIT LATER) 60A Harry, Ron and Hermione walk down the corridor.
+ron: A Squib's someone who's born into a wizarding family but hasn't got any powers of their own. It's why Filch is trying to learn magic from a Kwikspell course. It's also why he hates students so much. He's bitter. Hermione, who's only been half-listening -- as if trying to unravel something in her mind -- speaks then.
+hermione: Harry. This voice. You said you heard it first in Lockhart's office?
+harry: Yes.
+hermione: And did he hear it?
+snape: Expelliarmus! A dazzling flash of SCARLET LIGHT bursts forth and BLASTS Lockhart off his feet and into the wall behind.
+hermione: Do you think he's all right?
+harry: Who cares?
+ron: Who cares?
+snape: Perhaps it would be prudent to first teach the students to block unfriendly spells, Professor.
+environment: 66. (2) 70 GILDEROY LOCKHART
+snape: Weasley's wand causes devastation with the simplest spells. We'll be sending Potter to the hospital wing in a matchbox. Might I suggest someone from my own house. Malfoy, perhaps. Malfoy and Harry eye each other malevolently as they take their places onstage. Grudgingly, they bow to each other.
+harry: You wish. They turn, walk ten paces, then WHIRL, wands poised.
+harry: Rictusempra! A jet of SILVER LIGHT hits Malfoy dead in the stomach. He doubles up, WHEEZING.
+environment: 67. (3) 70 SNAPE
+snape: Don't move, Potter. I'll get rid of it for you.
+harry: (in Parseltongue) Leave him! The snake looks into Harry's eyes, then turns for Justin.
+harry: (in Parseltongue) LEAVE HIM! The snake hovers a moment more, then -- miraculously -- slumps to the floor. Harry blinks, as if coming out of a trance, grins curiously at the snake, and offers his hand to Justin.
+ron: (taking Harry's arm) Come on. Move. Now. 71 INT. GRYFFINDOR COMMON ROOM - DAY (LATER) 71 Ron and Hermione usher Harry inside. Harry glances up, sees Ginny Weasley staring down at him from the top of the stairs. As their eyes meet, she turns for the girls' dormitory.
+ron: You're a Parselmouth! Why didn't you tell us?
+environment: 68. 71 HARRY
+harry: I'm a what?
+hermione: You can talk to snakes.
+harry: I know. I mean, I accidentally set a python on my cousin Dudley at the zoo once. But so what? I bet loads of people here can do it.
+snape: Just the man. A girl has been snatched by the monster, Lockhart. Your moment has come at last.
+snape: Weren't you saying just last night that you've known all along where the entrance to the Chamber of Secrets is?
+environment: . 125 GILDEROY LOCKHART
+ron: She knew something, Harry. She'd found out something about the Chamber of Secrets. That's why she was taken. I mean, she was -- is -- a pure-blood. There can't be any other reason.
+harry: (pulling him away) C'mon. Let's go see Lockhart. He may be a brainless git, but he's going to try and get into the Chamber. We can tell him what we know...
+ron: Harry. D'you think there's any chance at all she's not, you know -- Harry glances over, studies Ron's tortured eyes.
+harry: We'll find her, Ron. Ginny's going to be fine.
+environment: /114. 126
+environment: Ron nods, smiles shakily, and looks away. As he does, Harry's face changes, looks troubled. Even he doesn't believe what he's just said.
+snape: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+albus dumbledore: no... i feel quite confident the castle is safe. and i'm more than willing to let the students return to their houses. but tomorrow. for now, let them sleep... as dumbledore's gaze finds harry, he shuts his eyes, feigns sleep.
+environment: the whomping willow idly casts off a few withering leaves.
+environment: the fat lady has been replaced by a painting of a tiny knight (sir cadogan). stalking a bare stretch of grass as his pony grazes nearby, he brandishes his sword wildly as a group of gryffindors regard him warily.
+ron: yeah, we'll call you... if we ever need someone mental.
+environment: snap! snape pulls down a screen over the blackboard, turns.
+harry: excuse me, sir, but... where's professor lupin?
+ron: werewolves?
+snape: quiet!
+snape: now. which of you can tell me the difference between an animagus and a werewolf? as the class stares mutely at a slide of an attacking werewolf, hermione waiting desperately for someone to respond to snape's question, the moth flutters by harry.
+environment: swat! he pins it to his desk. a tiny cloud of moth dust mushrooms into the air and harry lifts his palm. malfoy's parchment has reappeared.
+hermione: please, sir, an animagus is a wizard who elects to turn into an animal. a werewolf has no choice in the matter. furthermore, the werewolf actively hunts humans and responds only to the call of its own kind -- malfoy lets out a low howl.
+ron: (to harry) he's got a point, you know. harry stares at the parchment. malfoy has drawn a crude caricature of harry in his quidditch robes being struck by lightning over and over.
+snape: not exactly picasso, are you? i hope you demonstrate more talent on the quidditch pitch this weekend then you do as an artist.
+environment: if not, i fear you'll perish, given the weather forecast. until that time, however, you'll forgive me if i don't let you off homework. should you die, i assure you... you need not hand it in. as snape turns away, malfoy sniggers with crabbe, coyle and pike. harry glances down at the drawing once more and we hear a true rumble of thunder and --
+harry: faster! come on! the trace of a smile forms on harry's lips as he closes on the snitch... only yards away... reaching out... when...
+environment: ... a thin glaze of ice clouds his glasses. he wipes at them, then flinches: blood trickles down his cheek. the rain is turning to needles. needles of ice. harry glances at the handle of his broomstick. the water sluicing through the grain is freezing. vapor streams from his mouth and nose. swoosh! a dark silhouette passes on his right. he turns. swoosh! -- a twin silhouette passes on his left. harry sees neither. looks down. the layers of mist are parting below. lightning strikes. reveals: an army of silhouettes drifting onto the pitch. a vast legion of them...
+hermione: no!!! harry and broom tumble in opposite directions. the nimbus soars end over end, tossed by the currents, then drops... right into the whomping willow. floomph! harry, in freefall, drops through one cloud, then another. plummeting through the circling dementors. then... a tall figure rises from the crowd. raises an open hand to the heavens. eyes angry but clear. dumbledore. an explosion -- more powerful than thunder -- rocks the air. a flash -- more fierce than lightning -- shocks the sky. and then...
+ron: looks a bit peaky, doesn't he?
+hermione: harry! how're you feeling?
+harry: brilliant.
+harry: what happened?
+snape: turn out your pockets! finally, harry obliges. seeing the map, snape's eyes glitter.
+harry: spare bit of parchment...
+snape: read it.
+snape: go on.
+snape: (smile drooping) why you insolent little --
+snape: well, well. lupin. out for a little walk in the moonlight, are we?
+snape: that remains to be seen. i've just now confiscated a rather curious artifact from mr. potter. take a look, lupin. this is supposed to be your area of expertise. lupin takes the parchment, which now displays a rather unflattering caricature of snape and a pair of potions.
+harry: professor. just so you know, i don't think the map always works. earlier, it showed someone in the castle. someone i know to be dead.
+harry: peter pettigrew. lupin hesitates ever-so-slightly, then returns to his papers.
+environment: the students gaze into crystal balls, faces reflecting the mist within, so that their very skin seems to be made of smoke. conspicuously, harry, ron and hermione sit apart.
+hermione: here we go again. it's the grim! it's the grim!
+environment: as the students exit, ron, walking separately from harry, turns to neville.
+snape: (eying black) ah, vengeance is sweet. how i hoped i'd be the one to catch you.
+snape: i told dumbledore you were helping your old friend into the castle. and here's the proof.
+snape: give me a reason. i beg you.
+snape: (clucking his tongue) listen to you two. quarreling like an old married couple. the creature and the criminal.
+snape: witty as ever i see. tell me, will you be so irreverent when i turn you over to the dementors? (as black reacts) do i detect a flicker of fear? one can only imagine what it must be like to endure the dementor's kiss. it's said to be unbearable to witness. but i'll do my best. snape's eyes harden. he gestures to the door.
+harry: expelliarmus! snape soars into the air, hits the wall with a thud, and slides down. ron and hermione stare in shock.
+harry: you said peter before. peter who?
+harry: he killed no. pettigrew's dead. him. as harry points at black, black laughs mirthlessly.
+harry: the map was lying then --
+ron: m-me? it's lunatic...
+ron: scabbers? scabbers has been in my family for --
+ron: so what?
+environment: harry stares into black's sunken eyes. wanting to believe. desperate to believe. glances at ron, his agonized face. scabbers squirms violently.
+ron: what are you going to do to him? sirius and lupin exchange a glance.

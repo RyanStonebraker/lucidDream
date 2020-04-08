@@ -1,0 +1,953 @@
+hermione:  Has anyone seen a toad? A boy named Neville's lost one.
+ron:  No.
+hermione:  Oh, are you doing magic? Let's see then.
+ron:  Aghhhemm. Sunshine, daises, butter mellow, turn this stupid fat rat yellow!
+environment: {Zap. Nothing happens. Ron shrugs.}
+hermione:  Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example...{Hermione goes over and sits across from Harry. He points her hand at his glasses and Harry tenses} Oculus Reparo. {The glasses, which noseband is battered, are repaired. Harry takes them off, amazed.} That's better, isn't it? Holy Cricket, you're Harry Potter. I'm Hermione Granger...and you are...?
+ron:  {full mouth} I'm...Ron Weasley.
+hermione:  Pleasure. You two better change into your robes. I expect we'll be arriving soon. {Gets up and leaves, then comes back and looks at Ron.} You've got dirt, on your nose, by the way, did you know? Just there. {Points} {Ron scratches his nose, embarrassed.}
+environment:  Darkness, the train blows its whistle and pulls into an outdoor station. Hagrid walks along the side aisle, with a lantern. People begin pouring out of the train.
+hagrid:  Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!
+environment: Harry and Ron walk up to Hagrid.
+hagrid:  Hello, Harry.
+harry:  Hey, Hagrid.
+ron:  Whoaa!
+hagrid:  Right then. This way to the boats! Come on, now, follow me.
+environment: A number of boats are plugging across a vast lake, where up ahead a huge castle can be seen. People are in awe.
+ron:  Wicked.
+environment:  On a higher level, Professor McGonagall is waiting. She raps her fingers on a stone railing, and then goes to the top of the stairs to greet the newcomers.
+hermione:  It's not real, the ceiling. It's just bewitched to look like the night sky. I read about it in Hogwarts: A History.
+environment: Dumbledore rises from the main table.
+albus dumbledore:  I have a few start of term notices I wish to announce. The first years please note that the dark forest is strictly forbidden to all students. Also, our caretaker, Mr. Filch {signals to ragged old man with a cat with red eyes} has asked me to remind you that the 3rd floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you.
+hermione:  Oh, no. Okay, relax. {She goes up}
+ron:  Mental that one, I'm telling you.
+environment: Harry nods in agreement.
+environment: Sorting Hat: Ah, right then...hmm...right. Okay...Gryffindor!!
+environment: (Cheering)
+environment: Hermione jumps off with a smile.
+environment: Draco saunters up proudly. The tattered hat nearly freaks before touching down on Dracos head.
+environment: Sorting Hat: SLYTHERIN!
+ron:  There isn't a witch or wizard who went bad who wasnt in Slytherin.
+hermione:  Nearly headless? How can you be nearly headless?
+ron:  Ahh!
+hermione:  Eugh.
+environment: Percy is leading the Gryffindors to the staircases.
+environment: The camera pans up and we see a vast amount of staircases, people walking on them, and some switching places.
+ron:  Look at that one, Harry!
+harry:  I think she fancies you.
+hermione:  I've read about those. When the smoke turns red {the smoke turns red}, it means you've forgotten something.
+harry:  Hey, Ron, somebody broke into Gringotts. Listen, Believed to be the work of dark witches or wizards unknown, Gringotts goblins, while acknowledging the breach, insist that nothing was taken. The vault in question, number 713, had in fact been emptied earlier that same day. That's odd. That's the vault Hagrid and I went to.
+environment:  Outside, flying practice. The students, Gryffindor and Slytherin, are lined up in two rows with brooms by their sides. The teacher, MADAM HOOCH, comes down the line. She has short hair and hawk yellow eyes.
+environment: Harry's broom flies into his hand.
+harry:  Whoa. {Hermione stares as the class continues.}
+hermione:  Up. Up. Up. Up.
+ron:  Up!! {His broom flies up and conks him on the nose} Ow! {Harry laughs} Shut up, Harry. {laughs}
+environment: Neville immediately lifts off. He looks quite frightened.
+hermione:  Harry, no! You heard what Madam Hooch said! Besides, you don't even know how to fly. {Harry flies off.} What an idiot.
+environment: Harry is now in the air, across from Draco.
+harry:  Give it here, Malfoy, or I'll knock you off your broom!
+environment: Harry zooms after the ball, speeding towards a tower. Just as he is about to hit a window, from which McGonagall is working/watching, he catches it, and then heads back to the group. The students all cheer and run to see him.
+environment: Boy 2: Oh, that was wicked, Harry.
+environment:  Professor Quirrells classroom. He is inside, teaching, holding an iguana.
+hermione:  You won't make a fool of yourself. It's in your blood.
+environment:  The three approach a trophy case. Hermione points at a plaque of Quidditch players. One lists Harry's father as a Seeker.
+ron:  Whoa. Harry, you never told me your father was a Seeker, too.
+harry:  I-I didn't know.
+environment:  The three are walking up a staircase. A railing pulls in...Hermione looks, but continues walking.
+ron:  I'm telling you, it's spooky. She knows more about you than you do.
+harry:  Who doesn't?
+environment: The staircase shudders and begins to move. The three grab the railings.
+ron:  Ahh!
+hermione:  {Gasps.}
+harry:  What's happening?
+hermione:  The staircases change, remember? {The staircase stops, in a new place.}
+harry:  {taps Ron} Let's go this way.
+ron:  Before the staircase moves again. {They all open a door and walk into a spooky, dark room.}
+harry:  Does anyone feel like...we shouldn't be here?
+hermione:  We're not supposed to be here. This is the 3rd floor. It's forbidden.
+environment: Suddenly, a flame lights on a tall stone support. At that moment, the caretaker's cat, MRS. NORRIS, comes running in and meows. The group jumps.
+harry:  Let's go.
+environment: {meow}
+ron:  It's Filch's cat!
+harry:  Run!
+environment: The group runs. Flames are lit as they go. They get to the end of the corridor, to a door. Harry grabs the handle, but it's locked.
+harry:  It's locked!
+ron:  That's it, we're done for!
+hermione:  Oh, move over! {pushes through and pulls out wand} Alohomora. {The door opens.} Get in. {They bustle in.}
+ron:  Alohomora?
+hermione:  Standard book of spells, Chapter 7.
+environment: Filch appears at the start of the corridor with a light. Mrs. Norris looks at him.
+hermione:  Filch is gone.
+ron:  Probably thinks this door's locked.
+hermione:  It was locked.
+harry:  And for good reason. {Ron and Hermione turn to stand with Harry. There is a massively huge three headed dog sleeping in front of them. The dog, FLUFFY, begins to wake. It growls, yawns, and growls more...noticing the intruders.}
+environment: Back in the Gryffindor room. They are breathless.
+ron:  What do they think they're doing?? Keeping a thing like that locked up in a school.
+hermione:  You don't use your eyes, do you? Didn't you see what it was standing on?
+ron:  I wasn't looking at its feet! I was a bit preoccupied with its heads. Or maybe you didn't notice, there were three! {they begin to climb the stairs to the dorms.}
+hermione:  It was standing on a trap door. Which means it wasn't there by accident. It's guarding something.
+harry:  Guarding something?
+hermione:  That's right. Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed...or worse, expelled! {turns and leaves, shutting the door to her dorms.}
+ron:  She needs to sort out her priorities!
+environment: Harry nods.
+environment:  Outside, day time. Oliver and Harry appear, carrying a trunk. They put it down.
+harry:  {throws back} I think so. What are those? {points to two squirming chained down balls.}
+harry:  I like this ball.
+harry:  What do I do with it?
+hermione:  Stop, stop, stop. You're going to take someone's eye out. Besides, youre saying it wrong. It's Leviosa, not Leviosar.
+ron:  You do it then if you're so clever. Go on, go on.
+environment: Hermione straightens up and swishes her wand.
+hermione:  {crisply} Wingardium Leviosa. {The feather glows and lifts up. Ron puts his head on his books dejectedly.}
+environment: Seamus begins swishing at his feather.
+environment: BOOOM!!! Seamus' feather explodes. Flitwick gasps.
+harry:  I think we're going to need another feather over here, Professor.
+environment:  Neville, Harry, Ron and Seamus are walking through a courtyard with other students all around.
+ron:  It's Leviosa, not Leviosar. Honestly, she's a nightmare. No wonder she hasn't got any friends!
+environment: Hermione bustles past, sniffling.
+harry:  I think she heard you.
+hermione:  Help! Help! {The boys start throwing wood pieces at the troll.}
+ron:  Hey, pea brain! {Ron throws wood and hits the troll on the head. Hermione escapes from the stalls to under a sink, but the troll sees her and goes to smash her. It cracks the sink and barely misses Hermione. Harry cringes.}
+hermione:  Ahhh! Help!
+environment: Harry gets out his wand. He runs forward and grabs the troll's club, and is lifted up.
+harry:  Whooa! Whoa, whoa! {He lands on the troll's head, and is hurled forward, then back, and his wand goes up the troll's nose.}
+ron:  Ew.
+environment: The troll snorts, and whips around.
+harry:  Whoa, whoa whoa!
+environment: The troll gets Harry off its head and is holding him by one leg, upside down. It gears up its club and swipes at Harry. He pulls himself up, then down. The troll swipes again.
+harry:  Do something! {swipe}
+ron:  What? {swipe}
+harry:  Anything! Hurry up!
+environment: Ron grabs his wand. Under the sink, Hermione waves her hand.
+hermione:  Swish and flick!
+ron:  Wingardium Leviosa! {flick. The club is lifted out of the troll's hand and hovers above its head. The troll looks up, confused, just as the club comes crashing back down. (Ron: Cool.)  It hits the troll's head and the troll wavers, then drops Harry, who crawls away, and comes crashing down, hard.
+environment: Hermione approaches carefully.
+hermione:  Is it...dead?
+harry:  I don't think so. Just knocked out. {He grabs his wand...which is covered in goo.} Ew. Troll bogies.
+environment: Suddenly, McGonagall, Snape and Quirrell come rushing in.
+environment: They all gasp.
+environment: Ron and Harry: Well, what it is...
+hermione:  It's my fault, Professor McGonagall. {The teachers, and Ron and Harry, gape}
+hermione:  I went looking for the troll. I'd read about them and thought I could handle it. But I was wrong. If Harry and Ron hadn't come and found me...I'd probably be dead.
+environment:  The next morning, in the great hall. The gang is sitting, eating. Harry is twirling his food on a fork.
+ron:  Take a bit of toast, mate, go on.
+hermione:  Ron's right, Harry. You're gonna need your strength today.
+harry:  I'm not hungry.
+environment: Snape appears.
+snape:  Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin. {Leaves, limping.}
+harry:  That explains the blood.
+hermione:  Blood?
+harry:  Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that 3 headed dog. But, he got himself bitten, that's why he's limping.
+hermione:  But why would anyone go near that dog?
+harry:  The day I was at Gringotts, Hagrid took something out of one of the vaults. He said it was Hogwarts' business, very secret.
+hermione:  So you're saying...
+harry:  That's what the dog's guarding. That's what Snape wants.
+environment: {An owl screeches. It is Hedwig. She is carrying a very large, long parcel. She drops it off.}
+hermione:  Bit early for mail, isn't it?
+harry:  But I-I never get mail.
+ron:  Let's open it.
+environment: {They open it.}
+harry:  It's a broomstick!
+ron:  Thats not just any broomstick, Harry. It's a Nimbus 2000!
+harry:  But who...?
+environment: {He sees Professor McGonagall up at the head table, stroking Hedwig. She smiles and Harry nods.}
+environment:  Inside a Quidditch tower. The Gryffindor team is marching towards the starting gate. They reach it and stop, behind a closed double door.
+harry:  A little bit.
+hermione:  It's Snape! He's jinxing the broom!
+ron:  Jinxing the broom? What do we do?
+hermione:  Leave it to me. {She hands Ron her binoculars and leaves.}
+environment: Harry is knocked around, then falls, dangling by one arm from the broom.
+ron:  Come on, Hermione!
+environment: Hermione is hurrying up a tower. She appears underneath Snape and touches his cloak with her wand.
+hermione:  Lacarnum Inflamarae.
+environment: A spark ignites and Snape's cloak catches fire. Hermione leaves.
+snape:  What? Oh! {knocks the man back, who falls into Quirrell, who then also falls. Snape bats out the fire and acts as though nothing happened. The broom stop bucking, and Harry climbs back on. The Slytherin seeker is after the Snitch. Harry takes off.}
+ron:  Go!
+hagrid:  Go go go!
+environment: Harry rams the Slytherin Seeker, then is butted out. He returns, smashing the Seeker again as the Snitch dives. The boys follow, but they approach the ground quickly. The Slytherin Seeker backs out, and Harry pulls up his broom as he follows the Snitch, feet above the ground. Harry stands up, and steps forward, trying to grab the ball. He goes too far, and topples off the broom with a yelp, tumbling on the ground. He gets up and lurches.
+environment: The crowd gasps. Hermione appears beside a tower to see.
+hagrid:  Looks like he's gonna be sick!
+environment: Harry lurches and the Snitch pops out of his mouth. It lands in his hands.
+hermione:  Whoo-hoo!
+environment: Harry raises the Snitch into the air and the crowd, and his team, cheers.
+environment: Harry, Hermione and Ron are walking along a path with Hagrid, talking.
+hagrid:  Nonsense. Why would Snape put a curse on Harry's broom?
+harry:  Who knows. Why was he trying to get past that 3 headed dog on Halloween?
+hagrid:  Who told you 'bout Fluffy?
+ron:  Fluffy?
+hermione:  That thing has a name?
+hagrid:  Well, of course he's got a name. He's mine. I bought him off an Irish feller I met down at the pub last year. Then I lent him to Dumbledore to guard the
+harry:  Yes?
+hagrid:  Shouldn'ta said that. Don't ask any more questions. That's top secret, that is.
+harry:  But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it!
+hagrid:  Codswallop. Professor Snape is a Hogwarts teacher.
+hermione:  Hogwarts teacher or not, I know a curse when I see one. I've read all about them. You have to keep eye contact. And Snape wasn't blinking.
+harry:  Exactly.
+hagrid:  {sighs} Now, you listen to me, all three of you. You're meddlin' in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Professor Dumbledore and Nicholas Flamel.
+harry:  Nicholas Flamel?
+hagrid:  I shouldn't have said that. I should not have said that. I should not have said that. {Exit.}
+harry:  Nicholas Flamel...Who's Nicholas Flamel?
+hermione:  I don't know.
+environment:  Christmas. The camera pans up to a snowy castle, then to Hagrid, who is bringing in a large tree. Inside the great hall, students are leaving and ghosts are singing (Merry Christmas, Merry Christmas, ring the Hogwarts bell. Merry Christmas, Merry Christmas...) Hermione approaches the empty tables, wheeling a cart. She goes to Ron and Harry, who are playing chess.
+harry:  Knight to E-5.
+environment: A piece moves across the board.
+environment: Ron thinks for a moment.
+ron:  Queen to E-5.
+environment: A queen walks over to E-5 and clinks the knight away.
+hermione:  That's totally barbaric!
+ron:  That's wizard's chess. I see you've packed.
+hermione:  See you haven't.
+ron:  Change of plans. My parents decided to go to Romania to visit my brother, Charlie. He's studying dragons there!
+hermione:  Good. You can help Harry, then. He's going to go the library for information on Nicholas Flamel.
+ron:  We've looked a hundred times!
+hermione:  Not in the restricted section...Happy Christmas. {exits.}
+ron:  I think we've had a bad influence on her.
+ron:  {calling from downstairs} Harry, wake up! Come on Harry, wake up!
+environment: Harry gets up and runs to a balcony overlooking the common room, where Ron is standing next to a tree. He is wearing a sweater with an R on it.
+ron:  Happy Christmas, Harry.
+harry:  Happy Christmas, Ron. What are you wearing?
+ron:  Oh, Mum made it for me. Looks like you've got one too!
+harry:  I've got presents?
+ron:  Yeah!
+harry:  Oh! {Harry runs down the stairs.}
+hermione:  I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.
+ron:  This is light?
+hermione:  {glares} Of course! Here it is! "Nicholas Flamel is the only known maker of the Philosopher's Stone!"
+environment: Ron and Harry: The what?
+hermione:  Honestly, don't you two read? "The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal."
+ron:  Immortal?
+hermione:  It means you'll never die.
+ron:  I know what it means!
+harry:  Shh!
+hermione:  "The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his 665th birthday!" That's what Fluffy's guarding on the 3rd floor. That's what's under the trapdoor...the Philosopher's Stone!
+environment: They all look at each other.
+environment: Nighttime. Hermione, Ron and Harry are running across the wet ground to Hagrids hut. They knock on the door and it opens.
+harry:  Hagrid!
+hagrid:  {clad in oven mitts and an apron} Oh, hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today. {Closes door.}
+environment: All 3: We know about the Philosopher's Stone!
+environment: {Door reopens.}
+hagrid:  Oh.
+environment: {They all come into Hagrid's small hut.}
+harry:  We think Snape's trying to steal it.
+hagrid:  Snape? Blimey, Harry, you're not still on about him, are you?
+hermione:  {sitting in a large chair} Of course! There are other things defending the Stone, aren't there? Spells, enchantments.
+hagrid:  That's right. Waste of bloody time, if you ask me.
+environment: {Hermione looks at Ron, who is being sniffed in the face by Fang. Ron shuffles away.} Ain't no one gonna get past Fluffy. Hehe, not a soul knows how. Except for me and Dumbledore. I shouldn't have told you that. I shouldn't have told you that. {A cauldron over a fire begins to rattle.} Oh! {Hagrid hurries over and grabs something} Ooh! Ooh! Ooh! Ooh! {puts the thing, an egg, on the table. The group crowds around.}
+harry:  Uh, Hagrid, what exactly is that?
+hagrid:  That? It's a ... its um...
+ron:  I know what that is! But Hagrid, how did you get one?
+hagrid:  I won it. Off a stranger I met down at a pub. Seemed quite glad to be rid off it, as a matter of fact.
+environment: The egg rattles and cracks. Pieces fly off as a dragon emerges. It squeaks and slips on an egg piece.
+hermione:  Is that...a dragon?
+ron:  That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.
+hagrid:  Isn't he beautiful? Oh. Bless him, look. He knows his mummy. Hehe. Hallo, Norbert. {The dragon squeaks as it looks at Hagrid.}
+harry:  Norbert?
+hagrid:  Yeah, well, he's got to have a name, doesn't he?
+ron:  {laughs}
+hagrid:  Don't you, Norbert? {raises fingers back and forth across Norberts chin} Dededede.
+environment: Norbert backs away, hiccups and blows a fireball of fire into Hagrid's beard.
+hagrid:  Ohh! Oooh, ooh, ooh, well...he'll have to be trained up a bit, of course. {Norbert hiccups. Hagrid sees someone looking in the window.} Who's that? {The person scampers away.}
+harry:  Malfoy.
+hagrid:  Oh, dear.
+hermione:  Well, that's good, isn't it? He'll be with his own kind.
+hagrid:  Yeah, but what if he don't like Romania? {Filch rolls eyes.} What if the other dragons are mean to him? He's only a baby, after all.
+hagrid:  Right. Let's go.
+environment:  In the forest. The group walks along a path to a tree. Hagrid stops, bends down and dips his fingers in a silver puddle. He pulls out his fingers and rubs them together. A silver trail smears with his fingers.
+harry:  Hagrid, what's that?
+hagrid:  What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something. {Harry suddenly sees a large cloaked figure walking through the trees. He looks at Hagrid.} So, it's our job to find the poor beast. Ron, Hermione, you'll come with me.
+ron:  {weakly} Okay.
+hagrid:  And Harry, you'll go with Malfoy. {Draco grimaces, and Harry nods.}
+hermione:  Harry!
+hagrid:  Hello there, Firenze. I see you've met our young Mr. Potter. You all right there, Harry? {Harry nods}
+environment: {Close up on the dead unicorn.}
+environment: Gryffindor common room. Right after 'attack.' The group is around the fire. Hermione and Ron are seated, but Harry stands.
+hermione:  You mean, You-Know-Who's out there, right now, in the forest?
+harry:  But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the stone for himself, he wants the stone for Voldemort. With the Elixir of Life, Voldemort will be strong again. He'll He'll come back. {Sits down.}
+ron:  But if he comes back, you don't think he'll try to kill you, do you?
+harry:  I think if he'd had the chance, he might have tried to kill me tonight.
+ron:  {Gulp} And to think, I've been worrying about my Potions final!
+hermione:  Hang on a minute. We're forgetting one thing. Who's the one wizard Voldemort always feared?
+environment: {The boys shrug.} Dumbledore! As long as Dumbledore's around, you're safe. As long as Dumbledore's around, you can't be touched. {Harry smiles slightly.}
+environment: Some time later. In the outdoor courtyard. The three are walking.
+hermione:  I've always heard Hogwarts' end of the year exams were frightful, but I found that rather enjoyable.
+ron:  Speak for yourself. All right there, Harry?
+harry:  My scar. It keeps burning.
+hermione:  It's happened before.
+harry:  Not like this.
+ron:  Perhaps you should see the nurse.
+harry:  I think it's a warning. It means dangers coming. Uhh! {He rubs scar and then sees Hagrid across the field, at his hut.} Oh. Of course! {runs for hut.}
+hermione:  What is it?
+harry:  Don't you think it's a bit odd that what Hagrid wants more than anything is a dragon, and a stranger shows up and just happens to have one? {They approach Hagrid, who is playing the Harry Potter theme on his flute.} I mean, how many people wander around with dragon eggs in their pockets? Why didn't I see it before? Hagrid, who gave you the dragon egg? {Hagrid stops playing.} What did he look like?
+hagrid:  I don't know. I never saw his face. He kept his hood up.
+harry:  The stranger, though, you and he must have talked.
+hagrid:  Well, he wanted to know what sort of creatures I looked after. I told him. I said, "After Fluffy, a dragon's gonna be no problem."
+harry:  And did he seem interested in Fluffy?
+hagrid:  Well, of course he was interested in Fluffy! How often do you come across a three headed dog, even if you're in the trade? But I told him. I said, "The trick with any beast is to know how to calm him. Take Fluffy, for example, just play him a bit of music and he falls straight to sleep."
+environment: The three gape.
+hagrid:  I shouldn't have told you that. {The three take off.} Where you going?! Wait!
+environment: McGonagall's classroom. The three come tearing in and run up the aisles between desks. They pass a ghost and stop at the desk.
+harry:  We have to see Professor Dumbledore, immediately!
+hermione:  And with Dumbledore gone
+environment: {Snape suddenly appears behind them}
+snape:  Good afternoon. Now, what would three young Gryffindors such as yourselves be doing inside on a day like this?
+hermione:  Uh...we were just...
+snape:  You want to be careful. People will think you're {Harry glares madly at Snape, who looks shocked} up to something. {Exit.}
+hermione:  Now what do we do?
+harry:  We go down the trapdoor. Tonight.
+environment:  Nighttime. In the Gryffindor Common Room. The three friends come down the stairs and begin to walk across the floor. They stop when they hear croaking.
+harry:  Trevor.
+ron:  Trevor shh! Go, you shouldn't be here!
+harry:  Now, Neville, listen. We were
+hermione:  Neville, I'm really, really sorry about this...{takes out wand} Petrificus Totalus.
+environment: Neville is frozen and falls backwards onto the ground. Hermione puts her wand back.
+ron:  {Gulp} You're a little scary sometimes...you know that? Brilliant, but scary.
+harry:  Let's go. {Walks by Neville} Sorry.
+hermione:  Sorry.
+ron:  It's for your own good, you know. {Exit.}
+environment:  The three are under the Invisibility cloak, sneaking along the corridor.
+hermione:  Ow! You stood on my foot!
+ron:  Sorry. {A flame lights. Hermione draws out her wand and points it at the door.}
+hermione:  Alohomora.
+environment: The door opens and they go in.
+ron:  Wait a minute...he's....{a blow of air, and the cape flutters off them.} Sleeping.
+harry:  Snape's already been here. He's put a spell on the harp. {They approach the sleeping dog.}
+ron:  Uh. It's got horrible breath!
+harry:  We have to move its paw.
+ron:  What?!
+harry:  Come on! {grabs paw, which is blocking the door.} Okay. Push! {They strain and move it. They open the door.} I'll go first. Don't follow until I give you a sign. {Fluffy's eyes open.} If something bad happens, get yourselves out...Does it seem a bit...quiet?
+hermione:  The harp. It stopped playing.
+environment: Drool from one head comes down on Ron's shoulder.
+ron:  Ew! Yuck! Ugh. {All three kids look up and see Fluffy standing there. Fluffy barks and growls, thrashing. It breaks the harp and dives at the three.}
+harry:  Jump! Go! {They all jump through the trapdoor.}
+ron:  Ahh! {gasps as he lands on some mushy black ropelike vines.} Whoa. Lucky this plant-thing is here, really.
+harry:  Whoa! {The plant begins to move towards them.} Oh. Ahh! {The plant ties them up.}
+hermione:  Stop moving, both of you. This is Devil's Snare. You have to relax. If you don't, it will only kill you faster.
+ron:  Kill us faster?! Oh, now I can relax!
+environment: Hermione manages a smile as she is sucked down below.
+environment: Ron and Harry: Hermione!!
+ron:  Now what are we gonna do?!
+environment: Hermione's voice: Just relax!
+harry:  Hermione! Where are you?!
+environment: Hermione (from below): Do what I say. Trust me.
+environment: Harry relaxes and is sucked through.
+ron:  Ahh! Harry!
+environment: Harry falls through and lands on the hard ground. Hermione goes over to him and he stands up.
+hermione:  Are you okay?
+harry:  Yeah, yeah, I'm fine.
+ron:  Help!
+hermione:  He's not relaxing, is he?
+harry:  Apparently not.
+ron:  Help! Help me!
+hermione:  We've got to do something!
+harry:  What?
+hermione:  Uh! I remember reading something in Herbology. {Ron: Help!} Um Devil's Snare, Devil's Scare, {The snare shuts Ron's mouth} it's deadly fun...but will sulk in the sun! That's it! Devil's Snare hates sunlight! {takes out wand and points upwards.} Lumus Solem! {A beam of light shoots out. The Snare shrieks and recoils. Ron falls below.}
+ron:  Ahhh!
+harry:  Ron, are you okay?
+ron:  Yeah.
+harry:  Okay.
+ron:  {stands} Whew. Lucky we didn't panic!
+harry:  Lucky Hermione pays attention in Herbology.
+environment: There is a sound.
+hermione:  What is that?
+harry:  I don't know. Sounds like wings.
+environment: They enter into a room filled with golden "birds."
+hermione:  Curious. I've never seen birds like these.
+harry:  They're not birds, they're keys. And I'll bet one of them fits that door. {They come upon a broomstick, suspended in the air.}
+hermione:  What's this all about?
+harry:  I don't know. Strange.
+environment: {Ron creeps over to the door and takes out his wand.}
+ron:  {rattles lock.} Alohomora! {Shrugs} Well, it was worth a try.
+hermione:  Ugh! What're we going to do? There must be 1000 keys up there!
+ron:  We're looking for a big old fashioned one. Probably rusty like the handle.
+harry:  There! I see it! {points} The one with the broken wing! {He looks at the broom.}
+hermione:  What's wrong, Harry?
+harry:  It's too simple.
+ron:  Oh, go on, Harry! If Snape can catch it on that old broomstick, you can! You're the youngest seeker in a century!
+environment: Harry nods and grabs the broom. All the keys suddenly go one direction, right at Harry. He climbs on, swiping at them.
+ron:  This complicates things a bit!
+environment: Harry pushes off into the air. He flies off, after the key. The others follow him. Harry grabs the key.
+harry:  Catch the key!
+environment: He zooms by and throws the key to Hermione, who catches it and heads for the lock while Harry distracts the other keys. Hermione puts it in the lock.
+ron:  Hurry up!
+environment: The door opens, and Hermione and Ron rush through, followed by Harry. They shut the door just as the keys slam up against it.
+environment: They enter a dark room, with broken pieces all around it.
+hermione:  I don't like this. I don't like this at all.
+harry:  Where are we? A graveyard.
+ron:  This is no graveyard. {sighs} It's a chessboard. {Walks out onto the marble board and flames light, illuminating the board and GIANT players. Harry and Hermione come up with him.}
+harry:  There's the door.
+environment: They walk across the board, towards the door. Suddenly, as they reach a line of pawns, the pawns bring up their swords. The three jump and back up.
+hermione:  Now what do we do?
+ron:  It's obvious, isn't it? We've got to play our way across the room. All right. Harry, you take the Bishop's square. Hermione, you'll be the Queen's side castle. As for me, I'll be a knight. {They all take their places.}
+hermione:  What happens now?
+ron:  {aboard a horse.} Well, white moves first, and then...we play. {A pawn on the other side moves forward. Ron studies the game.}
+hermione:  Ron, you don't suppose this is going to be like...real wizard's chess, do you?
+ron:  You there! D-5! {A black pawn moves forward, diagonal to the white pawn. The white pawn raises its swords and smashes the black one. The three jump.} Yes, Hermione, I think this is going to be exactly like wizard's chess!
+environment: The game continues. Pieces smash each other, boom! Boom!
+ron:  Castle to E-4! Smash! Ron: Pawn to C-3! Smash! Boom! The Queen turns, and smashes a piece! Harry, Ron and Hermione wince. The Queen turns again. Both Ron and Harry study the game.
+harry:  Wait a minute.
+ron:  You understand right, Harry. Once I make my move, the Queen will take me...then you'll be free to check the King.
+harry:  No, Ron! No!
+hermione:  What is it?
+harry:  He's going to sacrifice himself!
+hermione:  No, Ron, you can't! {Ron closes his eyes.} There must be another way!
+ron:  {turns to face Hermione.} Do you want to stop Snape or not? Harry, it's you that has to go on. I know it. Not me, not Hermione, you. {Harry nods.} Knight...to H-3.
+environment: Ron's horse moves forward, slides and stops.
+ron:  Check.
+environment: The Queen turns and advances. Ron breathes faster, clutching the steel reins. The Queen stops. SMASH! Ron goes flying off the horse and lands on the floor, unconscious.
+ron:  Ahhhh!
+harry:  RON! {Hermione starts walking to him.} NO! Don't move! Dont forget, we're still playing. {Hermione moves back. Harry walks the diagonal in front of the King.} Checkmate. {The Kings sword falls onto the ground victory. Harry breathes out and then the two run to Ron. They bend beside him.} Take care of Ron. Then, go to the owlery. Send a message to Dumbledore. Ron's right...I have to go on.
+hermione:  You'll be okay, Harry. You're a great wizard, you really are.
+harry:  Not as good as you.
+hermione:  {smile} Me? Books and cleverness? There are more important things. Friendship, and bravery. And Harry, just be careful.
+environment: Harry nods and stands, walking away.
+environment: Harry walks down a long staircase to an empty room with pillars around it. The Mirror of Erised is in the middle of the room, and a man is standing before it. It is Quirrell. Harry yelps and grabs his scar.
+harry:  You? {Quirrell turns around.} No. It can't be...Snape. He was the one
+harry:  B-but, that day, during the Quidditch Match, Snape tried to kill me.
+harry:  Snape was trying to...save me?
+harry:  Th-then you let the troll in.
+hermione:  {smile} Never better.
+environment: In the great hall. All students are seated, and green banners with snakes on them are around the ceiling.
+environment: Dumbledore, at the head table, nods to McGonagall.
+environment: She dings her glass and the chatter stops. Dumbledore rises.
+albus dumbledore:  Another year gone. And now, as I understand it, the house cup needs awarding, and the points stand thus. In fourth place, Gryffindor with 312 points. {Clapping. Harry and Hermione hide their heads.} Third place, Hufflepuff, with 352 points. {Clapping.} In second place, Ravenclaw, with 426 points. {Clapping.} And in first place, with 472 points, Slytherin House.
+environment: There is immense cheering.
+albus dumbledore:  Yes, yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account. And I have a few last minute points to award. {The Gryffindor students look up.} To Miss Hermione Granger, for the use of cool intellect when others were in great peril, 50 points. {Applause.}
+harry:  {Pats} Good job.
+albus dumbledore:  Second, to Mr. Ronald Weasley, for the best played game of chess {Ron looks at Harry and mouths, 'Me?' Harry nods, and mouths, 'You!'} that Hogwarts has seen these many years...50 points. {Applause} And third, to Mr. Harry Potter, for pure nerve and outstanding courage, I award Gryffindor house 60 points. {Immense cheering.}
+hermione:  We're tied with Slytherin!
+albus dumbledore:  And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award 10 points to Neville Longbottom.
+environment: Immense cheering erupts. Neville is unbelieving, and sits there while cheering gets louder. Draco is downfallen.
+albus dumbledore:  Assuming that my calculations are correct, I believe that a change of direction is in order. {Claps. The green banners change to Gryffindor red and yellow.} Gryffindor wins the House Cup!
+environment: Cheering.
+hagrid:  Yes! {grins}
+environment: All students stand and throw their hats into the air, except Draco, who smashes his down onto the table.
+environment: All rub each other's hair and jump around, cheering and laughing.
+environment: The outdoor train station. Students are walking around, getting in the train.
+hermione:  Come on, Harry.
+harry:  One minute. {He walks over to Hagrid.}
+hagrid:  Thought you were leaving without saying good-bye, didja? {Hagrid takes a red album out of his coat pocket and hands it to Harry.} This is for you.
+environment: Harry opens the album and sees a picture, moving, of him as a baby with his parents. They are all smiling and waving. Harry smiles.
+harry:  Thanks, Hagrid. {Shakes Hagrid's hand, then hugs him tightly.}
+hagrid:  Oh. Go on...on with you. {Harry lets go.} Oh, listen, Harry, if that dolt of a cousin of yours, Dudley, gives you any grief, you could always, um, threaten him with a nice pair of ears to go with that tail of his.
+harry:  But Hagrid, we're not allowed to do magic away from Hogwarts. You know that.
+hagrid:  I do. But your cousin don't, do he? Eh? {chuckle} Off you go.
+environment: Harry walks away, back to the train door where Hermione and Ron are waiting.
+hermione:  Feels strange to be going home, doesn't it?
+harry:  I'm not going home. Not really.
+environment: The train whistles and they climb aboard. As the train starts to leave and the camera pans up over the whole scene, Harry waves out the window to Hagrid, who waves back and then waves more to other students as the camera pans far back, then the credits begin.
+hermione: Hello, Hagrid. Oh, it's wonderful to see you two again. She stops then, cocks her head curiously at Harry, then takes out her wand and points it directly between his eyes.
+hermione: Oculus Reparo. Instantly, Harry's glasses are mended.
+harry: I need to remember that one.
+hermione: C'mon. Everyone's been so worried. Hermione leads them to Gringotts, where Hermione's rather nervous-looking Muggle parents stand with the Weasleys.
+hermione: Isn't it thrilling! Gilderoy Lockhart's going to be there! We can actually meet him! I mean, he's written almost the whole booklist! As Mrs. Weasley and Hermione dash off, Harry frowns.
+harry: Who?
+environment: 29A EXT. FLOURISH AND BLOTTS - DAY 29A
+environment: GILDEROY LOCKHART. A handsome, golden-haired wizard with stunning pearl-white teeth. He miles, winks at the camera.
+environment: . 29A
+environment: DOLLY BACK to reveal that the image of Lockhart is actually a MOVING PHOTOGRAPH propped in the window. A PLACARD declares HERE TODAY! SIGNING COPIES OF HIS AUTOBIOGRAPHY, MAGICAL ME... GILDEROY LOCKHART! 30 INT. FLOURISH AND BLOTTS - DAY 30 Harry and the others thread their way through a CHATTERING THRONG of MIDDLE-AGED LADIES, all craning their necks for a view of Lockhart, who sits signing books at the rear of the shop. At the sight of him, Mrs. Weasley pats her hair.
+ron: Mum fancies him. For this, Mrs. Weasley gives Ron a jab in the shoulder. A SHORT MAN WITH A CAMERA bumps past.
+hermione: Fear of a name only increases fear of the thing itself. Lucius Malfoy's eyes slide, find Hermione staring defiantly.
+environment: . (3) 30 MR. WEASLEY
+hagrid: Ignore 'im, Arthur. Mr. Weasley backs away. Lucius Malfoy tosses Ginny's BATTERED TEXTBOOK back into her cauldron.
+hermione: I should think you'd count yourself lucky that's all you got.
+ron: I should think you'd mind your own business. They glare at each other. PROFESSOR SPROUT, a squat little witch, TAPS her wand on a stack of POTS.
+hermione: Mandrake, or Mandragora, is used to return those who have been transfigured to their original state. It's also quite dangerous. The Mandrake's cry is fatal to anyone who hears it.
+environment: . (2) 40 SEAMUS
+ron: Say it. I'm doomed.
+harry: You're doomed. FLASH! -- a LIGHT BLINDS Harry. He blinks, finds a small boy (COLIN CREEVEY) standing before him with a CAMERA.
+hermione: (raising her wand) Immobilus! The pixies FREEZE IN MIDAIR. Neville falls, PLOPS onto Lockhart's desk, shaken but unhurt. He looks at Hermione.
+environment: 42B INT. SEVENTH FLOOR - CORRIDOR - LATER 42B Fresh from the pixies, Hermione, Ron, Harry and Neville walk. Hair askew. Robes shredded.
+ron: Can you believe him?
+hermione: I'm sure Professor Lockhart just wanted to give us some hands-on experience.
+harry: Hands on? Hermione, he didn't have a clue what he was doing.
+environment: . 42B HERMIONE
+hermione: Rubbish. Read his books. You'll see all the amazing things he's done.
+ron: He says he's done.
+environment: &amp; &amp;
+environment: 45 EXT. HOGWARTS - COURTYARD - DAY 45 The Gryffindor Quidditch team -- Harry, Fred, George, ALICIA SPINNET, KATIE BELL, and ANGELINA JOHNSON -- trail Oliver Wood through the courtyard, toward the distant Quidditch pitch. Several students are outside, studying.
+environment: 42. 45 RON
+ron: Uh-oh. I smell trouble.
+harry: Draco?
+hermione: At least no one on the Gryffindor team had to buy their way in. They got in on pure talent.
+environment: 43. (2) 45 DRACO
+ron: You'll pay for that one, Malfoy! (whips out his wand) Eat slugs! Ron points his cracked wand at Malfoy. PFFT! -- a BOLT of GREEN LIGHT scissors out the wrong end, hitting Ron himself in the stomach. As he drops to the grass, Hermione runs to him
+hermione: Ron! Say something! Ron opens his mouth and... BELCHES. Hermione draws back, and watches a TRIO of SLUGS dribble out his mouth. The Slytherins CROW with LAUGHTER. Angrily, Ron rises, only to BELCH again. Fascinated, Colin Creevey runs up with his camera.
+harry: Get out of the way, Colin! (to Hermione) Let's take him to Hagrid. He'll know what to do. 46 INT. HAGRID'S HUT - DAY 46 Hagrid rummages about, looking for something.
+hagrid: Got jus' the thing. Set 'im down on that chair o'er there. As Ron sits, Hagrid pitches a BUCKET between his knees. Harry and Hermione glance up questioningly. Hagrid shrugs.
+environment: 44. 46 HAGRID
+hagrid: Better out than in. Who was he tryin' ter curse anyway?
+harry: Malfoy. He called Hermione, well, I don't know exactly what it means...
+hermione: (quietly) He called me a Mudblood.
+hagrid: He didn'! Harry looks confused. Hermione glances at him, then away, obviously pained by this.
+hermione: It means dirty blood. Mudblood's a really foul name for someone who was Muggle-born. Someone with non-magic parents. Someone... like me. It's not a term one usually hears in civilized conversation.
+hagrid: Yeh see, Harry. There are some wizards -- like Malfoy's family -- who think they're better than everyone else 'cause they're what people call pureblood.
+harry: That's horrible.
+ron: (BELCHES forth a slug) It's disgusting!
+hagrid: An' it's codswallop ter boot. Dirty blood. There's 'ardly a wizard today that's not half-blood or less. If we 'adn't married Muggles we'd've died out long ago. Besides, they haven't invented a spell our Hermione can't do... (taking her shoulder) Don' you think on it, Hermione. Don' you think on it fer a minute. /45A.
+environment: &amp; &amp;
+environment: 49 INT. GILDEROY LOCKHART'S OFFICE - EVENING (HOURS LATER) 49 CAMERA PANS the walls of Lockhart's office, lined with FRAMED PHOTOGRAPHS of... Gilderoy Lockhart. Harry and Lockhart work by candlelight at an ornate desk. Bleary- eyed, Harry addresses envelopes, while a cheery Lockhart puts his signature to the stack of GLOSSY PHOTOS bearing his image.
+environment: 49. 49 HARRY
+hermione: Harry!
+harry: Did you hear it?
+ron: Hear what?
+harry: That... voice.
+hermione: Voice? What voice?
+harry: (eyes darting around) I heard it first in Lockhart's office and then again, just --
+harry: It's moving. I think it's going to... kill. Harry runs off. Hermione and Ron exchange a glance, follow.
+environment: thru thru
+environment: 58 INT. MARBLE STAIRCASE - MOMENTS LATER 58 Harry dashes madly, taking the steps three at a time. He makes the landing, rushes through the archway, and... 59 INT. SECOND FLOOR CORRIDOR - SECOND FLOOR - NIGHT 59 ... sleds to a stop, listening Nothing. Slowly, he peers down. WATER is oozing over the stone floor, surrounding his shoes. His own REFLECTION appears and, behind it, undulating like a dream... WORDS. Ron and Hermione come huffing up.
+environment: . 59 RON
+ron: Harry, what are you doing? He points. SHIMMERING on the wall are the words he saw reflected in water.
+environment: ENEMIES OF THE HEIR... BEWARE.
+hermione: 'The Chamber of Secrets has been opened...?'
+ron: What's that? Hanging underneath?
+harry: That's Filch's cat. Mrs. Norris. The cat hangs stiffly by her tail from a torch bracket, eyes open and blank. Harry's eyes shift to the adjacent WINDOW near the topmost pane, SPIDERS scuttle up a silvery thread, fight to get through a crack in the glass.
+hermione: Look at that. Have you ever seen spiders act like that? Ron...?
+ron: (backing away) I... don't... like... spiders. Suddenly, the stairwell is alive with VOICES and, seconds later, dozens of students stream forth, CHATTERING... when they stop, seeing the wall and, standing before it, Harry, Ron and Hermione. A thudding SILENCE falls. Then Draco pushes forward, eyes the wall, and grins nastily.
+environment: . (2) 59 DUMBLEDORE
+albus dumbledore: Argus! Dumbledore marches forward, trailed by a phalanx of teachers. Seeing the wall, Dumbledore's face darkens.
+albus dumbledore: Everyone will proceed to their dormitories immediately. (to Harry, Ron, Hermione) Everyone except you three. As the corridor empties, Dumbledore steps to the wall and, with extreme gentleness, removes Mrs. Norris.
+albus dumbledore: She's not dead, Argus. She's been Petrified.
+albus dumbledore: But how she's been Petrified... I cannot say.
+hermione: That's why Ron and I went looking for him, Professor. We'd just found him when Harry said...
+snape: (raising an eyebrow) Yes, Miss Granger?
+harry: When I said I wasn't hungry. We were heading back to the Common Room and... found Mrs. Norris. Snape eyes Harry coldly, knowing he's lying. Harry looks away... and finds Dumbledore studying him as well.
+albus dumbledore: Innocent until proven guilty.
+environment: . (4) 59 DUMBLEDORE
+albus dumbledore: We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth of Mandrakes. When they have matured, a potion will be made which will revive Mrs. Norris. In the meantime, I advise caution. To all.
+environment: 60A INT. CORRIDOR - NIGHT (A BIT LATER) 60A Harry, Ron and Hermione walk down the corridor.
+ron: A Squib's someone who's born into a wizarding family but hasn't got any powers of their own. It's why Filch is trying to learn magic from a Kwikspell course. It's also why he hates students so much. He's bitter. Hermione, who's only been half-listening -- as if trying to unravel something in her mind -- speaks then.
+hermione: Harry. This voice. You said you heard it first in Lockhart's office?
+harry: Yes.
+hermione: And did he hear it?
+harry: He said he didn't.
+ron: Maybe he was lying.
+hermione: I hardly think someone with Gilderoy Lockhart's credentials would lie to one of his students, Ronald. Besides, if you recall, we didn't hear anything either.
+environment: . 60A HARRY
+harry: You do believe me, don't you?
+hermione: 'Course we do. It's just... it's a bit weird, isn't it? You hear this voice and then... Mrs. Norris turns up Petrified.
+harry: I can't explain it -- it was... scary. (frowning) D'you think I should've told them -- Dumbledore and the others, I mean.
+ron: Are you mad!
+hermione: No, Harry. Even in the wizarding world, hearing voices isn't a good sign.
+environment: 62 INT. PROFESSOR McGONAGALL'S CLASSROOM - MORNING McGonagall stands before the class. Resting on the desk in front of each student, is a different animal. PROFESSOR McGONAGALL Today, we will be turning animals into water goblets. She taps the bird in front of her, three times, with the tip of her wand. It transfigures into a beautiful crystal water goblet. PROFESSOR McGONAGALL Now, who would like to go first... Mr. Weasley? Ron nods. He TAPS his rat, Scabbers, who turns into a goblet with a tail. PROFESSOR McGONAGALL You must replace that wand, Mr. Weasley. Ron nods sheepishly, looks at his broken wand.
+environment: . (A1) 62
+environment: McGonagall sees Hermione's raised hand. Her untouched animal. PROFESSOR McGONAGALL Yes, Miss Granger?
+hermione: Professor, I was wondering if you could tell us about the Chamber of Secrets? A HUSH falls over the class. PROFESSOR McGONAGALL My subject is Transfiguration, Miss Granger.
+hermione: Yes, Professor. But there seems to be very little written about the Chamber of Secrets. For those of us with a personal interest in the subject, that is... disturbing. Malfoy regards Hermione with chilly amusement. McGonagall considers Hermione's question for a long moment, then nods. PROFESSOR McGONAGALL Very well. You all know, of course, that Hogwarts was founded over a thousand years ago by the four greatest witches and wizards of the age (CONTINUED)
+environment: 54. 62
+environment: PROFESSOR McGONAGALL (CONT'D) Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin. Three of the founders co-existed quite harmoniously. One did not.
+ron: Three glasses who? PROFESSOR McGONAGALL Salazar Slytherin wished to be more selective about the students admitted to Hogwarts. He believed that magical learning should be kept within all-magic families. In other words, purebloods. Unable to sway the others, he decided to leave the school. (a beat) According to legend, Slytherin had built a hidden chamber in this castle, known as the Chamber of Secrets. Shortly before departing, he sealed it until that time when his own true heir returned to the school. The heir alone would be able to open the Chamber of Secrets and unleash the horror within, and by so doing, purge the school of all those who, in Slytherin's view, were unworthy to study magic.
+hermione: Muggle-borns. PROFESSOR McGONAGALL Yes. Naturally, the school has been searched many times for such a chamber. It has never been found.
+hermione: Professor, what exactly does legend tell us lies within the Chamber? PROFESSOR McGONAGALL The Chamber is said to be home to something which the heir of Slytherin alone can control. It is said to be home... to a monster. Ron's eyes shift. Malfoy sits calmly, smiling to himself. . 63 INT. CORRIDOR - DAY 63 Harry, Hermione, and Ron thread their way through the teeming corridor. Up ahead, Malfoy walks with Crabbe and Goyle.
+ron: D'you think it's true? D'you think there really is a Chamber of Secrets?
+hermione: Yes. Couldn't you tell McGonagall's worried. All the teachers are.
+harry: But if there really is a Chamber of Secrets, and it's really been opened, that means...
+hermione: The Heir of Slytherin has returned to Hogwarts. The question is, who is it?
+ron: (in mock puzzlement) Let's think. Who do we know who thinks Muggle-borns are scum.
+hermione: (eyeing Malfoy ahead) If you're talking about him --
+ron: Of course! You heard him 'You'll be next, Mudbloods'!
+hermione: I heard him. But Malfoy? The Heir of Slytherin?
+harry: Maybe Ron's right, Hermione. I mean, look at his family. The whole lot of them have been in Slytherin for centuries.
+ron: Crabbe and Goyle must know. Maybe we could trick them into telling...
+environment: . 63 HERMIONE
+hermione: No. Even they aren't that thick. But there might be another way. Mind you, it would be difficult. Not to mention we'd be breaking about fifty school rules. And it would be dangerous. Very dangerous.
+ron: When do we start? 64 INT. LIBRARY - NIGHT 64 In a dark nook, Harry, Ron and Hermione huddle round a book entitled Moste Potente Potions. The spotted pages are littered with DISTURBING ILLUSTRATIONS.
+hermione: Here it is 'The Polyjuice Potion. Properly brewed, the Polyjuice Potion allows the drinker to transform himself temporarily into the physical form of another...'
+ron: You mean, Harry and I drink some of this stuff and we turn into Crabbe and Goyle?
+hermione: Yes.
+ron: Wicked! Malfoy'll tell us anything!
+hermione: Exactly. But it's tricky. I've never seen a more complicated potion. Lacewing flies, leeches, fluxweed. And, of course, we'll need a bit of whoever we want to change into too.
+ron: Hang on now. I'm drinking nothing with Crabbe's toenails in it.
+environment: 57. 64 HARRY
+harry: How long will it take to make?
+hermione: A month.
+harry: A month? But if Malfoy is the heir of Slytherin... he could attack half the Muggle-borns in the school by then.
+hermione: You didn't have to tell me that. 65 EXT. QUIDDITCH STADIUM - DAY 65 We join the Quidditch match in mid-game. The CROWD ROARS, watching as Slytherin Chasers, bent low over their new brooms, jet past the overmatched Gryffindors.
+hagrid: Gallopin' Gorgons! Slytherin's flyin' like they got dragon fire in their brooms... Ron fumes, looking as though he takes Slytherin's dominance personally. Taking Hagrid's GIANT BINOCULARS, he trains them on the FACULTY BOX -- where Lucius Malfoy sits next to Snape. Harry circles high above the pitch, searching for the Golden Snitch. Suddenly, Malfoy streaks by overhead.
+environment: . 65 HAGRID
+hagrid: (from the stands) Blimey, Harry's got 'imself a Rogue Bludger!
+ron: Rogue Bludger?
+hagrid: Look fer yerself! It's bin' tampered with! Harry executes a series of zigs, zags, loops and rolls, trying to shake the Bludger, but the Bludger is relentless. Ron instinctively draws his wand, begins to point it toward Harry and the Bludger, when... Hermione's hand intercedes. She glances knowingly at his fractured wand.
+hermione: You're joking, right? Besides, even with a proper wand, it's too risky. You could hit Harry. As Harry frantically dips and dives, Malfoy cruises by.
+environment: A. (1A) 65
+environment: Harry continues on, CLOSING on the Snitch, fingertips only inches from catching it... when... the Rogue Bludger SMASHES INTO Harry's arm. Harry cries out, steadies himself and with a brilliant, acrobatic move, SNATCHES the Snitch out of the air with his good hand. Unable to control his broom with his shattered arm, he hits the pitch with a SICKENING THUD. Wincing, Harry rolls onto his shoulders, SQUINTS UP a BLACK DOT -- growing rapidly LARGER -- is plummeting from the sky, directly toward him. It's... the rogue Bludger. Instantly, Harry spins away, grimacing in agony, as the Bludger... ... hits the ground like a SLEDGE HAMMER, violently TATTOOING the pitch again and again, only inches from Harry. Calmly, Hermione strides forth, points her wand.
+hermione: Finite Incantatem! The Bludger hangs briefly in the air. Slowly ceases spinning. Drops heavily to the pitch. Harry exhales, relieved, only to recall the searing pain in his arm. As CONCERNED FACES swim above him, one particular face pushes through the others
+harry: No... no... not you.
+environment: 59. (3) 65 GILDEROY LOCKHART
+hagrid: Brok'n? He doesn't 'ave any bones at all! Harry looks his arm looks like an empty rubber glove. 66 INT. HOSPITAL WING - DAY 66 A dazed Malfoy slumps out with Crabbe and Goyle. Ron, standing by Harry's bed with Hermione, grins, then watches MADAM POMFREY pour out a STEAMING BEAKERFUL OF LIQUID from a bottle of SKELE-GRO. A group of Gryffindors, including some of his teammates, stand nearby.
+hermione: You will be able to, won't you?
+environment: . 66 COLIN
+environment: He SENSES something... a presence... when... Five BANDAGED FINGERS ENTER FRAME, begin to SPONGE his brow. Harry bolts upright, finds...
+harry: Dobby!
+harry: (pushing the sponge away) It was you! You stopped the barrier from letting Ron and me through!
+hermione: Again? You mean, the Chamber of Secrets has been opened before?
+ron: Of course! Don't you see? Lucius Malfoy must've opened it when he was at school here, and now he's told Draco how to do it.
+hermione: Maybe. We'll have to wait for the Polyjuice Potion to know for sure.
+ron: Enlighten me. Why are we brewing this potion in broad daylight, in the middle of a girls' lavatory? Don't you think we'll get caught?
+hermione: Never. No one over comes in here.
+ron: Why?
+hermione: Moaning Myrtle.
+ron: Who's Moaning Myrtle? There is a LOUD, PIERCING SCREECH, and the GHOST OF A YOUNG GIRL COMES RACING OUT OF THE WALL. FACE TO FACE with Ron.
+hermione: She's a little sensitive. 64. 70 INT. GREAT HALL - DAY 70
+harry: Nice to meet you. I'm --
+ron: What's the fun in that? Lockhart and Snape face each other and bow. They turn, walk ten paces, then... SPIN... wands poised like swords.
+environment: . 70 GILDEROY LOCKHART
+harry: (eyeing Snape) I wouldn't bet on that.
+hermione: Do you think he's all right?
+harry: Who cares?
+ron: Who cares?
+snape: Perhaps it would be prudent to first teach the students to block unfriendly spells, Professor.
+environment: 66. (2) 70 GILDEROY LOCKHART
+snape: Weasley's wand causes devastation with the simplest spells. We'll be sending Potter to the hospital wing in a matchbox. Might I suggest someone from my own house. Malfoy, perhaps. Malfoy and Harry eye each other malevolently as they take their places onstage. Grudgingly, they bow to each other.
+harry: You wish. They turn, walk ten paces, then WHIRL, wands poised.
+hermione: You can talk to snakes.
+harry: I know. I mean, I accidentally set a python on my cousin Dudley at the zoo once. But so what? I bet loads of people here can do it.
+hermione: No. They can't. It's not a very common gift, Harry. This is bad.
+harry: What's bad? If I hadn't told that snake not to attack Justin --
+ron: Oh, that's what you said to it.
+harry: You were there! You heard me!
+ron: I heard you speaking Parseltongue. Snake language.
+harry: I spoke a different language? But I didn't realize -- how can I speak a language without knowing I can?
+hermione: I don't know, Harry. But it sounded like you were egging the snake on or something. It was... creepy. As Gryffindors stream into the room, they eye Harry warily. Even Seamus, Neville, and Dean Thomas walk by without a word.
+hermione: Harry, listen out me. There's a reason the symbol of Slytherin house is a serpent. Salazar Slytherin was a Parselmouth. He could talk to snakes too.
+environment: 69. (2) 71 RON
+ron: Exactly. And now the whole school's going to think you're his great-great-great grandson or something.
+harry: But I'm not. I... can't be.
+hermione: He lived a thousand years ago. For all we know... you could be. 72 EXT. HOGWARTS' LANDSCAPE - DAY 72 A heavy snow falls. Harry sits atop one of the towering hills facing Hogwarts. Hedwig sits beside him.
+harry: Who am I, Hedwig? What am I? 73 INT. LIBRARY - NIGHT 73 The trio study. Harry, burdened by dark thoughts, looks up at Ron. He smiles at Harry, then, seconds later, Hermione does the same -- something forced about it all. Unable to bear it, Harry gathers his books, gets up from the table. As Harry walks, students glance up, meet his gaze, then look away. Even MADAM PINCE eyes him from her desk. Ginny Weasley, tired and pale, scribbles furiously in a SMALL BLACK BOOK. Harry exits, walks into the hallway and pauses. From inside a room, the VOICES of a group of Hufflepuffs can be heard.
+environment: . 73 ERNIE
+hagrid: All righ', Harry?
+hermione: (reproachfully) Harry!
+harry: (frustrated) I didn't know I could speak Parseltongue. What else don't I know about myself? Maybe you can do something... even something horrible... and not know you did it.
+hermione: You don't believe that, Harry, I know you don't. And if it makes you feel better, I just heard Malfoy's staying over for holiday, too.
+ron: Why would that make anyone feel better?
+hermione: Because, in a few days, the Polyjuice Potion's will be ready. In a few days... we may truly know who is the Heir of Slytherin. 79 INT. GREAT HALL - NIGHT 79 The Christmas Feast. The Hall glimmers grandly as snowflakes tumble from the ceiling. Harry and Ron sit with Hermione.
+environment: A. (A1) 79 HERMIONE
+hermione: Everything's set. We just need a bit of who you're changing into.
+harry: Crabbe and Goyle.
+hermione: And we also need to make sure that the real Crabbe and Goyle can't burst in on us while we're interrogating Malfoy.
+ron: How? Hermione holds up a pair of SMALL CAKES.
+hermione: I've got it all worked out. I've filled these with a simple Sleeping Draught. Simple, but powerful. Ron glances at Malfoy, Crabbe, and Goyle, who presently are eating everything in front of them.
+hermione: You know how greedy Crabbe and Goyle are. They won't leave the Christmas Feast until every last drop of trifle is gone. (CONTINUED)
+environment: . 79
+environment: HERMIONE (CONT'D) Now, once they're asleep, hide them in a broom cupboard and pull out a few of their hairs.
+ron: And whose hair are you ripping out?
+hermione: I've already got mine. She removes a SMALL VIAL. Inside is a TINY HAIR.
+hermione: Millicent Bulstrode. She's in Slytherin. I got this off her robes. (rising) All right then... I'm going to check on the Polyjuice Potion. Hermione points to the cakes in front of her.
+hermione: Remember. Just make sure Crabbe and Goyle find these. Hermione exits. Ron looks at Harry.
+ron: Have you ever heard of a plan where so many things could go wrong? 80 INT. ENTRANCE HALL - NIGHT (A BIT LATER) 80 Harry and Ron, lurking behind a SUIT OF ARMOR, watch Crabbe and Goyle exit the Great Hall. Goyle spies the cakes instantly, perched on the end of one of the banisters. Grabbing them, he reluctantly surrenders one to Crabbe and, in unison, they stuff them into their mouths. They pause. Look at each other. And keel flat onto their backs. Harry and Ron dash out, drag Crabbe and Goyle across the floor and into a cupboard. 81 INT. GIRLS' BATHROOM - NIGHT (MOMENTS LATER) 81 Hermione, wearing a Slytherin robe, hovers over a smoking cauldron. Harry and Ron enter.
+environment: A. 81 HERMIONE
+hermione: Did you get it? Harry and Ron hold up their hands. In each a TUFT OF HAIR. Hermione points to a pair of SLYTHERIN ROBES.
+hermione: I sneaked those out of the laundry. Harry and Ron nod, glance at the cauldron. The potion resembles a thick, dark, bubbling mud.
+environment: 77. 81 HERMIONE
+hermione: I'm sure I've done everything right. It looks like the book said it should. Once we've drunk it, we'll have exactly one hour before we change back into ourselves.
+ron: Now what?
+hermione: We separate it into three glasses and add the hairs. Harry and Ron grimace. CLOSEUP - THE POTION
+environment: being poured into three glasses. CAMERA PULLS BACK. Harry and Ron have changed into the Slytherin robes. All three raise their glasses. Drop the hairs. The potion turns shades of YELLOW, BROWN, and KHAKI.
+ron: Ugh. Essence of Crabbe... They nod. DRINK. Ron swallows grimly, doubles over.
+ron: Think I'm gonna be sick... He runs into a stall. Harry looks sick, steps to a CRACKED MIRROR. Hermione pauses. Looks worried. Something's wrong... INSIDE THE STALL Ron bends over the toilet, watches his reflection morph into Crabbe. IN THE CRACKED MIRROR Harry watches his face contort into the thick features of Goyle. Hermione looks at her arm. Patches of fur begin to spread across her wrist and hand. Terrified, she RUNS into a stall. Ron emerges from his stall, a dead ringer for Crabbe.
+environment: 78. (2) 81 RON
+ron: Harry?
+harry: Ron?
+ron: Bloody hell.
+harry: We still sound like ourselves. You need to sound more like Crabbe.
+ron: (adjusts voice) Bloody hell.
+harry: Lower.
+hermione: Go away!
+environment: . 89
+environment: As Harry and Ron exchange a puzzled glance, Moaning Myrtle spirals INTO VIEW, looking disturbingly... happy.
+hermione: It was cat hair I plucked off Millicent Bulstrode's robes! Look at my face!
+ron: Look at your tail. 90 INT. HOSPITAL WING - DAY (TWO WEEKS LATER) 90 Staggering under the weight of the LIBRARY BOOKS in their arms, Harry and Ron make their way to Hermione's bed, which is covered in... BOOKS.
+hermione: Oh, good. Put those anywhere. They look. There is no anywhere. So they just... drop them.
+ron: Madam Pince asked that we relay a message to you, Hermione She'd appreciate it if you'd leave a few books for the rest of the school.
+hermione: I've got to keep up, haven't I? Just then, Hermione's tail twitches INTO VIEW.
+ron: Is that thing ever going away?
+environment: . 90 HERMIONE
+hermione: Any day now, according to Madam Pomfrey. I'm just thankful I've stopped coughing up fur balls.
+ron: We all are, believe me.
+hermione: Now. What about the Chamber of Secrets? Any new leads?
+harry: Nothing.
+hermione: And has it gotten any better? I mean... is anyone speaking to you?
+harry: Neville asked to borrow a tubeworm in Potions yesterday. I suppose that's something. Ron takes a GET-WELL CARD from under Hermione's pillow.
+ron: 'To Miss Granger. Wishing you a speedy recovery, from your concerned teacher Gilderoy Lockhart.' You sleep with this under your pillow?
+hermione: Of course not. I don't know how that got there. Now go. I still have six hundred pages to read in Transformation Through the Ages.
+environment: 92 EXT. SECOND-FLOOR CORRIDOR - NIGHT (MOMENTS LATER) 92 Harry and Ron mount the stairs, emerge.
+ron: I know Hermione's mental, but can you believe she falls for that smarmy nonsense of Lockhart's?
+environment: A. 92
+environment: They stop. Look down. A GREAT FLOOD OF WATER streams from the Girls' Bathroom. From within, MYRTLE can be heard MOANING.
+harry: Looks like Myrtle's flooded the bathroom. As Harry sploshes off toward the bathroom, Ron steps lightly.
+ron: Yuck. 93 INT. GIRLS BATHROOM - NIGHT (MOMENTS LATER) 93 HUGE, WRACKING MOANS echo off the dreary tile. All the taps are running, streaming like tiny waterfalls. As Harry and Ron step to the last cubicle, Myrtle spins accusingly.
+environment: 85. 93 MOANING MYRTLE
+harry: Why would I throw something at you?
+hermione: Tom Riddle... Hm. And Ron said he won an award fifty years ago?
+harry: Special Services to the School or something --
+hermione: Fifty years ago? You're sure?
+harry: Yes. Why?
+hermione: Don't you remember what Malfoy told you? The last time the Chamber of Secrets was opened was --
+harry: Fifty years ago! That means --
+hermione: Tom Riddle was here, at Hogwarts, when it happened. What if he wrote about what he saw? It's possible he knew where the Chamber was, how to open it, even what sort of creature lives in it. If so, whoever's behind the attacks this time wouldn't want a diary like this lying around, would they?
+harry: That's a brilliant theory, Hermione. With just one tiny little flaw. There's nothing written in this diary.
+hermione: It might be invisible ink. (pulls out her wand) Aparecium! She taps the diary three times. Nothing happens. The pages remain BLANK. She frowns, passes the book back to Harry.
+environment: . (2) 95 HERMIONE
+hermione: I don't know, Harry. But I think you should be careful with this. Something tells me Ron might be right. It could be dangerous.
+harry: You don't think I'm dangerous, do you, Hermione? I mean, you're not scared. Of me.
+hermione: I'm scared, Harry. But not of you. 96 INT. GRYFFINDOR DORMITORY/COMMON ROOM - NIGHT (LATER) 96 CAMERA STARTS OVERHEAD, looking down on the boys' dormitory. Seamus, Neville, Ron and Dean sleep. One bed is empty. CAMERA CRANES TO the Common Room, finds Harry sitting alone, flipping through the blank pages of the diary. Harry starts to set the diary aside, then notices a BOTTLE OF INK sitting on the desk. An idea flickers. Taking his QUILL, Harry dips it, and hesitates. As he does, a DROP of INK hangs, suspended like a tear, then... DROPS. The ink BLAZES briefly, then... VANISHES... as if it were sucked into the page. Excited, Harry dips his quill again, and, this time, writes My name is Harry Potter. The words blaze, VANISH. Slowly, oozing out of the page, comes a response Hello, Harry Potter. My name is Tom Riddle. Harry's mind races. Deciding, he MUTTERS the words he writes
+harry: Do... you... know... anything... about... the... Chamber... of... Secrets? Yes.
+harry: Can... you... tell... me? No.
+environment: . 96
+environment: Harry frowns. Then... slowly... new words ooze to the surface. But I can show you... Harry waits, intrigued. Then, suddenly... The pages FLUTTER WILDLY, stop on "June the 13th." On the page, a TINY SQUARE SHIMMERS... like a WINDOW. Harry lifts the book, puts his eye close and... PITCHES FORWARD, spilling through the widening window, into a WHIRL of COLOR and SHADOW, tumbling onto his feet... 97 INT. CORRIDOR/ENTRANCE HALL - NIGHT (FIFTY YEARS AGO) 97 ... in torch-lit corridor. Everything is de-saturated, save for Harry, who retains the true, rich colors of the present. He glances about, disoriented, then spies a BOY (TOM RIDDLE) at the end of the corridor, peering around a corner. A FLURRY of SHADOWS dances on the wall beyond the boy, revealing the presence of others, unseen, in an adjoining room. As Harry advances, LOW VOICES emanate from the shadows. As he reaches the boy, Harry speaks in a WHISPER
+harry: Excuse me. Could you tell me where I am? Hello...? The boy doesn't respond, eyes staked to the activity in the adjoining room... which Harry sees now is the Entrance Hall. A group of ELDER WITCHES and WIZARDS -- Hogwarts Professors -- talk amongst themselves, then... abruptly go silent. Make way for two YOUNG WIZARDS, bearing a STRETCHER. VOICE (O.S.) Riddle. The boy wheels... and looks right through Harry. Harry turns, too. It's Dumbledore... fifty years younger.
+tom riddle: Professor Dumbledore.
+albus dumbledore: It's not wise to be wandering around this late, Tom.
+environment: . 97 TOM RIDDLE
+tom riddle: Yes, Professor. I suppose I -- I just had to see for myself, if... Riddle glances toward the young wizards, watches them carry the stretcher out of the Hall, into the night.
+tom riddle: ... the rumors were true.
+hermione: It can't be Hagrid. It just can't be.
+ron: We don't even know this Riddle. He sounds like a dirty, rotten snitch to me.
+harry: The monster had killed someone, Ron. What would any of us done?
+hermione: Look. Hagrid's our friend. Why don't we just go ask him about it?
+environment: . 102 RON
+ron: That'd be a cheerful visit. Hullo, Hagrid. Tell us, have you been setting anything mad and hairy loose in the castle lately?
+hagrid: Mad an' hairy? Wouldn' be talkin' 'bou me, now would yeh? The trio wheels, spots Hagrid grinning at them. They instantly look guilty.
+harry: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+ron: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+hermione: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+harry: What's that you've got, Hagrid?
+hagrid: Flesh-Eatin' Slug Repellent. Fer the Mandrakes, yeh know. Accordin' ter Professor Sprout, they still got a bit o' growin' up ter do, but once their acne clears up, we'll be able to chop 'em up, stew 'em, an' get those people in the hospital un-Petrified. 'Til then, you three best watch yerselves, all righ'? They nod, watch Hagrid lope away. Just then, Neville comes running up. He looks pale with fright.
+environment: 104 INT. GRYFFINDOR TOWER DORMITORY - DAY 104 Harry's space is a disaster trunk riffled, drawers flung open, bedclothes strewn on the floor.
+hermione: It had to be a Gryffindor. Nobody else knows our password. Unless, it wasn't a student...
+environment: . 104 RON
+ron: Well, whoever it was, they were looking for something.
+harry: And they found it... Tom Riddle's diary is gone. 105 EXT. HOGWARTS GROUNDS - DAY 105 Students stream into the Quidditch Stadium. 105A INT. MARBLE STAIRCASE - DAY 105A Harry, dressed in his Quidditch robes, dashes down the staircase with Ron and Hermione. Down below, Ron spies Ginny.
+ron: Hey, Ginny! Going to the match? Ginny looks up, startled, then shakes her head and exits.
+ron: I tell you, she gets weirder and weirder by the day... VOICE (O.S.) Kill this time... Let me rip... Tear. Harry freezes. Ron and Hermione stop, knowing by his face...
+ron: No... don't tell me... Harry turns, as if following the SOUND, absently touching his fingers to the wall as he glances around. Hermione studies him with great interest -- STUDIES HIS FINGERS -- then, abruptly, Harry turns away, shakes his head it's gone. Hermione looks up, eyes vaguely upon Harry, but her mind miles away.
+hermione: Harry... I think I've just understood something! I've got to go to the library! As Hermione sprints back up the stairs, Harry YELLS.
+harry: What do you understand!
+environment: THE CHAMBER 0F SECRETS - Rev. 1/28/02 96. 105A
+environment: But she's gone. Harry turns to Ron in puzzlement.
+harry: The library?
+ron: That's Hermione. When in doubt, go to the library 106 EXT. REAR OF QUIDDITCH STADIUM - DAY (LATER) 106 Harry and his teammates march toward the Quidditch tower. The CHEERS of the CROWD are heard.
+hermione: You solved it! You solved it!
+harry: With loads of help from you. She turns to embrace Ron. They pause, an awkward moment between them and... shake hands instead.
+ron: Welcome back, Hermione. McGonagall taps her goblet. Dumbledore stands.
+albus dumbledore: Before we begin our feast, let's give a round of applause to Professor Sprout and Madame Pomfrey, whose Mandrake Juice has been successfully administered to all those who had been petrified. Everyone applauds.
+albus dumbledore: Also, in the wake of recent events, as a school treat, all exams have been cancelled. Everyone cheers, save for Hermione.
+hermione: Oh, no! At the rear of the Hall, the great doors OPEN. It's Hagrid. He enters. Stops. Looks around. The room falls SILENT. All eyes upon him. He glances around. Nervous. Embarrassed.
+hagrid: Sorry I'm late. The owl deliverin' my release papers got all lost 'n confused. Some ruddy bird named Errol.
+environment: . (2) 137
+environment: Ron exchanges a nervous glance with Dumbledore. Hagrid looks at all of the faces staring at him. He turns to Harry.
+hagrid: I jus' want to say... that if it wasn't fer' you, Harry... you an' Ron... and Hermione... Well, I jus' want to say... Thanks.
+harry: There's no Hogwarts without you, Hagrid. Just then... Dumbledore gets to his feet and... slowly... brings his hands together. The others join him. Soon, everyone is on their feet and the Hall ROARING. As the students surround Hagrid, he blinks, wipes at his eyes, and... CAMERA PULLS BACK, THROUGH the window, leaving the celebration. WE CONTINUE TO CRANE BACK... BACK... TO a WIDE SHOT OF HOGWARTS... glittering gloriously in the night. FADE TO BLACK.
+hermione: that's rich coming from the owner of that smelly old shoe brush. (cooing to the cat) it's all right, crookshanks. you just ignore the mean little boy... then, sensing another presence in the room, both turn.
+harry: egypt! what's it like?
+hermione: you know, the ancient egyptians of the nile river delta worshipped the cat goddess bast. ron glares stonily at hermione, then turns back to harry.
+harry: good to see you too, mrs. weasley.
+harry: of course, mr. weasley. as mr. weasley pulls harry away, the others continue to hover over the clipping in the b.g.
+hermione: honestly, ron, it's not funny. harry's lucky he wasn't expelled.
+harry: hi, neville. as he bumps past, hermione nods to a compartment.
+hermione: hi, neville. as he bumps past, hermione nods to a compartment.
+ron: hi, neville. as he bumps past, hermione nods to a compartment.
+environment: as they slip inside, they find a man in shabby robes (professor lupin) slumped against the window, asleep. he looks ill, exhausted. the trio eye him warily. whisper.
+hermione: professor r.j. lupin.
+hermione: it's on his case. she points. stamped in peeling letters on a battered case is "professor r.j. lupin."
+hermione: seems to be. why? what is it, harry?
+environment: ron and hermione stare at harry, faces stricken in the lantern light that now glows in the compartment. crookshanks slumbers in his cage.
+harry: yes.
+ron: sure -- of course, no one's ever broken out of azkaban before and he's a raving, murderous lunatic... just then, the compartment rattles. lanterns flicker. the train lurches, begins to slow. hermione slides down the seat, pinning ron against the window. they exchange an awkward glance, then hermione carefully slides to the other end of the seat and glances at her watch. frowns.
+environment: ... die. one by one. until all is...
+ron: what's going on?
+environment: a thin wisp of steam escapes ron's mouth. harry notices.
+hermione: ouch! ron, that was my foot! squeak-squeak-squeak. ron, a dark silhouette against the window, wipes a patch of condensation from the window.
+ron: bloody hell. what's happening? ssssst! a soft crackling fills the car and flames bloom... in the hands of r.j. lupin. in the shivering light, his face looks tired and gray, but his eyes are alert. wary.
+hermione: harry? harry, are you all right? hermione's troubled face hovers above him. he nods. sits up. ron -- pale, nervous -- extends his hand. harry's glasses.
+ron: well, you sort of went... rigid. we thought maybe you were having a fit or something.
+ron: no. i felt... weird. like i'd never be cheerful again. but... no. harry turns to hermione. she shakes her head.
+harry: but someone was screaming. a woman. hermione and ron glance nervously at each other.
+albus dumbledore: welcome! welcome to another year at hogwarts! i have a few things to say, before we become befuddled by our excellent feast. i myself am particularly looking forward to the flaming kiwi cups, which, while somewhat treacherous for those of us with facial hair... mcgonagall clears her throat.
+albus dumbledore: as some of you may know, professor kettleburn, our care of magical creatures teacher for many years, has decided to retire in order to spend more time with his remaining limbs. fortunately, i'm delighted to announce that his place will be filled by none other than our own rubeus hagrid!
+environment: harry, ron, and hermione stare at each other -- stunned -- then applaud vigorously. hagrid turns ruby red, rises, and nearly topples the staff table, sending water goblets weaving.
+albus dumbledore: the dementors will be stationed at the entrances to the grounds. while they are under strict orders not to enter the castle itself, you will on occasion see them as you go about your daily activities. under no circumstances are you to approach them. it is not in the nature of a dementor to be forgiving.
+hermione: yes. but i hear draco's father's furious. i don't think we've heard the end of this...
+ron: who? but the photograph on the prophet's front page provides a chilling answer: sirius black. hermione reads over the shoulders of others. whispers half to herself:
+environment: as a flicker of fear passes through harry's face, bem, a nigerian boy, stares grimly at the grainy image of black.
+environment: beautiful flowers gleam in the dawn light, then, slowly begin to wither. the dew freezes, the grass grows brittle. seconds later, the dementors sweep by.
+ron: when'd she get here?
+hermione: and the post office! it's about 200 owls, all sitting on color- coded shelves, depending on how fast you want your letter to go!
+hermione: but, i mean, after awhile, it got a bit boring. don't you think, ron?
+ron: if there's someone untrustworthy around, it's meant to light up and spin. mind you, fred and george say it's rubbish, sold for wizard tourists, but i thought, you know, it can't hurt, given that...
+harry: i'm glad you had a good time. really. and thanks for this. (eyeing the sneakoscope) rubbish or not, you're right. it can't hurt. with that, harry pops a pepper imp into his mouth.
+ron: never mind.
+environment: as harry, ron, and hermione climb the stairs, they find a crowd gathering on the seventh floor landing.
+ron: probably stuffing her face with the apples in that still life on the second floor again.
+albus dumbledore: mr. filch. round up the ghosts. tell them to search every painting in the castle for the fat lady.
+environment: just then, there is a scream. the students dash to the landing, where all the paintings whisper fearfully. filch's rheumy eyes peer up, searching the upper shadows, then... narrow.
+albus dumbledore: dear lady. who did this to you?
+albus dumbledore: secure the castle, mr. filch. the rest of you... to the great hall.
+hermione: please, sir, an animagus is a wizard who elects to turn into an animal. a werewolf has no choice in the matter. furthermore, the werewolf actively hunts humans and responds only to the call of its own kind -- malfoy lets out a low howl.
+ron: (to harry) he's got a point, you know. harry stares at the parchment. malfoy has drawn a crude caricature of harry in his quidditch robes being struck by lightning over and over.
+snape: not exactly picasso, are you? i hope you demonstrate more talent on the quidditch pitch this weekend then you do as an artist.
+environment: if not, i fear you'll perish, given the weather forecast. until that time, however, you'll forgive me if i don't let you off homework. should you die, i assure you... you need not hand it in. as snape turns away, malfoy sniggers with crabbe, coyle and pike. harry glances down at the drawing once more and we hear a true rumble of thunder and --
+harry: faster! come on! the trace of a smile forms on harry's lips as he closes on the snitch... only yards away... reaching out... when...
+environment: ... a thin glaze of ice clouds his glasses. he wipes at them, then flinches: blood trickles down his cheek. the rain is turning to needles. needles of ice. harry glances at the handle of his broomstick. the water sluicing through the grain is freezing. vapor streams from his mouth and nose. swoosh! a dark silhouette passes on his right. he turns. swoosh! -- a twin silhouette passes on his left. harry sees neither. looks down. the layers of mist are parting below. lightning strikes. reveals: an army of silhouettes drifting onto the pitch. a vast legion of them...
+hermione: no!!! harry and broom tumble in opposite directions. the nimbus soars end over end, tossed by the currents, then drops... right into the whomping willow. floomph! harry, in freefall, drops through one cloud, then another. plummeting through the circling dementors. then... a tall figure rises from the crowd. raises an open hand to the heavens. eyes angry but clear. dumbledore. an explosion -- more powerful than thunder -- rocks the air. a flash -- more fierce than lightning -- shocks the sky. and then...
+ron: looks a bit peaky, doesn't he?
+hermione: harry! how're you feeling?
+harry: brilliant.
+harry: what happened?
+harry: really? i meant the match. who won? silence. uncomfortable glances.
+ron: there's something else you should know, harry. your nimbus -- when it blew away? -- it sort of landed in the whomping willow. and well... he tips a bag of splintered wood and twisted twigs onto the bed. as harry stares, we hear a gentle wind, then...
+environment: harry shakes his head in response to lupin's question, then -- whoosh! -- sets hedwig free of her traces. as she soars into the sky, harry and lupin watch from the lake's edge.
+environment: ... to hogwarts castle, weeks later, dusted in white.
+hermione: perfect. just then, voices echo and three figures appear over the rise, phantoms in the mist. malfoy. crabbe. goyle. pike.
+ron: shut your mouth, malfoy.
+hermione: (a harsh chuckle) hope you don't mean yourself. malfoy's eyes shift, regard hermione with disgust.
+ron: that was not bloody hell, harry! funny! but he's smiling. they all are. as he and hermione pelt harry with snowballs, we --
+ron: those weasels! never told me about any marauder's map!
+ron: oh sure. along with his invisibility cloak, his pack of exploding snap cards, his --
+environment: rosmerta, m'dear! up ahead cornelius fudge emerges from a ministry sleigh as hagrid swings the door clear and -- with unfortunate ease -- rips it clean off the fittings. fudge joins mcgonagall and a curvy barmaid (rosmerta) outside the
+hermione: that's madam rosmerta. ron fancies her.
+harry: shhh.
+environment: fudge looks around nervously, then jerks his head toward the pub. as he leads rosmerta and mcgonagall inside, we --
+environment: so i says to him, 'careful, ned. don't want to go losing your head!' as the three heads cackle hysterically, bobbing up and down on their strings, harry turns... just as an unshaven wizard's arm whips down and a dart goes whistling right toward harry's eyes. harry ducks, pivots, and -- thwock! -- sees the dart pierce the cork of the disfigured dartboard behind him. harry hurries on, trailing fudge and mcgonagall up a dark stairwell as rosmerta leads them into a small back room. as the door starts to close, harry rushes forward: slam! too late. camera tilts. the knob turns, the door opens...
+environment: professor mcgonagall years ago, when harry potter's parents were marked for death, they went into hiding. few knew where they were. one who did was black. and he told...
+hermione: that's a lie!
+albus dumbledore: sir cadogan. is it possible that you let a mysterious man enter gryffindor tower tonight?
+harry: he was right there. close enough to touch. i could've killed him.
+ron: i find it astonishing that someone who prides herself on being so logical can be in such denial.
+ron: harry was there! he'll tell you how it was. go on, harry, tell her.
+ron: really? wasn't you had to roll under the bed last night to avoid getting cut to ribbons! a person could die being your friend, harry! ron stops, wishes he could take it back. they all wish he could. avoiding each other's eyes, they turn, continue on.
+hermione: how'd it go, hagrid?
+hermione: i meant the hearing.
+hermione: (dreading it) and...? hagrid slings another rock into water.
+ron: draco. it's him the committee should punish. it's him they should send off to the forest, not buckbeak.
+hermione: (dreading the answer) where's he going, hagrid?
+environment: dark. ominous. dementors drift in the distance. restless...
+environment: harry moves down a dark corridor, map in hand, wand aglow. in the paintings he passes, the subjects snore
+harry: mischief managed! harry stashes the map, extinguishes his wand, and turns... into the harsh glare of snape's wand.
+harry: i was... i was... sleepwalking... a sneer curdles the corners of snape's lips.
+harry: my dad didn't strut. nor do i. now, if you don't mind, i'd appreciate you lowering your wand. snape eyes harry coldly. containing himself. lowers his wand.
+snape: turn out your pockets! finally, harry obliges. seeing the map, snape's eyes glitter.
+harry: spare bit of parchment...
+snape: read it.
+hermione: here we go again. it's the grim! it's the grim!
+environment: as the students exit, ron, walking separately from harry, turns to neville.
+environment: harry sets hermione's crystal back on its stand, starts to go, when... the smoke within the crystal suddenly darkens. leaning close, harry watches the shape that appears. it is unmistakable: sirius black. just then, a shadow crawls the glossy surface of the crystal and... ... a hand snatches harry's shoulder. he wheels, finds...
+harry: no. nothing.
+hermione: i can't believe they're going to kill buckbeak! it's too horrible.
+ron: hermione! no! she turns, surprised ron's spoken to her. he looks away.
+hermione: that felt good.
+environment: the trio makes their way down the slope and past buckbeak, chewing on a ferret with idle satisfaction.
+hagrid: look at 'em. loves the smell o' the trees when the wind blows...
+hagrid: (shaking his head) they'd know i did it. and tha' would only get dumbledore in trouble. gonna come down, yeh know. says he wants ter be with me when it... when it happens. great man, dumbledore.
+hagrid: yeh will not! think i wan' yeh seein' a thing like this! no. yeh'll drink yer tea an' be off. but before yeh do -- i wan' ter see you an' ron shake hands, harry. ron and harry exchange a glance, then look to hagrid.
+hagrid: good. now then. ron, i wan' ter see you give hermione a hug.
+hagrid: go on! you two've been at it all year. an' i'm sick o' it. acutely uncomfortable, hermione and ron step forward and perform perhaps the most awkward hug hogwarts has ever seen.
+ron: i'm not kissing fang if that's what you're thinking... hearing his name, fang -- hagrid's giant boarhound -- thumps his tail happily on the floor. hagrid turns, takes the lid from a flour tin, a tiny head, ears flecked with powder, emerges.
+hagrid: yeh should keep a closer eye on yer pets, ron.
+ron: right. next time i see crookshanks, i'll let him know.
+hagrid: crikey. here we go agin... smash! a glass jar on the shelf shatters. as hermione scoops up a jagged star-shaped stone, a second stone bounces off the back of harry's head.
+hermione: harry. you do realize what tree this is... ron nabs scabbers, cradles him in his bloody palm.
+harry: that's not good. (yelling) ron! run! ron spins. looks toward harry.
+ron: aaaahhh! the dog's teeth flash and -- snap! -- close on ron's foot, dragging him towards the trunk like a rag doll. instantly, harry dashes forward, leaps out, and grabs ron's hands... but he and ron just keep skudding along the ground.
+ron: harry! harry raises his chin. the dog vanishes into the gap at the base of the tree, begins to pull ron through...
+harry: no, ron... one by one, ron releases his fingers from harry's forearm. sacrificing himself.
+hermione: haaaaaaarrrrrr!!!!!!!!! harry squints up, sees a pile-driving fist of a branch screaming straight down for his head. he rolls away just as -- whomp! -- the branch pulverizes the ground. hermione whips through frame, still clinging on for dear life, and harry rises. flumph! -- he's promptly knocked to the ground again. hermione goes crashing through the high branches, harry spies his glasses and grabs them. rising, he fits them to his face and...
+harry: ahhhhhhhhhhhhhhhh! hermione reaches out, grabs harry's shirt and -- riding the branch in tandem -- the two boomerang back, hurtling toward the trunk of the tree, through the gap, and into the darkness...
+hermione: thanks.
+hermione: where do you suppose this goes?
+environment: harry and hermione make their way through the primitive passageway, ducking the roots that dangle overhead. then, abruptly, the tunnel... ends. confused, harry and hermione glance about, then -- as one -- peer up. a small opening. harry reaches up, hoists himself through.
+hermione: we're in the shrieking shack, aren't we? harry doesn't answer, staring at the dog prints in the dust on the floor. the ceiling creaks. they dash to the stairs.
+harry: nox.
+environment: his wand-light dies. slowly, they step to the door. exchange a look. she nods, wand ready, and harry kicks the door aside.
+hermione: ron! you're okay --
+ron: he's the dog. it's a trap, harry. he's an animagus... harry looks down, follows the paw prints on the floor to a pair of filthy human feet. harry looks up slowly at the man standing in the shadows. filthy, matted hair hangs to his shoulders. his skin like a corpse.
+hermione: if you want to kill harry, you'll -- you'll... have to kill us, too!
+harry: then it'll be you!
+harry: professor lupin! lupin ignores them, eying black intensely.
+hermione: professor lupin! lupin ignores them, eying black intensely.
+ron: professor lupin! lupin ignores them, eying black intensely.
+harry: you betrayed my parents! you sold them to voldemort!
+hermione: harry... he turns, see hermione staring at the full moon. his eyes shift. lupin is a rigid silhouette, his fingers twitching.
+environment: sirius black (cont'dpounding lupin's chest) this heart is where you truly live. this heart! here! as lupin's wand drops... pettigrew leaps.
+hermione: professor...? the werewolf's eyes blaze. long teeth glitter. then... a horrifying growl erupts from its throat. harry and hermione spin, begin to flee... and run flat into snape. as they collapse in a great clumsy pile, snape's eyes flutter open, the spell broken. seeing hermione atop him, he sweeps her aside...
+harry: sirius! the dog yelps, roars in pain, and the werewolf flings it into the tall grass. as it charges after, harry pushes past snape, dashes into the night. hermione makes to follow, but snape holds her back.
+harry: please, professor. stop... it's me. suddenly... a howl pierces the night. the werewolf falters, cocking its head toward the forest. harry waits, petrified. the werewolf's eyes shift back to him. it snarls, moves closer, ready to kill. harry covers his face with his arm, when... ... a second howl echoes high above the forest. slowly, harry drops his arm. looks. the werewolf bounds toward the forest, vanishes. harry's eyes shift. in the darkness, the wounded dog lurches through the tall grass. falls. rises. falls again. each time becoming more human. as he disappears over the ridge, harry sprints after.
+harry: sirius! harry looks into his glassy eyes.
+harry: no... no! (drawing his wand) expecto... patronum! a thin silvery wisp weeps from harry's wand, hovering like a veil, but the dementors continue to come. harry places his hand on black's heaving heart, poises his wand once more:
+environment: camera pulls back slowly... out of hermione's shadow, which ripples against the curtain that encircles harry's bed. a hand reaches out -- harry's hand -- and sweeps the curtain aside. ron lies opposite, his leg bandaged. hermione paces. stops.
+harry: i saw my dad.
+harry: he sent the dementors away... i saw him. across the lake... hermione exchanges a private glance with ron, turns back.
+harry: the kiss...?
+harry: you mean, they're going to kill sirius?
+hermione: headmaster! you've got to stop them! they've got the wrong man!
+ron: it's scabbers who did it!
+ron: my rat, sir. only he's not really well, he was a rat. you a rat. see, he used to be my brother percy's --
+albus dumbledore: i do, miss granger. but i'm sorry to say the word of three thirteen- year-old wizards will convince few others. a child's voice, however honest and true, is meaningless to those who have forgotten how to listen. as dumbledore turns to the window, a shooting star plummets silently through the sky.
+albus dumbledore: by the way, when in doubt, i find retracing my steps to be a wise place to begin... good luck. he smiles, exits. harry glances curiously at the chocolate.
+hermione: sorry, ron. but seeing as you can't walk... as ron and harry exchange a curious glance, the bell continues to chime -- ding! ding! -- and...
+hermione: seven-thirty. where were we at seven-thirty?
+hermione: come on! we can't be seen! hermione grabs harry's arm, slams through the door.
+harry: hermione! will you please tell me what it is we're doing?! she holds up a hand, silencing him. annoyed, harry follows her gaze and blinks in disbelief. across the grounds...
+harry: but that... that's... us. this is not... normal.
+hermione: this is a time-turner, harry. mcgonagall gave it to me first term. this is how i've been getting to my lessons all year.
+hermione: yes. dumbledore wanted us to return to this moment. clearly something happened he wants us to change.
+environment: a soft smack is heard. they turn, see malfoy land on the seat of his pants in the sundial garden, rub his kisser.
+hermione: hurry! malfoy's coming! hermione pulls harry under the bridge. seconds later, footsteps clamor over their heads.
+harry: look. buckbeak's still alive.
+harry: buckbeak? but... how will saving buckbeak help sirius?
+environment: as buckbeak feasts on a ferret, harry and hermione duck behind a pile of pumpkins. peering into the hut, harry sees hermione and ron embrace awkwardly.
+environment: he grins, turns, only to find hermione analyzing the moment with considerable fascination. caught -- regards harry defensively.
+harry: nothing. harry looks toward the slope, sees fudge and the others approaching in a cloud of crows.
+hermione: no! fudge has to see buckbeak before we steal him. otherwise, he'll think hagrid set him free! harry nods, then looks toward the hut. inside, hagrid is handing scabbers to ron.
+hermione: no, harry! you can't!
+hermione: yes! you must! (pointing inside) harry, you're in hagrid's hut right now. if you go bursting inside, you'll think you've gone mad. awful things can happen when wizards meddle with time. we can't be seen. hermione turns, watches fudge and the others drawing closer. she frowns, glances into the hut.
+harry: are you mad? hermione ignores him, swiftly whistling a second stone through the window and -- conk! -- off the back of harry's head.
+hermione: sorry. crows begin to drop atop the roof. fudge's party arrives, raps on the door.
+hermione: is that really what my hair looks like from the back?
+environment: nothing, i just thought i saw... never mind.
+environment: harry and hermione watch themselves start up the slope. the coast clear, they slip out of the trees.
+environment: 'it is the decision of the committee for the disposal of dangerous creatures that the hippogriff buckbeak, hereafter called the condemned, shall be executed this day at sundown...' as harry approaches, buckbeak studies him curiously, a ferret leg dangling from his beak. harry bows. slurp! the ferret leg disappears and buckbeak returns harry's nod. as harry takes buckbeak's chain... a flint-eyed crow pecks his hand.
+environment: 'the committee's appointed executioner shall dispatch the condemned by means of beheading...'
+environment: 'as witnessed below.' you sign here, hagrid. very well, gentlemen. let's step outside, shall we... ding! the hogwarts bell begins to toll. harry and hermione exchange a glance. harry tugs harder. no go.
+hermione: here, beaky... come and get the nice dead ferret... yum yum... harry looks at her as if she's mad, but it's... working. as buckbeak trots after, the cawing crows scatter.
+albus dumbledore: professor dippet had those blackberries planted when he was headmaster... harry and hermione shoo buckbeak along, disappear into the forest... just as dumbledore concludes his reverie.
+albus dumbledore: (a hint of amusement) how extraordinary!
+hagrid: professor, i swear! i didn't!
+harry: now what?
+harry: and we do that... how?
+environment: subjective pov, gliding through a thicket of trees, to the forest's edge, the trees thinning, revealing...
+harry: wait until fred and george hear about that one.
+hermione: 'least someone's enjoying himself. harry and hermione sit together in the lengthening shadows. harry snaps off a piece of chocolate, hands it to hermione.
+hermione: yes?
+hermione: with a patronus. i heard snape telling dumbledore when we were taken to the hospital. according to him, only a really powerful wizard could have conjured it.
+harry: it was my dad who conjured the patronus.
+harry: dead. i know. i'm just telling you what i saw. hermione nods, not wanting to press harry further, then glances beyond the trees, toward the whomping willow.
+environment: shadows emerge under a full moon: black. harry. pettigrew. lupin. hermione. ron. sleepwalking snape...
+harry: you see sirius talking to me? he's asking me to come live with him.
+harry: when we free him, i'll never have to go back to the dursley's. i'm going to tell him i'd like to live someplace in the country. i think he'd like that, after all those years in azkaban. we don't need a big place and i can help him... a howl pierces the night. hermione glances toward the willow.
+harry: which means pettigrew is slipping safely into the night. while we just stand here... a fierce growling is heard as twin silhouettes -- the dog and the werewolf -- bound into the tall grass. harry watches himself appear, hurl the stick as before. the werewolf turns, begins to stalk... owwwwwwwww! harry wheels, sees hermione, hands cupped to her mouth, making a loud howl. he covers her mouth.
+hermione: saving your life. harry looks back to the tall grass. the werewolf is frozen. as before, it begins to approach harry again. owwwwwwww! this time, harry doesn't stop her.
+hermione: why?
+hermione: buckbeak. we've got to find him. ... and reveals the werewolf, fifteen feet past, waiting. as harry and hermione step out, they freeze. the werewolf poises itself, preparing to pounce, when... skreeek! the trees shake with the fury of a hurricane and buckbeak charges into the clearing, screening harry and hermione. the werewolf snarls angrily, makes to charge. with lightning-fast reflexes, buckbeak's claws slash the air... only inches from the werewolf's face. the werewolf stops, eyes glittering with rage, then... howls. turning, it vanishes into the forest.
+harry: let's go.
+environment: camera rushes in, holds on harry and hermione's faces.
+environment: shocked. terror-stricken. opposite them, across the lake...
+harry: don't worry. my dad will come... right there... you'll see... he'll come... any minute... he'll conjure the patronus hermione eyes harry warily. he is transfixed, staring hungrily toward the outcrop. the wind rises. the lake begins to freeze. whoosh! whoosh! one after another, dementors drop from the sky, vanish in the cyclone...
+harry: he will! he will come! she looks. nothing. desperately, her eyes flash to the cyclone, to the pitiful sight of harry and black at the water's edge... wracked with pain... dying...
+environment: whoosh! harry and hermione plunge into frame astride buckbeak, soaring toward the castle. outside the grounds, the dementors wait restlessly. up ahead, fudge and snape enter the dark tower, torches in hand.
+hermione: no. (looking down in fear) but i don't like this!
+environment: we see buckbeak land.
+environment: sirius paces within a small cell, a man condemned. spying harry and hermione, he stops. stunned to see them.
+environment: hermione pushes past harry.
+hermione: didn't really expect that to work.
+environment: wand flashing, hermione tries spell after spell.
+environment: sirius laughs, hair blowing in the wind.
+environment: black puts his hands to hermione's waist, swings her off buckbeak and onto the ground next to harry.
+harry: i want to go with you.
+hermione: we have to go.
+environment: as harry and hermione dash off, camera tracks after, rising with them as they race up the tower stairway, then passing through the mechanism and on through to the end of...
+albus dumbledore: by the way, when in doubt, i always find retracing my steps to be a wise place to begin... good luck. as dumbledore begins to close the door, harry and hermione stumble frantically forward, the door about to hit the jamb, when... suddenly... dumbledore stops. looks up.
+harry: he's free -- sirius. we... we did it.
+environment: ... they catch the faintest glimpse of... themselves... across the room... just as they evaporate. ron blinks. turns. frowns.
+hermione: what d'you think, harry? too much for him -- everything that's happened tonight?
+environment: the whomping willow sways in a light breeze. the black lake shimmers, clouds drifting in its glassy mirror.

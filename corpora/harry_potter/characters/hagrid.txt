@@ -1,0 +1,472 @@
+hagrid:  Professor Dumbledore, Sir. Professor McGonagall.
+albus dumbledore:  No problems, I trust, Hagrid?
+hagrid:  No, sir. Little tyke fell asleep just as we were flying over Bristol. Heh. Try not to wake him. There you go.
+environment: Hagrid hands a baby in a blanket over to Dumbledore.
+albus dumbledore:  The only family he has.
+environment: They stop outside a house.
+albus dumbledore:  Exactly. He's better off growing up away from all that. Until he is ready.
+environment: Hagrid coughs and sniffles, he is crying. He clears his throat.
+albus dumbledore:  There, there, Hagrid. It's not really good-bye, after all.
+environment: Hagrid nods. Dumbledore takes a letter and places it on the baby, who is now at the foot of the door. The baby has a visible lightning-bolt shaped scar on his forehead.
+albus dumbledore:  Good luck...Harry Potter.
+hagrid:  Sorry 'bout that. {He puts the door back up}
+environment: Hagrid comes over, grabs the gun and bends it upwards.
+hagrid:  Dry up, Dursley, you great prune. {The gun fires}
+hagrid:  {sees Dudley} Mind, I haven't seen you since you was a baby, Harry, but you're a bit more along than I would have expected. Particularly 'round the middle!
+environment: Harry appears: I-I am.
+hagrid:  Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste fine just the same. Ahh. Baked it myself. {Hands Harry the cake} Words and all. Heh.
+harry:  Thank you! {Opens cake, which reads: Happee Birdae Harry.}
+hagrid:  It's not every day that your young man turns eleven, now is it?
+environment: Hagrid sits down on the couch, takes out an umbrella and points it at the empty fire. Poof, poof! Two sparks fly out and the fire starts. The family gapes.
+harry:  {puts cake down} Excuse me, who are you?
+hagrid:  Rubeus Hagrid. Keeper of keys and grounds at Hogwarts. Course, you'll know all about Hogwarts.
+harry:  Sorry, no.
+hagrid:  No? Blimey, Harry, didn't you ever wonder where your mum and dad learned it all?
+harry:  Learnt what?
+hagrid:  You're a wizard, Harry.
+harry:  I-I'm a what?
+harry:  A wizard. And a thumping good one at that, I'd wager. Once you train up a little.
+harry:  No, you've made a mistake. I can't be...a-a wizard. I mean, I'm just... Harry. Just Harry.
+hagrid:  Well, Just Harry, did you ever make anything happen? Anything you couldn't explain when you were angry or scared? {Harry softens his expression} Ah.
+environment: Hagrid hands Harry the same letter that has been sent the past while. Harry opens it.
+harry:  Dear, Mr. Potter. We are pleased to inform you that you have been accepted at Hogwarts' School of Witchcraft and Wizardry!
+harry:  You knew?? You knew all along and you never told me?
+harry:  Blown up? You told me my parents died in a car crash!
+hagrid:  A car crash? A car crash kill James and Lily Potter?
+hagrid:  It's an outrage! It's a scandal!
+hagrid:  Oh, and I suppose a great Muggle like yourself's going to stop him, are you?
+harry:  Muggle?
+hagrid:  Non magic folk. This boy's had his name down ever since he was born! He's going to the finest school of witchcraft and wizardry in the world, and he'll be under the greatest headmaster Hogwarts' has ever seen: Albus Dumbledore.
+hagrid:  {whips out umbrella and points it at Vernon} Never insult Albus Dumbledore in front of me.
+environment: Hagrid sees Dudley eating Harry's cake, and points the umbrella at his rear. A grey tail grows.
+harry:  {laughs}
+hagrid:  Oh, um, I'd appreciate if you didn't tell anyone at Hogwarts about that. Strictly speaking, I'm not allowed to do magic.
+harry:  {Nods} Okay.
+hagrid:  {checks a clock} Ooh, we're a bit behind schedule. Best be off. Unless you'd rather stay, of course. Hmm? {Leaves}
+environment: Harry grins, looks back, and grins again.
+environment: Streets of London. Hagrid and Harry are walking.
+harry:  All students must be equipped with...one standard size two pewter cauldron and may bring if they desire either an owl, a cat or a toad. Can we find all this in London?
+hagrid:  If you know where to go.
+environment: They go to a corner store and enter, The Leaky Cauldron.
+environment: {Music and talking}
+environment: Barkeep Tom: Ah, Hagrid! The usual, I presume?
+hagrid:  No thanks, Tom. I'm on official Hogwarts business today. Just helping young Harry here buy his school supplies.
+tom riddle:  Bless my soul. It's Harry Potter.
+environment: The pub goes silent. A man comes up and shakes Harrys hand.
+environment: A witch comes up and shakes Harrys hand, as well.
+environment: A man in robes with a turban on his head appears. It is PROFESSOR QUIRRELL.
+hagrid:  Hello, Professor. I didn't see you there. Harry, this is Professor Quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.
+harry:  Oh, nice to meet you. {Puts out hand. Quirrell refuses}
+hagrid:  Yes, well, must be going now. Lots to buy. Heh.
+harry:  Good-bye.
+environment: The two leave into a back room winery in front of a brick wall.
+hagrid:  See, Harry, you're famous!
+harry:  But why am I famous, Hagrid? All those people back there, how is it they know who I am?
+hagrid:  I'm not exactly sure I'm the right person to tell you that, Harry. {Taps the brick wall clockwise with his umbrella. The blocks shift and open up to reveal a hidden, busy street.}
+environment: Welcome, Harry, to Diagon Alley.
+environment: Harry grins broadly as they step into the street and walk down it. An owl screeches.
+hagrid:  Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry.
+environment: Harry is amazed as they pass by shops and owls and bats. The camera pans on a broom store, where a group of boys are crowded around a shiny broom.
+harry:  But, Hagrid, how am I to pay for all this? I haven't any money.
+hagrid:  Well there's your money, Harry. Gringotts, the Wizard Bank. T'aint no place safer, 'cept perhaps Hogwarts.
+environment: Inside the bank, they walk down the shiny aisle, passing tiny creatures working.
+harry:  Uh, Hagrid, what exactly are those things?
+hagrid:  They're goblins, Harry. Clever as they come goblins but not the most friendly of beasts. Best stick close to me. {Harry sticks to him.} {Hagrid clears his throat as they approach a counter with a goblin in it.} Mr. Harry Potter wishes to make a withdrawal.
+environment: The goblin looks up.
+hagrid:  Oh. Wait a minute. Got it here somewhere. Hah. Here's the little devil. Oh, and there's something else as well. Professor Dumbledore gave me this. It's about you-know-what in vault you-know-which. {Hands Goblin letter wrapped in string.}
+environment: Racing down the depth caverns in a cartlike structure. The cart stops, a goblin, GRIPHOOK, clambers out.
+environment: The room is filled nearly top to bottom with coins. Harry is amazed.
+hagrid:  Didn't think your mum and dad would leave you with nothing, now didja?
+environment: They continue on through the cavern.
+harry:  What's in there, Hagrid?
+hagrid:  Can't tell you, Harry. It's Hogwarts business. Very secret.
+hagrid:  Best not mention this to anyone, Harry.
+environment: Harry nods.
+environment:  Outside in the street, walking.
+harry:  I still need...a wand.
+hagrid:  A wand? Well, you'll want Ollivanders. No place better. Run along there, but wait. I just got one more thing I got to do. Won't be long.
+environment: Harry goes into the store, quietly. He looks around. There are shelves of wands, but no people.
+harry:  {Softly} Hello? Hello?
+environment: There is a thunk. A man appears on a ladder and looks at Harry. He smiles.
+harry:  Oh! {waves. All the shelves come crashing down. Harry jumps and hurriedly puts the wand back on the counter.}
+harry:  Sorry, but what's curious?
+harry:  And...who owned that wand?
+hagrid:  Harry! Harry! Happy birthday! {Has a snowy owl in a cage which hoots.}
+harry:  Wow.
+environment:  Later, eating supper. The two, Hagrid and Harry, are at a long table, eating soup.
+hagrid:  You all right, Harry? You seem very quiet.
+harry:  He killed my parents, didn't he? The one who gave me this. You know, Hagrid, I know you do.
+hagrid:  {Sighs and pushes bowl away} First, and understand this, Harry, 'cause it's very important. Not all wizards are good. Some of them go bad. A few years ago there was one wizard who went as bad as you can go. And his name was V-...his name was V-...
+harry:  Maybe if you wrote it down?
+hagrid:  No, I can't spell it. All right. His name was Voldemort.
+harry:  Voldemort?
+hagrid:  Shh!!
+environment: {Harry looks around}
+environment: A flashback ensues, consisting off a cloaked man walking towards a house, breaking in with his wand, and proceeding to terrorize. Hagrid narrates.
+hagrid:  It was dark times, Harry, dark times. Voldemort started to gather some followers, brought 'em over to the dark side. Anyone that stood up to him ended up dead. Your parents fought against him, but nobody lived once he decided to kill 'em. {Harrys mother, LILY, screams as she is killed by Voldemorts wand} Nobody...not one. Except you. {close-up of baby Harry.}
+harry:  Me? Voldemort tried to kill...me?
+hagrid:  Yes. That ain't no ordinary cut on your forehead, Harry. A mark like that only comes from being touched by a curse...and an evil curse at that.
+harry:  What happened to Vo-...to You-Know-Who?
+hagrid:  Some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous, Harry. That's why everbody knows your name. You're the boy who lived.
+environment:  London Train Station. Up on a crossing bridge, Harry (with cart and owl) walk beside Hagrid.
+environment: A couple look at Hagrid.
+hagrid:  What're you looking at? {Looks at watch} Blimey, is that the time?? Sorry, Harry, I'm gonna have to leave you. Dumbledore'll be wanting his...well, he'll be wanting to see me. Now, uh, your train leaves in 10 minutes. Here's your ticket. Stick to it, Harry that's very important. Stick to your ticket.
+environment: Harry looks at his golden ticket.
+harry:  Platform 9 ¾? But Hagrid, there must be a mistake. This says Platform 9 ¾. There's no such thing...is there? {Harry looks up and Hagrid has vanished.}
+environment:  Harry is walking down lane between trains. A man rushes by.
+environment: Harry sees a train master.
+harry:  Excuse me, excuse me.
+harry:  Excuse me, Sir. Can you tell me where I might find Platform 9 ¾?
+environment: A woman, daughter, and four boys walk by, pushing carts.
+hagrid:  Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!
+environment: Harry and Ron walk up to Hagrid.
+hagrid:  Hello, Harry.
+harry:  Hey, Hagrid.
+ron:  Whoaa!
+hagrid:  Right then. This way to the boats! Come on, now, follow me.
+environment: A number of boats are plugging across a vast lake, where up ahead a huge castle can be seen. People are in awe.
+ron:  Wicked.
+environment:  On a higher level, Professor McGonagall is waiting. She raps her fingers on a stone railing, and then goes to the top of the stairs to greet the newcomers.
+environment: NEVILLE LONGBOTTOM, a scared looking boy, spots his toad sitting near McGonagall. He jumps forward.
+environment: DRACO MALFOY, a slicked back evil looking boy speaks up.
+harry:  I think I can tell who the wrong sort are for myself, thanks.
+hagrid:  Well done!
+environment: Flint dodges people and throws for the Gryffindor hoops. Oliver appears and whacks the ball away with his broom. He smirks at Flint, who glares. Johnson and KATIE BELL pass the Quaffle back and forth as they strategize to score. Johnson takes it, throws, and once again scores!
+environment: Ron and Seamus: Yay!
+harry:  Yes!
+environment: The Slytherins decide to get messy. They dodge, kick, and try to score. Once again, Oliver blocks.
+environment: Harry is visibly upset.
+hagrid:  What's going on with Harry's broomstick?
+environment: Hermione looks through binoculars at Harry, then at Snape, who is muttering something.
+hermione:  It's Snape! He's jinxing the broom!
+ron:  Jinxing the broom? What do we do?
+hermione:  Leave it to me. {She hands Ron her binoculars and leaves.}
+environment: Harry is knocked around, then falls, dangling by one arm from the broom.
+ron:  Come on, Hermione!
+environment: Hermione is hurrying up a tower. She appears underneath Snape and touches his cloak with her wand.
+hermione:  Lacarnum Inflamarae.
+environment: A spark ignites and Snape's cloak catches fire. Hermione leaves.
+hagrid:  Go go go!
+environment: Harry rams the Slytherin Seeker, then is butted out. He returns, smashing the Seeker again as the Snitch dives. The boys follow, but they approach the ground quickly. The Slytherin Seeker backs out, and Harry pulls up his broom as he follows the Snitch, feet above the ground. Harry stands up, and steps forward, trying to grab the ball. He goes too far, and topples off the broom with a yelp, tumbling on the ground. He gets up and lurches.
+environment: The crowd gasps. Hermione appears beside a tower to see.
+hagrid:  Looks like he's gonna be sick!
+environment: Harry lurches and the Snitch pops out of his mouth. It lands in his hands.
+hagrid:  Yes!
+hermione:  Whoo-hoo!
+environment: Harry raises the Snitch into the air and the crowd, and his team, cheers.
+environment: Harry, Hermione and Ron are walking along a path with Hagrid, talking.
+hagrid:  Nonsense. Why would Snape put a curse on Harry's broom?
+harry:  Who knows. Why was he trying to get past that 3 headed dog on Halloween?
+hagrid:  Who told you 'bout Fluffy?
+ron:  Fluffy?
+hermione:  That thing has a name?
+hagrid:  Well, of course he's got a name. He's mine. I bought him off an Irish feller I met down at the pub last year. Then I lent him to Dumbledore to guard the
+harry:  Yes?
+hagrid:  Shouldn'ta said that. Don't ask any more questions. That's top secret, that is.
+harry:  But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it!
+hagrid:  Codswallop. Professor Snape is a Hogwarts teacher.
+hermione:  Hogwarts teacher or not, I know a curse when I see one. I've read all about them. You have to keep eye contact. And Snape wasn't blinking.
+harry:  Exactly.
+hagrid:  {sighs} Now, you listen to me, all three of you. You're meddlin' in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Professor Dumbledore and Nicholas Flamel.
+harry:  Nicholas Flamel?
+hagrid:  I shouldn't have said that. I should not have said that. I should not have said that. {Exit.}
+harry:  Nicholas Flamel...Who's Nicholas Flamel?
+hermione:  I don't know.
+environment:  Christmas. The camera pans up to a snowy castle, then to Hagrid, who is bringing in a large tree. Inside the great hall, students are leaving and ghosts are singing (Merry Christmas, Merry Christmas, ring the Hogwarts bell. Merry Christmas, Merry Christmas...) Hermione approaches the empty tables, wheeling a cart. She goes to Ron and Harry, who are playing chess.
+harry:  Knight to E-5.
+environment: A piece moves across the board.
+environment: Ron thinks for a moment.
+ron:  Queen to E-5.
+environment: A queen walks over to E-5 and clinks the knight away.
+hermione:  That's totally barbaric!
+ron:  That's wizard's chess. I see you've packed.
+hagrid:  {clad in oven mitts and an apron} Oh, hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today. {Closes door.}
+environment: All 3: We know about the Philosopher's Stone!
+environment: {Door reopens.}
+hagrid:  Oh.
+environment: {They all come into Hagrid's small hut.}
+harry:  We think Snape's trying to steal it.
+hagrid:  Snape? Blimey, Harry, you're not still on about him, are you?
+harry:  Hagrid, we know he's after the Stone. We just don't know why.
+hagrid:  Snape is one of the teachers protecting the Stone! He's not about to steal it!
+harry:  What?
+hagrid:  You heard. Right. Come on, now, I'm a bit preoccupied today.
+harry:  Wait a minute. {Ron and a big black boarhound, FANG, meet. Fang sniffs Ron.} One of the teachers?
+hermione:  {sitting in a large chair} Of course! There are other things defending the Stone, aren't there? Spells, enchantments.
+hagrid:  That's right. Waste of bloody time, if you ask me.
+environment: {Hermione looks at Ron, who is being sniffed in the face by Fang. Ron shuffles away.} Ain't no one gonna get past Fluffy. Hehe, not a soul knows how. Except for me and Dumbledore. I shouldn't have told you that. I shouldn't have told you that. {A cauldron over a fire begins to rattle.} Oh! {Hagrid hurries over and grabs something} Ooh! Ooh! Ooh! Ooh! {puts the thing, an egg, on the table. The group crowds around.}
+harry:  Uh, Hagrid, what exactly is that?
+hagrid:  That? It's a ... its um...
+ron:  I know what that is! But Hagrid, how did you get one?
+hagrid:  I won it. Off a stranger I met down at a pub. Seemed quite glad to be rid off it, as a matter of fact.
+environment: The egg rattles and cracks. Pieces fly off as a dragon emerges. It squeaks and slips on an egg piece.
+hermione:  Is that...a dragon?
+ron:  That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.
+hagrid:  Isn't he beautiful? Oh. Bless him, look. He knows his mummy. Hehe. Hallo, Norbert. {The dragon squeaks as it looks at Hagrid.}
+harry:  Norbert?
+hagrid:  Yeah, well, he's got to have a name, doesn't he?
+ron:  {laughs}
+hagrid:  Don't you, Norbert? {raises fingers back and forth across Norberts chin} Dededede.
+environment: Norbert backs away, hiccups and blows a fireball of fire into Hagrid's beard.
+hagrid:  Ohh! Oooh, ooh, ooh, well...he'll have to be trained up a bit, of course. {Norbert hiccups. Hagrid sees someone looking in the window.} Who's that? {The person scampers away.}
+harry:  Malfoy.
+hagrid:  Oh, dear.
+environment: The three are walking back through a corridor. An owl screeches.
+harry:  Hagrid always wanted a dragon. He told me so the first time I met him.
+ron:  It's crazy. And worse, Malfoy knows.
+harry:  I don't understand. Is that bad?
+ron:  It's bad.
+environment: They stop as McGonagall, in her nightgown, appears.
+environment: Malfoy appears smugly beside her.
+environment: McGonagall's classroom. The three accused are standing in front of McGonagall's desk, while Malfoy is feet away, smirking.
+hagrid:  {sniffs and sighs} Norbert's gone. Dumbledore sent him off to Romania to live in a colony.
+hermione:  Well, that's good, isn't it? He'll be with his own kind.
+hagrid:  Yeah, but what if he don't like Romania? {Filch rolls eyes.} What if the other dragons are mean to him? He's only a baby, after all.
+hagrid:  Right. Let's go.
+environment:  In the forest. The group walks along a path to a tree. Hagrid stops, bends down and dips his fingers in a silver puddle. He pulls out his fingers and rubs them together. A silver trail smears with his fingers.
+harry:  Hagrid, what's that?
+hagrid:  What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something. {Harry suddenly sees a large cloaked figure walking through the trees. He looks at Hagrid.} So, it's our job to find the poor beast. Ron, Hermione, you'll come with me.
+ron:  {weakly} Okay.
+hagrid:  And Harry, you'll go with Malfoy. {Draco grimaces, and Harry nods.}
+hagrid:  Fine. Just so you know, he's a bloody coward. {Fang whines.}
+environment: Harry and Draco are walking through the forest, Fang leading. Draco has the lamp.
+harry:  If I didn't know better, Draco, I'd say you were scared.
+environment: The group approaches a flat ground with gnarled roots all over. Fang stops, then growls.
+harry:  What is it, Fang?
+environment: Up ahead, a cloaked figure is crouched over a dead unicorn, drinking its blood. The figure raises its head, silver blood dripping from its mouth.
+environment: Harry gasps and grabs his scar, which is hurting.
+environment: Harry is left by himself. The figure slides over the unicorn and rises erect. It advances towards Harry, who backs up, but trips. He crawls backwards. Suddenly, there is the sound of hoofbeats. A figure leaps over Harry and lands near the cloaked figure. It is a silver centaur, FIRENZE. It rears, and the cloaked figure retreats, flying away.
+hagrid:  Hello there, Firenze. I see you've met our young Mr. Potter. You all right there, Harry? {Harry nods}
+environment: {Close up on the dead unicorn.}
+environment: Gryffindor common room. Right after 'attack.' The group is around the fire. Hermione and Ron are seated, but Harry stands.
+hermione:  You mean, You-Know-Who's out there, right now, in the forest?
+harry:  But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the stone for himself, he wants the stone for Voldemort. With the Elixir of Life, Voldemort will be strong again. He'll He'll come back. {Sits down.}
+ron:  But if he comes back, you don't think he'll try to kill you, do you?
+harry:  I think if he'd had the chance, he might have tried to kill me tonight.
+ron:  {Gulp} And to think, I've been worrying about my Potions final!
+hermione:  Hang on a minute. We're forgetting one thing. Who's the one wizard Voldemort always feared?
+environment: {The boys shrug.} Dumbledore! As long as Dumbledore's around, you're safe. As long as Dumbledore's around, you can't be touched. {Harry smiles slightly.}
+hagrid:  I don't know. I never saw his face. He kept his hood up.
+harry:  The stranger, though, you and he must have talked.
+hagrid:  Well, he wanted to know what sort of creatures I looked after. I told him. I said, "After Fluffy, a dragon's gonna be no problem."
+harry:  And did he seem interested in Fluffy?
+hagrid:  Well, of course he was interested in Fluffy! How often do you come across a three headed dog, even if you're in the trade? But I told him. I said, "The trick with any beast is to know how to calm him. Take Fluffy, for example, just play him a bit of music and he falls straight to sleep."
+environment: The three gape.
+hagrid:  I shouldn't have told you that. {The three take off.} Where you going?! Wait!
+environment: McGonagall's classroom. The three come tearing in and run up the aisles between desks. They pass a ghost and stop at the desk.
+harry:  We have to see Professor Dumbledore, immediately!
+harry:  He's gone?! Now? But this is important! It's about...the Philosopher's Stone.
+harry:  Someone's going to try and steal it.
+environment: After exiting McGonagall's class, they walk down the hallway.
+harry:  That was no stranger Hagrid met in the village. It was Snape, which means he knows how to get past Fluffy.
+hermione:  And with Dumbledore gone
+hagrid:  Yes! {grins}
+environment: All students stand and throw their hats into the air, except Draco, who smashes his down onto the table.
+environment: All rub each other's hair and jump around, cheering and laughing.
+environment: The outdoor train station. Students are walking around, getting in the train.
+hagrid:  Come on now, hurry up. You'll be late. Train's leaving. Go on. Go on. Come on. Hurry up.
+environment: Harry hands Hedwig to a train man, and walks to an open door of the train with Hermione. Hermione waves to Hagrid, who waves back. Hermione gets in the train.
+hermione:  Come on, Harry.
+harry:  One minute. {He walks over to Hagrid.}
+hagrid:  Thought you were leaving without saying good-bye, didja? {Hagrid takes a red album out of his coat pocket and hands it to Harry.} This is for you.
+environment: Harry opens the album and sees a picture, moving, of him as a baby with his parents. They are all smiling and waving. Harry smiles.
+harry:  Thanks, Hagrid. {Shakes Hagrid's hand, then hugs him tightly.}
+hagrid:  Oh. Go on...on with you. {Harry lets go.} Oh, listen, Harry, if that dolt of a cousin of yours, Dudley, gives you any grief, you could always, um, threaten him with a nice pair of ears to go with that tail of his.
+harry:  But Hagrid, we're not allowed to do magic away from Hogwarts. You know that.
+hagrid:  I do. But your cousin don't, do he? Eh? {chuckle} Off you go.
+environment: Harry walks away, back to the train door where Hermione and Ron are waiting.
+hermione:  Feels strange to be going home, doesn't it?
+harry:  I'm not going home. Not really.
+environment: The train whistles and they climb aboard. As the train starts to leave and the camera pans up over the whole scene, Harry waves out the window to Hagrid, who waves back and then waves more to other students as the camera pans far back, then the credits begin.
+hagrid: HARRY! What d'yer think yer doin' down 'ere?
+harry: Hagrid! Hagrid knocks the tray from the cursing Witch's hands, then seizes Harry by the scruff of the neck and steers him away. 28 EXT. DIAGON ALLEY - CONTINUOUS ACTION - DAY 28 Hagrid swats at Harry's sooty clothes.
+hagrid: Yer a mess! Skulkin' 'round Knockturn Alley. Dodgy place, Harry. Don't want no one ter see yeh down there. People'll be thinkin' yer up ter no good.
+harry: I was lost, I -- Hang on. What were you doing down there?
+hagrid: I was lookin' fer a Flesh Eatin' Slug Repellent. They're ruinin' the school cabbages. HERMIONE (O.S.) Harry! Harry looks up, sees HERMIONE GRANGER standing at the top of Gringotts' white steps. She runs down to meet them.
+environment: 20. 28 HERMIONE
+hermione: Hello, Hagrid. Oh, it's wonderful to see you two again. She stops then, cocks her head curiously at Harry, then takes out her wand and points it directly between his eyes.
+hermione: Oculus Reparo. Instantly, Harry's glasses are mended.
+harry: I need to remember that one.
+hermione: C'mon. Everyone's been so worried. Hermione leads them to Gringotts, where Hermione's rather nervous-looking Muggle parents stand with the Weasleys.
+hermione: Isn't it thrilling! Gilderoy Lockhart's going to be there! We can actually meet him! I mean, he's written almost the whole booklist! As Mrs. Weasley and Hermione dash off, Harry frowns.
+harry: Who?
+environment: 29A EXT. FLOURISH AND BLOTTS - DAY 29A
+hagrid: Ignore 'im, Arthur. Mr. Weasley backs away. Lucius Malfoy tosses Ginny's BATTERED TEXTBOOK back into her cauldron.
+environment: . (4) 30 HAGRID
+hagrid: No Malfoy's worth listenin' ter. Rotten ter the core, the whole family... As Harry watches Draco and his father go, we -- 30A OMITTED 30A
+environment: 30B EXT. KING'S CROSS - MORNING 30B Amid a neat line of cars, the Anglia sits at a decidedly odd angle, as if its driver were not the most skilled motorist.
+environment: 32 INT. KING'S CROSS - DAY 32 The Weasleys and Harry -- pushing large TROLLEYS -- dash under the LARGE CLOCK which reads two minutes to eleven.
+environment: . 32A
+environment: MRS. WEASLEY (O.S.) Come, Ginny. We'll get you a seat. 32B INT. KING'S CROSS 32B Ron glances at the clock.
+ron: We better hurry. Harry nods, leans into his trolley and -- CRASH! -- hits the barrier and bounces back into Ron. A GUARD glowers.
+harry: Sorry. Lost control of the trolley. (to Ron) Why can't we get through?
+ron: I dunno. The gateway's sealed itself for some reason. As Ron presses his ear to the barrier, the CLOCK CHIMES.
+hagrid: Got jus' the thing. Set 'im down on that chair o'er there. As Ron sits, Hagrid pitches a BUCKET between his knees. Harry and Hermione glance up questioningly. Hagrid shrugs.
+environment: 44. 46 HAGRID
+hagrid: Better out than in. Who was he tryin' ter curse anyway?
+harry: Malfoy. He called Hermione, well, I don't know exactly what it means...
+hermione: (quietly) He called me a Mudblood.
+hagrid: He didn'! Harry looks confused. Hermione glances at him, then away, obviously pained by this.
+hermione: It means dirty blood. Mudblood's a really foul name for someone who was Muggle-born. Someone with non-magic parents. Someone... like me. It's not a term one usually hears in civilized conversation.
+hagrid: Yeh see, Harry. There are some wizards -- like Malfoy's family -- who think they're better than everyone else 'cause they're what people call pureblood.
+harry: That's horrible.
+ron: (BELCHES forth a slug) It's disgusting!
+hagrid: An' it's codswallop ter boot. Dirty blood. There's 'ardly a wizard today that's not half-blood or less. If we 'adn't married Muggles we'd've died out long ago. Besides, they haven't invented a spell our Hermione can't do... (taking her shoulder) Don' you think on it, Hermione. Don' you think on it fer a minute. /45A.
+environment: &amp; &amp;
+environment: 49 INT. GILDEROY LOCKHART'S OFFICE - EVENING (HOURS LATER) 49 CAMERA PANS the walls of Lockhart's office, lined with FRAMED PHOTOGRAPHS of... Gilderoy Lockhart. Harry and Lockhart work by candlelight at an ornate desk. Bleary- eyed, Harry addresses envelopes, while a cheery Lockhart puts his signature to the stack of GLOSSY PHOTOS bearing his image.
+environment: 49. 49 HARRY
+harry: What?
+harry: No... not you, that... voice.
+hagrid: Gallopin' Gorgons! Slytherin's flyin' like they got dragon fire in their brooms... Ron fumes, looking as though he takes Slytherin's dominance personally. Taking Hagrid's GIANT BINOCULARS, he trains them on the FACULTY BOX -- where Lucius Malfoy sits next to Snape. Harry circles high above the pitch, searching for the Golden Snitch. Suddenly, Malfoy streaks by overhead.
+environment: . 65 HAGRID
+hagrid: (from the stands) Blimey, Harry's got 'imself a Rogue Bludger!
+ron: Rogue Bludger?
+hagrid: Look fer yerself! It's bin' tampered with! Harry executes a series of zigs, zags, loops and rolls, trying to shake the Bludger, but the Bludger is relentless. Ron instinctively draws his wand, begins to point it toward Harry and the Bludger, when... Hermione's hand intercedes. She glances knowingly at his fractured wand.
+hermione: You're joking, right? Besides, even with a proper wand, it's too risky. You could hit Harry. As Harry frantically dips and dives, Malfoy cruises by.
+environment: A. (1A) 65
+environment: Harry continues on, CLOSING on the Snitch, fingertips only inches from catching it... when... the Rogue Bludger SMASHES INTO Harry's arm. Harry cries out, steadies himself and with a brilliant, acrobatic move, SNATCHES the Snitch out of the air with his good hand. Unable to control his broom with his shattered arm, he hits the pitch with a SICKENING THUD. Wincing, Harry rolls onto his shoulders, SQUINTS UP a BLACK DOT -- growing rapidly LARGER -- is plummeting from the sky, directly toward him. It's... the rogue Bludger. Instantly, Harry spins away, grimacing in agony, as the Bludger... ... hits the ground like a SLEDGE HAMMER, violently TATTOOING the pitch again and again, only inches from Harry. Calmly, Hermione strides forth, points her wand.
+hermione: Finite Incantatem! The Bludger hangs briefly in the air. Slowly ceases spinning. Drops heavily to the pitch. Harry exhales, relieved, only to recall the searing pain in his arm. As CONCERNED FACES swim above him, one particular face pushes through the others
+harry: No... no... not you.
+environment: 59. (3) 65 GILDEROY LOCKHART
+hagrid: Brok'n? He doesn't 'ave any bones at all! Harry looks his arm looks like an empty rubber glove. 66 INT. HOSPITAL WING - DAY 66 A dazed Malfoy slumps out with Crabbe and Goyle. Ron, standing by Harry's bed with Hermione, grins, then watches MADAM POMFREY pour out a STEAMING BEAKERFUL OF LIQUID from a bottle of SKELE-GRO. A group of Gryffindors, including some of his teammates, stand nearby.
+hermione: You will be able to, won't you?
+environment: . 66 COLIN
+environment: He SENSES something... a presence... when... Five BANDAGED FINGERS ENTER FRAME, begin to SPONGE his brow. Harry bolts upright, finds...
+harry: Dobby!
+hagrid: All righ', Harry?
+harry: Hagrid... what're you doing here?
+environment: . 74 HAGRID
+hagrid: (holding up the rooster) Second one killed this term. Reckon it's either foxes or a Blood-Suckin' Bugbear. Need Dumbledore's permission ter put a charm round the hen-coop. Yeh sure yeh're all righ', Harry? Yeh look all hot an' bothered.
+harry: It's nothing. I'd better get going. I've got a lot of studying... 75 INT. ANOTHER CORRIDOR - NIGHT (MOMENTS LATER) 75 Harry enters, slows. Up ahead, in the light of a FLICKERING TORCH, something DARK lies. A WINDOWPANE RATTLES in the WIND and the torch... goes out. Harry steps closer, finds... Justin-Finch-Fletchley. Lying rigid on the floor, a look of shock on his frozen face. Nearby, an inert Nearly Headless Nick floats, body teeming with BLACK SMOKE. Kneeling, Harry notices a TRAIL OF SPIDERS scuttling away from Justin's body and out the loose windowpane... when suddenly... ... Harry senses someone watching him, wheels McGonagall.
+harry: Professor, I swear I didn't -- PROFESSOR McGONAGALL This is out of my hands, Potter. Mr. Filch, will you take care of this, please? Harry's eyes shift. Filch lurks in the shadows beyond McGonagall. He steps forward, HISSES QUIETLY.
+environment: . 75 FILCH
+harry: Well, you see, I was wondering...
+environment: 73. 77 SORTING HAT
+harry: You're wrong! The hat sits motionless. Silent. Hearing a GAGGING SOUND, Harry wheels, finds an OLD, DECREPIT BIRD (FAWKES) sitting on a GOLDEN PERCH. It wobbles, then... BURSTS INTO FLAMES. As Dumbledore enters, Harry looks horror- struck.
+hagrid: It wasn't Harry, Professor Dumbledore!
+environment: . (2) 77 DUMBLEDORE
+albus dumbledore: Hagrid --
+hagrid: I was talkin' ter 'im jus' before that kid was found. It can't've bin 'im!
+albus dumbledore: Hagrid --
+hagrid: I'll swear ter it in front o' the Ministry o' Magic --
+albus dumbledore: HAGRID! I do not think that Harry has attacked anyone.
+hagrid: Oh. Right. I'll wait outside then. As Hagrid exits, Harry looks hopefully at Dumbledore.
+harry: You don't think it was me, Professor?
+albus dumbledore: No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all? Dumbledore waits. Harry debates. Finally...
+harry: No, Professor. Nothing. 78 EXT. HOGWARTS CASTLE - DAY 78 Students drift into the snow with their trunks, heading home for holiday. As Harry, Ron, and Hermione appear, Ernie and few others cast wary glances.
+environment: . 78 RON
+ron: Oh, c'mon, Harry. Fred's just having a laugh.
+harry: He's the only one.
+ron: Okay, so half the school thinks you're nipping off to the Chamber of Secrets every night. Who cares?
+harry: Maybe they're right.
+hermione: (reproachfully) Harry!
+hagrid: No, yeh can't! Yeh don' understand!
+tom riddle: Hagrid. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure the thing that killed their daughter is slaughtered.
+hagrid: It wasn' him! Aragog never'd kill no one! Never!
+tom riddle: Monsters don't make good pets, Hagrid. Now... stand aside... Riddle draws his wand, BLASTS the closed DOOR off its hinges, extinguishing the torches within. Harry GASPS. A low-slung CREATURE with a tangle of black legs, a gleam of many eyes and a pair of razor-sharp pincers, scuttles out of the shadows. As Riddle points his wand at it, Hagrid LEAPS...
+hagrid: Noooooo!
+environment: . (2) 100
+environment: As they tumble to the floor, the entire ROOM WHIRLS off its axis, spinning, and Harry finds himself plummeting through color and shadow again, falling flat on his back to... ... the floor of the Gryffindor Common Room, the ceiling above spinning, slowly, to a stop. Harry rises, dashes upstairs. 100A INT. BOYS' DORMITORY - NIGHT 100A Harry rushes to Ron, shakes him awake, WHISPERING INTENSELY.
+harry: Ron! Ron!
+ron: What? What's happened...?
+harry: It was Hagrid. Hagrid opened the Chamber of Secrets fifty years ago. 100B EXT. HOGWARTS - ESTABLISHING SHOT - DAY 100B CAMERA SOARS high over the castle, as below, students hurry to their classes. Finally, it FINDS
+environment: 102 EXT./INT. HOGWARTS GROUNDS - DAY (LATER) 102 Harry, Ron and Hermione walking together across the grounds.
+hermione: It can't be Hagrid. It just can't be.
+ron: We don't even know this Riddle. He sounds like a dirty, rotten snitch to me.
+harry: The monster had killed someone, Ron. What would any of us done?
+hermione: Look. Hagrid's our friend. Why don't we just go ask him about it?
+hagrid: Mad an' hairy? Wouldn' be talkin' 'bou me, now would yeh? The trio wheels, spots Hagrid grinning at them. They instantly look guilty.
+harry: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+ron: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+hermione: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+harry: What's that you've got, Hagrid?
+hagrid: Flesh-Eatin' Slug Repellent. Fer the Mandrakes, yeh know. Accordin' ter Professor Sprout, they still got a bit o' growin' up ter do, but once their acne clears up, we'll be able to chop 'em up, stew 'em, an' get those people in the hospital un-Petrified. 'Til then, you three best watch yerselves, all righ'? They nod, watch Hagrid lope away. Just then, Neville comes running up. He looks pale with fright.
+environment: 104 INT. GRYFFINDOR TOWER DORMITORY - DAY 104 Harry's space is a disaster trunk riffled, drawers flung open, bedclothes strewn on the floor.
+hermione: It had to be a Gryffindor. Nobody else knows our password. Unless, it wasn't a student...
+environment: . 104 RON
+ron: Well, whoever it was, they were looking for something.
+harry: And they found it... Tom Riddle's diary is gone. 105 EXT. HOGWARTS GROUNDS - DAY 105 Students stream into the Quidditch Stadium. 105A INT. MARBLE STAIRCASE - DAY 105A Harry, dressed in his Quidditch robes, dashes down the staircase with Ron and Hermione. Down below, Ron spies Ginny.
+ron: Hey, Ginny! Going to the match? Ginny looks up, startled, then shakes her head and exits.
+ron: I tell you, she gets weirder and weirder by the day... VOICE (O.S.) Kill this time... Let me rip... Tear. Harry freezes. Ron and Hermione stop, knowing by his face...
+ron: No... don't tell me... Harry turns, as if following the SOUND, absently touching his fingers to the wall as he glances around. Hermione studies him with great interest -- STUDIES HIS FINGERS -- then, abruptly, Harry turns away, shakes his head it's gone. Hermione looks up, eyes vaguely upon Harry, but her mind miles away.
+hermione: Harry... I think I've just understood something! I've got to go to the library! As Hermione sprints back up the stairs, Harry YELLS.
+hagrid: Who's there? Harry and Ron drop the cloak. Hagrid lowers the crossbow. 114 INT. HAGRID'S HUT - NIGHT 114 FANG, Hagrid's enormous BOARHOUND, THUMPS HIS TAIL at the sight of Harry and Ron. Harry points to the crossbow.
+harry: What's that for?
+hagrid: Nothin', nothin'. I've been expectin'... Doesn't matter. Sit down... I'll make tea... Hagrid nervously takes the kettle, spills the water..
+harry: Are you okay? Hagrid? Did you hear about Hermione?
+hagrid: Oh, yea. I heard, all righ'.
+harry: Look... we have to ask you something. Do you know who's opened the Chamber of Secrets? Hagrid takes a fruit cake, stops, about to answer, when... there is a LOUD KNOCK. The fruitcake SMASHES to the floor. Panicked, Harry and Ron throw the cloak over themselves. Sweating, Hagrid grabs his crossbow, points it at the door.
+hagrid: C-come in. The door opens. A grim Dumbledore enters, followed by a portly man in a pin-stripe suit and bowler
+albus dumbledore: Good evening, Hagrid.
+environment: 100. 114 RON
+ron: (whispering to Harry) That's Dad's boss! Cornelius Fudge. The Minister of Magic! Harry elbows Ron to shut him up.
+hagrid: I never... You know I never, Professor Dumbledore, sir...
+albus dumbledore: I want it understood, Cornelius, that Hagrid has my full confidence.
+hagrid: Take me? Where? Not Azkaban prison.
+hagrid: What're you doin' here! Get outta my house!
+environment: 101. (2) 114 LUCIUS MALFOY
+albus dumbledore: And what exactly did you want with me, Lucius?
+hagrid: An' how many did yeh have ter threaten before they agreed!
+hagrid: Yeh can take Dumbledore! Take him away an' the Muggle-borns won' stand a chance! There'll be killin's next!
+environment: 102. (3) 114 DUMBLEDORE
+albus dumbledore: Calm yourself, Hagrid! (steely-eyed) If the governors want my removal, Lucius, I shall of course step aside. However... you will find that I will only truly have left this school when none here are loyal to me. You will also find that help will always be given at Hogwarts to those who... ask for it. Dumbledore's eyes drift -- unmistakably -- to Harry.
+hagrid: If anyone wanted ter find out some stuff, all they'd have ter do is follow the spiders. That'd lead 'em right! Tha's all I'm sayin'. Fudge stares at Hagrid in amazement, then follows him out. As the door SLAMS SHUT, FANG starts to HOWL, scratching at the closed door. Harry and Ron emerge from the cloak.
+ron: Hagrid's right. With Dumbledore gone, there'll be an attack a day.
+harry: Look... At the windowsill, a TRAIL OF SPIDERS escapes through a crack in the glass. Harry grabs Hagrid's LANTERN.
+harry: C'mon. 103.
+environment: thru thru
+environment: 119 EXT. HAGRID'S HUT - NIGHT 119 Harry illuminates the TRAIL OF SPIDERS. They run from the window to the ground, to the dark trees in the near distance. As Harry moves to follow, Ron hesitates.
+ron: What are you doing?
+harry: You heard Hagrid. Follow the spiders.
+ron: They're heading into the Dark Forest. Harry sighs, heads off. Terrified, Ron grabs Fang, follows.
+ron: Why spiders. Why couldn't it be 'Follow the butterflies'?
+environment: 121 EXT. DARK FOREST - NIGHT 121 Fang crashes through low-slung branches and sharp brambles as Harry follows. Ron gingerly picks his way, the JUMPS... as FANG HOWLS. BRANCHES SNAP. A RUMBLING NOISE sounds, then... SILENCE. Harry spies something, points O.S.
+hagrid: Sorry I'm late. The owl deliverin' my release papers got all lost 'n confused. Some ruddy bird named Errol.
+environment: . (2) 137
+environment: Ron exchanges a nervous glance with Dumbledore. Hagrid looks at all of the faces staring at him. He turns to Harry.
+hagrid: I jus' want to say... that if it wasn't fer' you, Harry... you an' Ron... and Hermione... Well, I jus' want to say... Thanks.
+harry: There's no Hogwarts without you, Hagrid. Just then... Dumbledore gets to his feet and... slowly... brings his hands together. The others join him. Soon, everyone is on their feet and the Hall ROARING. As the students surround Hagrid, he blinks, wipes at his eyes, and... CAMERA PULLS BACK, THROUGH the window, leaving the celebration. WE CONTINUE TO CRANE BACK... BACK... TO a WIDE SHOT OF HOGWARTS... glittering gloriously in the night. FADE TO BLACK.
+hagrid: righ' then. so... so... yeh've got yer books, an' now yeh need the magical creatures. right. so... i'll... i'll go an' get 'em. hagrid turns, disappears into the trees. draco shakes his head, speaks loudly to crabbe and goyle.
+harry: listen, you stupid prat -- eyes widening in fear, malfoy steps back, points.
+hagrid: gee up, there! (grinning) beau'iful, isn' he?
+environment: there seems no consensus on this, but the students stare in wary wonder nonetheless. as hagrid coaxes the beast to the center of the paddock, ron stares uneasily.
+hagrid: a hippogriff, o' course. now, firs' thing yeh gotta know is they're proud. easily offended, hippogriffs are. don't never insult one, 'cause it migh' be the las' thing yeh do. right then -- who wants ter come an' say hello? the entire class steps back, leaving harry in front.
+hagrid: tha's it. easy now... stop! this here's buckbeak, harry. yeh want ter let 'im make the firs' move. it's polite, see? jus' take step forward, give 'im a bow, and if buckbeak bows back, yeh're allowed ter touch him. ready? unsure, harry nods anyway. steps forward. and... bows. buckbeak's head cocks, eagle eyes studying harry cannily. harry waits. and waits...
+hagrid: well done, harry! go on. give 'im a pat. tentatively, harry reaches out, lays his hand on buckbeak's fierce beak. the class claps. harry smiles.
+harry: (smile drooping) excuse me?
+hagrid: off yeh go! as buckbeak gallops forward, harry slides scarily back, giant wings unfold, huge and powerful, and -- whoosh! -- they soar into the air. rising higher. and higher. and higher. gradually, harry loosens his hold on buckbeak's neck. losing himself in the joy of flying. smiling at the sight of his and buckbeak's shadow racing across the grass below. circling over the whomping willow, past hogwarts castle, and then swooping, with heart-stopping speed, over the black lake, buckbeak's talons tickling the smooth glass of the water, summoning the giant squid to the surface briefly. hagrid whistles then, and buckbeak wheels, beating his way back to the paddock, galloping to a halt. as harry slides off, the class cheers -- all except draco, who narrows his eyes maliciously.
+harry: brilliant... professor. they both grin, when draco pushes past them roughly, strides toward buckbeak.
+hagrid: malfoy! no! in a flash, buckbeak's steely talons slash down. malfoy freezes. looks down at the blood blossoming on his robes. shrieks. instantly, harry dashes forward. buckbeak whips around, raises its talons and -- seeing harry -- lowers them. ducks its beak. harry... realizing what he's done... breathes.
+hagrid: calm yerself! yer fine... jus' a scratch... hagrid looks: a deep gash glistens on draco's limp arm.
+hagrid: no. i'm the teacher. you all... you all just... class dismissed! and with that, hagrid -- looking shaken -- swoops up malfoy, flops him over his shoulder, and lumbers toward the castle.
+ron: the little git. he's really laying it on thick, isn't he?
+hermione: yes. but i hear draco's father's furious. i don't think we've heard the end of this...
+ron: who? but the photograph on the prophet's front page provides a chilling answer: sirius black. hermione reads over the shoulders of others. whispers half to herself:
+environment: as a flicker of fear passes through harry's face, bem, a nigerian boy, stares grimly at the grainy image of black.
+environment: beautiful flowers gleam in the dawn light, then, slowly begin to wither. the dew freezes, the grass grows brittle. seconds later, the dementors sweep by.
+hagrid: look at 'em. loves the smell o' the trees when the wind blows...
+hagrid: (shaking his head) they'd know i did it. and tha' would only get dumbledore in trouble. gonna come down, yeh know. says he wants ter be with me when it... when it happens. great man, dumbledore.
+hagrid: yeh will not! think i wan' yeh seein' a thing like this! no. yeh'll drink yer tea an' be off. but before yeh do -- i wan' ter see you an' ron shake hands, harry. ron and harry exchange a glance, then look to hagrid.
+hagrid: good. now then. ron, i wan' ter see you give hermione a hug.
+hagrid: go on! you two've been at it all year. an' i'm sick o' it. acutely uncomfortable, hermione and ron step forward and perform perhaps the most awkward hug hogwarts has ever seen.
+ron: i'm not kissing fang if that's what you're thinking... hearing his name, fang -- hagrid's giant boarhound -- thumps his tail happily on the floor. hagrid turns, takes the lid from a flour tin, a tiny head, ears flecked with powder, emerges.
+hagrid: yeh should keep a closer eye on yer pets, ron.
+ron: right. next time i see crookshanks, i'll let him know.
+hagrid: crikey. here we go agin... smash! a glass jar on the shelf shatters. as hermione scoops up a jagged star-shaped stone, a second stone bounces off the back of harry's head.
+harry: hagrid... everyone turns. looks. dumbledore and fudge approach. behind them, in a fluttering shroud of crows, the executioner follows, axe at his side. hagrid begins to panic.
+harry: c'mon.
+environment: as the trio exit through the back door, fudge, dumbledore and the executioner enter through the front.
+environment: a veil of crows flutters onto the roof. more drop into the patch, begin to slowly circle buckbeak. harry and the others duck behind the pumpkins, watch hagrid solemnly greet the others. fudge appears at the window. picks his nose. just then, a shhh! is heard. hermione turns. the branches of the trees behind her are
+harry: what?
+environment: the trio slip silently into a stand of trees. beyond them, hagrid's hut glimmers desolately in the dying sun. high in the clock tower, a bell begins to toll.
+ron: he bit me... his eyes shift. see scabbers streaking away.
+environment: ron reaches the summit, disappears over the top. hermione and harry follow.
+hagrid: professor, i swear! i didn't!
+harry: now what?
+harry: and we do that... how?
+environment: subjective pov, gliding through a thicket of trees, to the forest's edge, the trees thinning, revealing...
+harry: wait until fred and george hear about that one.
+harry: and now we wait.
+hermione: 'least someone's enjoying himself. harry and hermione sit together in the lengthening shadows. harry snaps off a piece of chocolate, hands it to hermione.
+hermione: yes?
+hermione: with a patronus. i heard snape telling dumbledore when we were taken to the hospital. according to him, only a really powerful wizard could have conjured it.

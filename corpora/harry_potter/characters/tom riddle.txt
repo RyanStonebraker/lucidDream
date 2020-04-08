@@ -1,0 +1,110 @@
+tom riddle:  Bless my soul. It's Harry Potter.
+environment: The pub goes silent. A man comes up and shakes Harrys hand.
+environment: A witch comes up and shakes Harrys hand, as well.
+environment: A man in robes with a turban on his head appears. It is PROFESSOR QUIRRELL.
+hagrid:  Hello, Professor. I didn't see you there. Harry, this is Professor Quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.
+harry:  Oh, nice to meet you. {Puts out hand. Quirrell refuses}
+hagrid:  Yes, well, must be going now. Lots to buy. Heh.
+tom riddle: Professor Dumbledore.
+albus dumbledore: It's not wise to be wandering around this late, Tom.
+environment: . 97 TOM RIDDLE
+tom riddle: Yes, Professor. I suppose I -- I just had to see for myself, if... Riddle glances toward the young wizards, watches them carry the stretcher out of the Hall, into the night.
+tom riddle: ... the rumors were true.
+albus dumbledore: I'm afraid they are, Tom.
+tom riddle: About the school as well? They wouldn't really close Hogwarts, would they, Professor?
+albus dumbledore: Headmaster Dippet may have no choice, I'm afraid.
+tom riddle: Sir? If it all stopped. If the person responsible was caught...
+albus dumbledore: Is there something you wish to tell me, Tom?
+tom riddle: (a long beat) No, sir. Nothing. Dumbledore studies Riddle for a moment.
+albus dumbledore: Very well then. Hurry along. Dumbledore strides directly past Harry, not seeing him. When he is gone, Riddle moves quickly, toward the dungeon steps.
+environment: &amp; &amp;
+environment: 100 INT. CORRIDOR - DUNGEONS - NIGHT (MOMENTS LATER) 100 Up ahead, a SPLINTER of LIGHT leaks through a DOOR. Riddle puts his eye to the crack. Inside, someone is SPEAKING.
+environment: . 100
+environment: VOICE (O.S.) C'mon, Aragog. Gotta get yeh outta here... C'mon now.. in the box... As Riddle pushes the door clear, Harry sees a second, smaller room. Crouched by a BOX, is a huge boy... YOUNG HAGRID. A STRANGE CLICKING comes from the BOX.
+tom riddle: Evening, Hagrid. Hagrid SLAMS the door shut.
+tom riddle: I'm going to have to turn you in, Hagrid. I don't think you meant it to kill anyone --
+hagrid: No, yeh can't! Yeh don' understand!
+tom riddle: Hagrid. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure the thing that killed their daughter is slaughtered.
+hagrid: It wasn' him! Aragog never'd kill no one! Never!
+tom riddle: Monsters don't make good pets, Hagrid. Now... stand aside... Riddle draws his wand, BLASTS the closed DOOR off its hinges, extinguishing the torches within. Harry GASPS. A low-slung CREATURE with a tangle of black legs, a gleam of many eyes and a pair of razor-sharp pincers, scuttles out of the shadows. As Riddle points his wand at it, Hagrid LEAPS...
+hagrid: Noooooo!
+environment: . (2) 100
+environment: As they tumble to the floor, the entire ROOM WHIRLS off its axis, spinning, and Harry finds himself plummeting through color and shadow again, falling flat on his back to... ... the floor of the Gryffindor Common Room, the ceiling above spinning, slowly, to a stop. Harry rises, dashes upstairs. 100A INT. BOYS' DORMITORY - NIGHT 100A Harry rushes to Ron, shakes him awake, WHISPERING INTENSELY.
+harry: Ron! Ron!
+ron: What? What's happened...?
+harry: It was Hagrid. Hagrid opened the Chamber of Secrets fifty years ago. 100B EXT. HOGWARTS - ESTABLISHING SHOT - DAY 100B CAMERA SOARS high over the castle, as below, students hurry to their classes. Finally, it FINDS
+environment: 102 EXT./INT. HOGWARTS GROUNDS - DAY (LATER) 102 Harry, Ron and Hermione walking together across the grounds.
+hermione: It can't be Hagrid. It just can't be.
+ron: We don't even know this Riddle. He sounds like a dirty, rotten snitch to me.
+harry: The monster had killed someone, Ron. What would any of us done?
+tom riddle: She won't wake. Harry spins. Tom Riddle stands nearby. He is strangely BLURRED around the edges, as though Harry was looking at him through a misted window.
+harry: Tom... Tom Riddle? What d'you mean, she won't wake? She's not...
+tom riddle: She's still alive. But only just.
+harry: Are you a ghost?
+tom riddle: A memory. Preserved in a diary for fifty years. Harry looks to the diary in Ginny's hand, then places his own hand on Ginny's arm.
+harry: She's cold as ice. You've got to help me, Tom. There's a basilisk --
+tom riddle: It won't come until it's called. Harry looks up, sees Riddle twirling a wand in his fingers.
+harry: Give me my wand, Tom.
+tom riddle: You won't be needing it.
+harry: Listen, we've got to go! We've got to save her!
+tom riddle: I'm afraid I can't do that, Harry. You see, as poor Ginny grows weaker... I grow stronger.
+harry: But she's dying!
+environment: . (2) 133 TOM RIDDLE
+tom riddle: Yes. I'm afraid so. But then, she's been in so much pain, poor Ginny. She's been writing to me for months, telling me all her pitiful worries and woes. Ginny poured her soul out to me. I grew stronger on a diet of her deepest fears, her darkest secrets. I grew powerful enough to start feeding Ginny a few secrets, to start pouring a bit of my soul back into her... Riddle, growing less vaporous by the second, grins cruelly.
+tom riddle: Yes, Harry, it was Ginny Weasley who opened the Chamber of Secrets.
+harry: No... she couldn't -- she wouldn't.
+tom riddle: It was Ginny who set the Basilisk on the Mudbloods and the Squib's cat. Ginny who wrote threatening messages on the walls.
+harry: But... Why?...
+tom riddle: Because I told her to. You'll find that I can be very persuasive. Not that she knew what she was doing. She was, shall we say, in a kind of trance. Still, the power of the diary began to scare her and she tried to dispose of it in the girls' bathroom. But then, who should find it... but you. The very person I was most anxious to meet.
+harry: (getting angry) And why did you want to meet me?
+environment: . (3) 133 TOM RIDDLE
+tom riddle: Ginny told me all about you. I knew I had to talk to you, meet you if I could. So I decided to show you my capture of that brainless oaf, Hagrid, to gain your trust.
+harry: Hagrid's my friend. And you framed him, didn't you?
+tom riddle: It was my word against Hagrid's. Only Dumbledore seemed to think Hagrid was innocent.
+harry: I'll bet Dumbledore saw right through you.
+tom riddle: I knew it wouldn't be safe to open the Chamber again while I was still at school. So I decided to leave behind a diary, preserving my sixteen-year-old self in its pages, so that one day... I would be able to lead another to finish Salazar Slytherin's noble work.
+harry: Well, you haven't finished it this time. In a few hours Mandrake Draught will be ready and everyone who was petrified will be all right again.
+tom riddle: Haven't I told you, that killing Mudbloods doesn't matter to me anymore? For many months now, my new target has been... you. (grinning) Imagine my disappointment when I learned Ginny had stolen the diary back from you.
+harry: Ginny stole the diary from my room? But why?
+environment: . (4) 133 TOM RIDDLE
+tom riddle: She was afraid. Afraid you'd learn how to work the diary. Afraid I'd tell you just who it was that had been strangling all those roosters. Horrified, Harry glances at Ginny, growing more PALE, then back to Riddle, who is growing more SOLID.
+tom riddle: Come now, Harry. Don't look so disappointed. Had Ginny succeeded in destroying the diary, she would have destroyed me. And we couldn't be having this little talk. And I have so many questions for you.
+harry: Like what?
+tom riddle: Well, how is it that a baby with no extraordinary magical talent managed to defeat the greatest wizard of all time? How did you escape with nothing but a scar, while Lord Voldemort's powers were destroyed?
+harry: Why do you care how I escaped? Voldemort was after your time.
+tom riddle: Voldemort is my past, present and future. Riddle pulls Harry's wand from his pocket and begins to trace it through the air, writing three words "TOM MARVOLO RIDDLE." Then, with a wave, he re-arranges them "I AM LORD VOLDEMORT."
+harry: You. You're the heir of Slytherin. You're Voldemort?
+tom riddle: Surely you didn't think I would keep my filthy Muggle father's name? (CONTINUED)
+environment: . (5) 133
+environment: TOM RIDDLE (CONT'D) No, I fashioned myself a new name, a name I knew wizards everywhere would one day fear to speak, when I became the greatest sorcerer in the world.
+harry: Albus Dumbledore is the greatest sorcerer in the world!
+tom riddle: Dumbledore's been driven out of this castle by the mere memory of me.
+harry: He'll never be gone! Not as long as those who remain are loyal to him! Suddenly, MUSIC... EERIE and UNEARTHLY... ECHOES deep within the chamber and a small, swift SHADOW ribbons over the rock. Flying from above is FAWKES, the Phoenix. The bird SWOOPS into the chamber, clutching a RAGGED BUNDLE in its golden talons.
+harry: Fawkes. Fawkes flies toward Harry, drops the ragged bundle, which is the SORTING HAT, at his feet. Riddle picks it up.
+tom riddle: (giggling) This is what Dumbledore sends his defender! A songbird and an old hat! Riddle tosses aside the hat. He turns to the statue of Salazar Slytherin and speaks in Parseltongue.
+tom riddle: (Parseltongue) Speak to me, Slytherin. Suddenly, the stone face's MOUTH OPENS. There is a RUMBLING SOUND, followed by the sound of SLITHERING. Harry turns away. The Basilisk, A GIANT SERPENT, spills out, uncoiling heavily to the floor. Harry turns to the wall. The shadow of the serpent is visible on the wall. PAN TO Tom Riddle, looking at Harry.
+environment: . (6) 133 TOM RIDDLE
+tom riddle: Let's match the powers of Lord Voldemort, Heir of Salazar Slytherin, against the famous Harry Potter, shall we? Riddle turns, to serpent, speaking in Parseltongue.
+tom riddle: (Parseltongue) Kill him! The HISSING SERPENT shoots forward. Harry turns, RUNS away.
+tom riddle: Parseltongue won't save you now, Potter. The Basilisk only obeys me.
+harry: (to himself) Don't look. Don't look into its eyes. Harry RACES along the stone path, but the giant serpent is FASTER. Harry TRIPS. FALLS. The Basilisk RISES. Harry looks to the wall, sees the serpent about to strike. Suddenly FAWKES SCREECHES, soaring toward the Basilisk and circling its blunt head, confusing it. The SNAKE SNAPS furiously, when... Fawkes drops like a knife, driving its talons deep into the serpent's glittering eyes. As Harry watches the angry play of shadows on the wall, the BASILISK ROARS, HISSING in pain. Fawkes wings away, its talons dripping with blood and Harry turns, LOOKS the Basilisk's eyes are a blind, bloody mess.
+tom riddle: Fool! Think you're safe! It can still hear you! As Harry flees, the serpent thunders after, STRIKING BLINDLY as its whipping tail SHATTERS a Slytherin STATUE. Harry dodges and ducks, then, seeing the snake about to strike again... LEAPS CLEAR, stumbling toward a SIDE TUNNEL. 133A INT. CHAMBER OF SECRETS - SIDE TUNNEL - NIGHT 133A Harry RACES HEADLONG into the shadows, then looks back, sees the snake eclipse the light at the far end of the tunnel and SLITHER QUICKLY inside.
+environment: A. 133A
+environment: Thinking, Harry DUCKS INTO AN ALCOVE, puts his hand over his mouth and waits, desperate to remain STILL and SILENT. The snake slides heavily by, then... SLOWS. TURNS BACK. The snake's head weaves inside, only INCHES from Harry's face. Harry trembles as the snake's head cocks to the side, then... finally... WITHDRAWS. 133B INT. CHAMBER OF SECRETS - NIGHT 133B Harry DASHES back into the main chamber. Ginny looks frighteningly pale. Riddle GRINS cruelly, almost SOLID now.
+environment: . 133B TOM RIDDLE
+tom riddle: Yes, Potter. The process is nearly complete. In a few minutes, Ginny Weasley will be dead. And I will cease to be a memory. Lord Voldemort will return. Very much... alive. Harry moves toward Ginny, then suddenly... the BASILISK SHOOTS OUT of the TUNNEL, HISSING directly in front of Harry. Trapped, Harry glances around, then -- impulsively -- LEAPS upward, begins to scale the statue of Salazar Slytherin. The serpent strikes madly, but Harry continues on, CLIMBING BOLDLY until he reaches the top. He turns. Sees the Sorting Hat. Sees what glitters within the RUBY HANDLE of a SWORD. Harry WHEELS, sword in hand, and fends off the slashing serpent like St. George and the dragon. In a mad rush of courage, he PITCHES HIMSELF onto the serpent, SLIDES DOWN its back and rolls up, SWORD RAISED. Too tired to flee, Harry simply waits. The serpent rises and, FANGS BARED... STRIKES. Marshalling every ounce of strength left to him, Harry drives the sword upward, deep into the roof of the SERPENT'S mouth. It HISSES in PAIN, thrashing MADLY as it drives a FANG into Harry's arm. Harry clutches his arm in agony, stumbles back and falls to the floor, watching as the serpent THRASHES briefly... then goes STILL. Harry peers down, sees the FANG that pierces his arm, the blood soaking slowly into his robe. As he yanks the fang free, Riddle steps forward, almost fully whole now. His eyes shine at the sight of Harry's wound.
+tom riddle: Remarkable, isn't it? How quickly the venom of the Basilisk penetrates the body? If you have any final words, Potter, you'd best speak them now. I'd guess you have little more than a minute to live. Harry blinks heavily, watching as the skin of his forearm turns a troubling gray.
+environment: A. (1A) 133B TOM RIDDLE
+tom riddle: So ends the famous Harry Potter. On his knees in the Chamber of Secrets. Defeated at last by the Dark Lord he so unwisely challenged. You'll be back with your dear Mudblood mother soon, Harry... As Riddle talks, Harry glances at Ginny, nearly white now, a small ghost, the only evidence of life the TREMBLING OF A SINGLE FINGER. Harry studies the finger and what lies beneath it Tom Riddle's diary. Harry begins to crawl toward her.
+environment: . (2) 133B TOM RIDDLE
+tom riddle: Funny, isn't it? The damage a silly little book can do? Especially in the hands of a silly little girl. As Harry reaches Ginny, he places his hand on hers, then... slips the diary free.
+tom riddle: What are you doing? No. Stop... Riddle's face creases in fear. He LUNGES FORWARD. But Harry is too quick. Raising his hand high... he PLUNGES THE FANG into the book. Instantly, BLACK INK SPURTS from the pages.
+tom riddle: No! Riddle SHRIEKS, writhing in pain. His body begins to wither instantly, growing BLURRY once more. As the ink runs off Harry's fingers to the floor, Riddle VANISHES altogether. Harry sinks back, then... hears a FAINT MOAN. Ginny STIRS, color blooming in her cheeks. As she sees Harry, she SOBS.
+harry: Ginny. You need to get yourself out... Follow the chamber... You'll find Ron... There is a RUSH OF WINGS and Fawkes circles down, lays his head onto Harry's arm.
+harry: You were brilliant, Fawkes. I just... wasn't quick enough. Then Harry blinks, looks down. Thick pearly TEARS are trickling down Fawkes' face and onto his arm. Almost instantly, his wound... begins to heal itself.
+environment: 129. (3) 133B HARRY
+harry: Of course. Dumbledore told me. Phoenix tears have healing powers. (looking up at Ginny) It's all right, Ginny. It's over. It's just a memory... 134 INT. TUNNEL - NIGHT (LATER) 134 With Fawkes gliding gracefully ahead of them, Harry and Ginny make their way back. Up ahead, SHIFTING ROCK can be heard and a jagged fissure of LIGHT GLIMMERS. Ron's face appears.
+ron: Ginny! Ron wriggles through, rushes forward and hugs Ginny.
+ron: You're alive. I can't believe it.
+ron: (to Harry) Remind you of anyone?
+harry: Where's Lockhart? Harry eyes Lockhart, sitting by himself, HUMMING placidly.
