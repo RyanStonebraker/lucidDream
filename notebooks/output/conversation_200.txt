@@ -1,0 +1,61 @@
+Environment: Harry washes his face with a towel.
+Hermione: There's no sign of them. There's just... silence.
+Environment: They were walking through fog and shadows.
+Harry: We've been roundly bitten, haven't we?
+Environment: They stop as they see someone walking around the corner.
+Harry: That's not good.
+Ron: That's not good. I can't believe they're going to kill harry.
+Harry: That's not good. I can't believe they're going to kill harry.
+Hagrid: Round up the rats. Sack them into the Priory.
+Hermione: There's something the both of you need to see.
+Harry: Look. The monster of the year is dead. Sirius Black has been killed.
+Albus dumbledore: It was a despicable crime, Hagrid. It was a despicable crime to kill Sirius Black.
+Hagrid: You'd better clear out. There's some sort of attack going on in the castle.
+Hermione: (taking harry's arm) Come on. Run. You're wasting time.
+Albus dumbledore: Headmaster, we've received intelligence that a group is preparing to attack the castle.
+Hagrid: That's not good.
+Environment: They approach a flat ground with gnarled roots all over.
+Harry: The group walks along a path to a castle.
+Albus dumbledore: There's an attack going on in the castle.
+Hermione: There's something the both of you need to see.
+Albus dumbledore: There's an attack going on in the castle.
+Hermione: (rising from her bedroom) I've got to go. I've got to find my dad.
+Hagrid: Breakfast, Hagrid.
+Environment: dumbledore is leading the group to a balcony overlooking the common room, where a cloaked man is standing next to a tree.
+Snape: There is an attack going on in the castle.
+Hermione: I can't believe they're actually going to attack the castle. It's too far gone.
+Environment: breakfast. breakfast.
+Hermione: Professor, what exactly does the basilisk do?
+Snape: Everyone is to stay inside. There's an attack coming.
+Environment: dumbledore and hermione are walking through the garden, talking.
+Hermione: Everyone's to stay inside. There's an attack coming.
+Snape: Everyone's to stay inside. There's an attack coming.
+Harry: Everyone's to stay inside. There's an attack coming.
+Hagrid: Everyone's to stay inside. There's an attack coming.
+Hermione: Everyone's to stay inside. There's an attack coming.
+Hagrid: Everyone's to stay inside. There's an attack coming.
+Hermione: Come on, Harry.
+Hagrid: Breakfast, Hagrid.
+Hermione: I've got a few questions for Hagrid.
+Snape: You go back to the owls. I want to know what you're doing.
+Albus dumbledore: You go back to the owls.
+Hagrid: I've got news for you, Miss Granger. You're wasting time. Go on. Go on.
+Albus dumbledore: Excellent.
+Hagrid: I've got to find my dad.
+Hermione: I can't believe I'm meeting this guy.
+Albus dumbledore: Very well. Then I shall kill him.
+Harry_as_voldemort: Severus... I had you looked into it. There is much I would like to learn...
+Albus dumbledore: What are you looking at? {Harry looks at a drawing of a bull with a snake entwined around its head.}
+Harry_as_voldemort: I've got something of yours. Harry_has_something_of_sorts.com
+Albus dumbledore: Yes, Harry?
+Harry: Everyone's fine.
+Albus dumbledore: About time too. I've been looking a bit... nervous.
+Harry: What are those?
+Albus dumbledore: I have a few... questions for... Hagrid.
+Harry: I've got a few... questions for... Hagrid.
+Harry_as_voldemort: You must be Tom Riddle.
+Tom riddle: Professor Dumbledore.
+Harry_as_voldemort: You must be Tom Riddle.
+Environment: hagrid and others are in the hall.
+Tom riddle: It's not wise to be wandering around this late, Tom.
+Harry_as_voldemort: You must be Harry.

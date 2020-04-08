@@ -24,3 +24,4 @@ notebooks/samples/tom riddle_run1
 notebooks/checkpoint
 notebooks/samples/
 notebooks/models
+.env
