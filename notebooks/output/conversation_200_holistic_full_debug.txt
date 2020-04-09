@@ -1,0 +1,312 @@
+environment: Diagon Alley was completely empty because of the coronavirus.
+hagrid: Where is everybody?
+albus dumbledore: Hopefully at home.
+environment: Harry washes his face with a towel.
+hermione: There's no sign of them. There's just... silence.
+environment: They were walking through fog and shadows.
+environment: Diagon Alley was completely empty because of the coronavirus.
+harry: We've been roundly bitten, haven't we?
+harry: There's no sign of them.
+environment: They stop as they see someone walking around the corner.
+environment: They were walking through fog and shadows.
+harry: That's not good.
+harry: There's no sign of them.
+ron: That's not good. I can't believe they're going to kill harry.
+ron: That's not good.
+harry: That's not good. I can't believe they're going to kill harry.
+harry: I can't believe they're going to kill harry.
+hagrid: Round up the rats. Sack them into the Priory.
+hagrid: Harry washes his face with a towel.
+hermione: There's something the both of you need to see.
+hermione: There's just...
+harry: Look. The monster of the year is dead. Sirius Black has been killed.
+harry: I can't believe they're going to kill harry.
+albus dumbledore: It was a despicable crime, Hagrid. It was a despicable crime to kill Sirius Black.
+albus dumbledore: Sirius Black has been killed.
+hagrid: You'd better clear out. There's some sort of attack going on in the castle.
+hagrid: I can't believe they're going to kill harry.
+hermione: (taking harry's arm) Come on. Run. You're wasting time.
+hermione: There's something the both of you need to see.
+albus dumbledore: Headmaster, we've received intelligence that a group is preparing to attack the castle.
+albus dumbledore: There's some sort of attack going on in the castle.
+hagrid: That's not good.
+hagrid: That's not good.
+environment: They approach a flat ground with gnarled roots all over.
+environment: Diagon Alley was completely empty because of the coronavirus.
+harry: The group walks along a path to a castle.
+harry: There's some sort of attack going on in the castle.
+albus dumbledore: There's an attack going on in the castle.
+albus dumbledore: There's some sort of attack going on in the castle.
+hermione: There's something the both of you need to see.
+hermione: There's something the both of you need to see.
+albus dumbledore: There's an attack going on in the castle.
+albus dumbledore: There's an attack going on in the castle.
+hermione: (rising from her bedroom) I've got to go. I've got to find my dad.
+hermione: There's something the both of you need to see.
+hagrid: Breakfast, Hagrid.
+hagrid: silence.
+environment: dumbledore is leading the group to a balcony overlooking the common room, where a cloaked man is standing next to a tree.
+environment: Headmaster, we've received intelligence that a group is preparing to attack the castle.
+snape: There is an attack going on in the castle.
+snape: There's an attack going on in the castle.
+hermione: I can't believe they're actually going to attack the castle. It's too far gone.
+hermione: I can't believe they're going to kill harry.
+environment: breakfast. breakfast.
+environment: silence.
+hermione: Professor, what exactly does the basilisk do?
+hermione: Where is everybody?
+snape: Everyone is to stay inside. There's an attack coming.
+snape: There's an attack going on in the castle.
+environment: dumbledore and hermione are walking through the garden, talking.
+environment: They were walking through fog and shadows.
+hermione: Everyone's to stay inside. There's an attack coming.
+hermione: There's an attack coming.
+snape: Everyone's to stay inside. There's an attack coming.
+snape: There's an attack coming.
+harry: Everyone's to stay inside. There's an attack coming.
+harry: There's an attack coming.
+hagrid: Everyone's to stay inside. There's an attack coming.
+hagrid: There's an attack coming.
+hermione: Everyone's to stay inside. There's an attack coming.
+hermione: There's an attack coming.
+hagrid: Everyone's to stay inside. There's an attack coming.
+hagrid: There's an attack coming.
+hermione: Come on, Harry.
+hermione: Breakfast, Hagrid.
+silence.
+hagrid: Breakfast, Hagrid.
+hagrid: Breakfast, Hagrid.
+silence.
+hermione: I've got a few questions for Hagrid.
+hermione: I've got to find my dad.
+snape: You go back to the owls. I want to know what you're doing.
+snape: There's something the both of you need to see.
+albus dumbledore: You go back to the owls.
+albus dumbledore: You go back to the owls.
+hagrid: I've got news for you, Miss Granger. You're wasting time. Go on. Go on.
+hagrid: I've got to find my dad.
+albus dumbledore: Excellent.
+albus dumbledore: silence.
+hagrid: I've got to find my dad.
+hagrid: I've got to find my dad.
+hermione: I can't believe I'm meeting this guy.
+hermione: I can't believe they're going to kill harry.
+albus dumbledore: Very well. Then I shall kill him.
+albus dumbledore: I can't believe they're going to kill harry.
+harry_as_voldemort: Severus... I had you looked into it. There is much I would like to learn...
+harry_as_voldemort: There's something the both of you need to see.
+albus dumbledore: What are you looking at? {Harry looks at a drawing of a bull with a snake entwined around its head.}
+albus dumbledore: There's something the both of you need to see.
+harry_as_voldemort: I've got something of yours. Harry_has_something_of_sorts.com
+harry_as_voldemort: I've got to go.
+albus dumbledore: Yes, Harry?
+albus dumbledore: Where is everybody?
+harry: Everyone's fine.
+harry: Very well.
+albus dumbledore: About time too. I've been looking a bit... nervous.
+albus dumbledore: I've got a few questions for Hagrid.
+harry: What are those?
+harry: Where is everybody?
+albus dumbledore: I have a few... questions for... Hagrid.
+albus dumbledore: I've got a few questions for Hagrid.
+harry: I've got a few... questions for... Hagrid.
+harry: I've got a few questions for Hagrid.
+harry_as_voldemort: You must be Tom Riddle.
+harry_as_voldemort: You're wasting time.
+tom riddle: Professor Dumbledore.
+tom riddle: silence.
+harry_as_voldemort: You must be Tom Riddle.
+harry_as_voldemort: You must be Tom Riddle.
+environment: hagrid and others are in the hall.
+environment: Sack them into the Priory.
+tom riddle: It's not wise to be wandering around this late, Tom.
+tom riddle: That's not good.
+harry_as_voldemort: You must be Harry.
+harry_as_voldemort: You must be Tom Riddle.
+tom riddle: Well, Harry, you're going to be fine. I've just had a bit of... practice.
+tom riddle: I've been looking a bit... nervous.
+harry: You're a professor, aren't you?
+harry: We've been roundly bitten, haven't we?
+albus dumbledore: Calm yourself, all of you! (steely-eyed) if you want to be on the lookout for anything untoward, come on. I
+albus dumbledore: There's something the both of you need to see.
+harry: You don't think Snape could be the heir of Slytherin, do you?
+harry: I can't believe I'm meeting this guy.
+snape: You are not to meet any other wizard than my own assistant, sir.
+snape: It's not wise to be wandering around this late, Tom.
+harry: Why are you trying to kill me?
+harry: I can't believe they're going to kill harry.
+tom riddle: Come on, Harry. This is what Dumbledore wants. A list of all the people Hogwarts has welcomed into its walls in the last year.
+tom riddle: Headmaster, we've received intelligence that a group is preparing to attack the castle.
+ron: That's when the fire sizzles. Fires start. People get hurt.
+ron: You go back to the owls.
+snape: That's when the match begins. Who's going to win?
+snape: (steely-eyed) if you want to be on the lookout for anything untoward, come on.
+ron: (smile drooping) That was no stranger I met at Hogwarts. It was Tom Riddle, and he and his friends really are dangerous.
+ron: It's not wise to be wandering around this late, Tom.
+albus dumbledore: It's not wise, Tom, it's dangerous.
+albus dumbledore: It's not wise to be wandering around this late, Tom.
+tom riddle: You'll be safe, Harry. I've just been following the attackers.
+tom riddle: I've got something of yours.
+snape: Here, boy. Take your pen and paper and write something.
+snape: I've got news for you, Miss Granger.
+ron: What's that?
+ron: Where is everybody?
+albus dumbledore: Everyone's been accounted for.
+albus dumbledore: I've just been following the attackers.
+hagrid: (eyeing ron) Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+hagrid: (steely-eyed) if you want to be on the lookout for anything untoward, come on.
+ron: What are you doing?
+ron: What are those?
+hagrid: Sir, if you want to stop the killing, you're going to have to kill Lord Voldemort.
+hagrid: Why are you trying to kill me?
+harry_as_voldemort: voldemort wants to see you. he's looking for something.
+harry_as_voldemort: There's something the both of you need to see.
+environment: as they enter a dark room, the others snore.
+environment: hagrid and others are in the hall.
+ron: You're not mad, are you?
+ron: You don't think Snape could be the heir of Slytherin, do you?
+albus dumbledore: Yes, I think so.
+albus dumbledore: Yes, Harry?
+harry_as_voldemort: lord_voldemort_i_know_every_thing_you_didnt_know_is_scared_of_himself.
+harry_as_voldemort: silence.
+ron: You solved it! You solved it!
+ron: You're wasting time.
+harry_as_voldemort: lord_voldemort_i_know_every_thing_you_didnt_know_is_scared_of_himself.
+harry_as_voldemort: silence.
+hagrid: AHHHHHHHH!!!!!!!!
+hagrid: breakfast.
+silence.
+albus dumbledore: Morning. Good morning.
+albus dumbledore: Very well.
+harry_as_voldemort: professor_dumbledore_sent_me_on_this_mission_you_will_be_working_with_me_tomorrow.
+harry_as_voldemort: silence.
+snape: i need you to answer two questions for me.
+snape: I have a few... questions for...
+hagrid: Yes, Professor?
+hagrid: Yes, Harry?
+snape: you say you do. right. so. you're saying...
+snape: Yes, I think so.
+harry_as_voldemort: professor_dumbledore_sent_me_on_this_mission_you_will_be_working_with_me_tomorrow.
+harry_as_voldemort: silence.
+hagrid: (nodding) i didn't want to send you on a mission without telling you what it was all about.
+hagrid: You don't think Snape could be the heir of Slytherin, do you?
+albus dumbledore: yes.
+albus dumbledore: Breakfast, Hagrid.
+environment: marge leads harry down stairs to an upper floor.
+environment: Sack them into the Priory.
+harry_as_voldemort: it's here! crack!_snape hands harry_as_voldemort's wand to hagrid.
+harry_as_voldemort: !!!!!
+breakfast.
+silence.
+hagrid: breakfast!
+hagrid: !
+harry_as_voldemort: i went into the forest, i-i-i wanted to see if i could find you.
+harry_as_voldemort: Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+hagrid: i don't reckon we've seen your face since you set fire to the picture frame in b.j.
+hagrid: i didn't want to send you on a mission without telling you what it was all about.
+environment: he's sitting in front of a tree in the forest, with his cat, Scabbers, by his side.
+environment: dumbledore is leading the group to a balcony overlooking the common room, where a cloaked man is standing next to a tree.
+hagrid: so you know,
+hagrid: you say you do.
+harry_as_voldemort: lord_dumbledore_has_appointed_me_to_study_the_rules_of_the_game.html?pg=PA
+harry_as_voldemort: Severus...
+hagrid: so you know, harry_as_
+hagrid: so you know,
+you say you do.
+harry_as_voldemort: Parseltongue.
+harry_as_voldemort: silence.
+hagrid: so you know, harry_as_
+hagrid: so you know, harry_as
+hermione: he keeps changing the password. i've taken to keeping a list.
+hermione: I've got to find my dad.
+hagrid: ahhhhhhhh! the door opens, and she goes in.
+hagrid: hagrid and others are in the hall.
+harry_as_voldemort: Come, all of you.
+harry_as_voldemort: Calm yourself, all of you!
+hermione: ron! you've got to help me!
+hermione: I've got to find my dad.
+harry_as_voldemort: you ever hear of a basilisk, hagrid?
+harry_as_voldemort: Come, all of you.
+hermione: RON! you've got to help me!
+hermione: you've got to help me!
+environment: very early_on_harry_
+environment: Harry_has_something_of_sorts.com
+hagrid: never in a million years would i have imagined i'd one day be leading my own army! but i'm blessed, and i'm eager to serve
+hagrid: i didn't want to send you on a mission without telling you what it was all about.
+hermione: i can't believe they're going to kill buckbeak! it's too horrible.
+hermione: I can't believe they're going to kill harry.
+environment: as the group approaches buckbeak's den, shemione is hurrying, shouting.
+environment: This is what Dumbledore wants.
+hermione: here! crack! -- the basilisk springs free, landing in a sad, pathetic display in front of harry.
+hermione: Calm yourself, all of you!
+ron!
+harry_as_voldemort: i knew it would one day be your turn to kill sirius! but i didn't expect the full force of the chain of command to come crashing
+harry_as_voldemort: i didn't want to send you on a mission without telling you what it was all about.
+hagrid: i didn't want to send you on a mission!
+hagrid: i didn't want to send you on a mission without telling you what it was all about.
+harry_as_voldemort: this is it, harry. this is the moment when you make the ultimate sacrifice. when you give your all to the dark lord, he will
+harry_as_voldemort: Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+hermione: that's not good enough, harry.
+hermione: That's not good.
+environment: as the trio exit through the back door, snape is gone.
+environment: the door opens, and she goes in.
+tom riddle: it's about time someone got in touch. harry's right, it's about time someone checked up on him.
+tom riddle: Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+hermione: that's not good enough, harry.
+hermione: that's not good enough, harry.
+harry: sirius! harry eyes the giant serpent. it glows with a brilliant amber light.
+harry: Very well.
+professor_dumbledore_sent_me_on_this_mission_you_will_be_working_with_me_tomorrow.
+environment: dark, brooding, and sinister, the room falls silent. in the portrait of sirius black, crossed out is the pupil of harry's
+environment: as they enter a dark room, the others snore.
+albus dumbledore: here! crack! -- the ghost of a battleship prowls the ceiling.
+albus dumbledore: Calm yourself, all of you!
+ron!
+harry_as_voldemort: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+harry_as_voldemort: when you give your all to the dark lord, he will
+Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+albus dumbledore: according to legend, when the time came to grant the house seat to sirius black, i chose hogwarts over a million miles away, because,
+albus dumbledore: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+when you give your all to the dark lord, he will
+Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+snape: i don't know how you did it, harry, but i'm certain you do know how the school is. you're in.
+snape: i didn't want to send you on a mission without telling you what it was all about.
+tom riddle: you're going into school, aren't you?
+tom riddle: You're a professor, aren't you?
+harry: yes. i've got something else to tell you.
+harry: I've got something of yours.
+hagrid: you're not going into school, are you?
+hagrid: you're going into school, aren't you?
+albus dumbledore: very well then. i'll just be going. come on.
+albus dumbledore: Well, Harry, you're going to be fine.
+hagrid: you're a Malfoy!
+hagrid: AHHHHHHHH!!
+harry_as_voldemort: you must be joking, aren't you?
+harry_as_voldemort: You're not mad, are you?
+albus dumbledore: they will not stand a chance. i have given them enough warning. destroy them all!
+albus dumbledore: i didn't want to send you on a mission without telling you what it was all about.
+ron: that's not what you wanted to hear!
+ron: that's not good enough, harry.
+harry_as_voldemort: if you want proof that he's the heir of Slytherin, i can show you how it all started...
+harry_as_voldemort: Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.
+albus dumbledore: i didn't want to send you on a mission without telling you what it was all about.
+albus dumbledore: i didn't want to send you on a mission without telling you what it was all about.
+snape: you're wrong!
+snape: you're saying...
+environment: they all look at each other. riddle looks at his watch.
+environment: Come, all of you.
+hagrid: you don't think he'd come to hogwarts, do you?
+hagrid: You don't think Snape could be the heir of Slytherin, do you?
+albus dumbledore: they have a point. where's the proof?
+albus dumbledore: you ever hear of a basilisk, hagrid?
+hagrid: he killed no. i'm afraid we shall have another case of the boys' catching the bends tomorrow. go on.
+hagrid: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+when you give your all to the dark lord, he will
+Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+(steely-eyed) if you want to be on the lookout for anything untoward, come on.

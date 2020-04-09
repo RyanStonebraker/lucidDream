@@ -1,0 +1,218 @@
+environment: Diagon Alley was completely empty because of the coronavirus.
+hagrid: Where is everybody?
+albus dumbledore: Hopefully at home.
+ron: They're not home. They're going to school.
+hermione: (rising from her desk) I've got a few things I've got to take care of.
+environment: They're walking down an empty street in the night. They pass a statue of a hunched over a sickly grey form. it reads MAJ
+environment: I've got a few things I've got to take care of.
+harry: , iv. voldemort.
+harry: Where is everybody?
+harry_as_voldemort: Diagon Alley.
+harry_as_voldemort: , iv. voldemort.
+hermione: (rising from her desk) I've got a few things I've got to take care of.
+hermione: I've got a few things I've got to take care of.
+environment: _Across the street_, inside a shop. the boy, TOM RIDDLE, is inside, buying his first muggle clothes.
+environment: I've got a few things I've got to take care of.
+harry_as_voldemort: Well, what are those?
+harry_as_voldemort: Where is everybody?
+harry: Diagon Alley.
+harry: voldemort.
+environment: purchasing his first set of clothes, as he nicknames them.
+environment: the boy, TOM RIDDLE, is inside, buying his first muggle clothes.
+harry_as_voldemort: These are my new favorite muggle clothes. You should wear them. They're—"
+harry_as_voldemort: purchasing his first set of clothes, as he nicknames them.
+environment: he's in a quidditch tower, facing a brick wall. ron and hermione are striding toward him with cartwheels.
+environment: They pass a statue of a hunched over a sickly grey form.
+harry_as_voldemort: Tom, you're in Gryffindor!
+harry_as_voldemort: , iv.
+harry_as_voldemort: Ravenclaw. Hufflepuff. And you?
+harry_as_voldemort: , iv. voldemort.
+harry_as_voldemort: Ravenclaw. Hufflepuff. And you?
+harry_as_voldemort: And you?
+, iv. voldemort.
+harry_as_voldemort: {snickers} You know, Harry. If it weren't for Slytherin and the Slytherins --
+harry_as_voldemort: And you?
+, iv. voldemort.
+Ravenclaw.
+hermione: voldemort. i can't believe i'm actually going to be going to school with you.
+hermione: They're going to school.
+harry_as_voldemort: You're going to Hogwarts, aren't you?
+harry_as_voldemort: If it weren't for Slytherin and the Slytherins --
+hermione: i'm really not sure what to do with myself. we've got to help Harry, sir.
+hermione: i can't believe i'm actually going to be going to school with you.
+hagrid: we've got to help Harry, sir.
+hagrid: we've got to help Harry, sir.
+hermione: where are you?
+hermione: And you?
+hagrid: (in a fierce whisper) not Slytherin. They laugh.
+hagrid: They're not home.
+harry_as_voldemort: i have a few things to say, sir.
+harry_as_voldemort: I've got a few things I've got to take care of.
+hermione: where are you?
+hermione: where are you?
+harry_as_voldemort: i have a few things to say, sir.
+harry_as_voldemort: i have a few things to say, sir.
+hermione: where are you?
+hermione: where are you?
+harry_as_voldemort: i have a few things to say, sir.
+harry_as_voldemort: i have a few things to say, sir.
+hermione: where are you?
+hermione: where are you?
+harry_as_voldemort: go on.
+harry_as_voldemort: Ravenclaw.
+voldemort.
+tom riddle: well, well, well. hagrid helps harry into his bed, then leaves him to it to... sleep.
+tom riddle: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+harry_as_voldemort: {snores}
+harry_as_voldemort: , iv.
+harry_as_voldemort: A.K.A. THE BURROW.
+harry_as_voldemort: Ravenclaw.
+voldemort.
+harry_as_voldemort: I went about my daily activities as if nothing happened.
+harry_as_voldemort: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+harry: i feel... refreshed.
+harry: , iv. voldemort.
+harry_as_voldemort: You have twenty-seven hours.
+harry_as_voldemort: They laugh.
+harry: well, i guess i got something.
+harry: i feel... refreshed.
+, iv. voldemort.
+harry: i felt... refreshed.
+harry: i feel... refreshed.
+, iv. voldemort.
+harry: i felt... refreshed.
+harry: i felt... refreshed.
+hermione: what happened?
+hermione: And you?
+hermione: you're... dead.
+hermione: And you?
+hermione: me? maybe you're dreaming. i just thought, hey, if harry's memory's any indication, he might be able to help us sort
+hermione: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+hermione: that's not good.
+hermione: (in a fierce whisper) not Slytherin.
+albus dumbledore: It can't be done. It's too complicated.
+albus dumbledore: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+harry: you don't think it was Snape, do you?
+harry: You're going to Hogwarts, aren't you?
+albus dumbledore: Very well then. I'll just be going. You'll still have to wait outside, of course, but i expect you'll be able to find
+albus dumbledore: i just thought, hey, if harry's memory's any indication, he might be able to help us sort
+harry: yes.
+harry: , iv.
+albus dumbledore: we should tell him what we're doing. he might be able to stop us being seen.
+albus dumbledore: i just thought, hey, if harry's memory's any indication, he might be able to help us sort
+harry: and you?
+harry: And you?
+environment: dark. ominous. dementors drift in the distance. ron lies awake, staring at the empty bed.
+environment: hagrid helps harry into his bed, then leaves him to it to... sleep.
+albus dumbledore: you do not want this at night!
+albus dumbledore: you don't think it was Snape, do you?
+environment: his glasses. as he looks at them, hagrid comes over, smokes a blunt and...
+environment: ron and hermione are striding toward him with cartwheels.
+albus dumbledore: ron! she turns, goes the wrong way.
+albus dumbledore: well, i guess i got something.
+environment: he's thrown onto the bed, wearing nothing but his nightgown. as he's stood up, he's wearing nothing but his nightcap.
+environment: hagrid helps harry into his bed, then leaves him to it to... sleep.
+harry: i don't think i need to see this man.
+harry: you don't think it was Snape, do you?
+environment: he's dressed in rags, wand at his side.
+environment: his glasses.
+snape: i don't know how this house came to be, but i'm going to expect it to act as i see fit. no one here cares what
+snape: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+ron: i can't believe he's letting that snake go!
+ron: i don't think i need to see this man.
+harry: i don't think he'd want us to kill him.
+harry: i don't think i need to see this man.
+snape: if you want proof that you've been in there, show yourself. prove yourself.
+snape: we've got to help Harry, sir.
+ron: whew, this is going to be bad. this is going to be really, really bad. as ron draws back in disgust, the snake
+ron: i can't believe he's letting that snake go!
+snape: nothing, harry. they'd know i wasn't who i pretended to be. and i'm sure they'd like to have another word with me
+snape: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+ron: you'd better clear off before that snake of a son gets himself bitten. if he doesn't, i'll kill him.
+ron: i don't think he'd want us to kill him.
+harry_as_voldemort: you must be joking, harry. they'd know i wasn't who i pretended to be. and i'm sure they'd like to have another
+harry_as_voldemort: they'd know i wasn't who i pretended to be.
+ron: if you want proof that you've been in there, show yourself. prove yourself.
+ron: if you want proof that you've been in there, show yourself.
+hermione: ron, you're denying yourselves!
+hermione: And you?
+harry_as_voldemort: hiding. i assumed they'd find me. but they haven't.
+harry_as_voldemort: they'd know i wasn't who i pretended to be.
+hermione: that's not good.
+hermione: that's not good.
+ron: that's no time for idle talk. harry_as_voldemort is about to kill snape.
+ron: i don't think he'd want us to kill him.
+snape: here! crack! -- the dementor vanishes and a roiling mist appears, which becomes clouds. hermione notices a peculiar smell.
+snape: well, well, well.
+tom riddle: not to be rude or anything, but this is the seventh time this month he's summoned you to the castle. it's obvious he's trying to
+tom riddle: i don't know how this house came to be, but i'm going to expect it to act as i see fit.
+harry: professor, i swear i didn't!
+harry: if he doesn't, i'll kill him.
+harry_as_voldemort: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+harry_as_voldemort: i just thought, hey, if harry's memory's any indication, he might be able to help us sort
+ron: nox.
+ron: voldemort.
+harry_as_voldemort: i should tell you, while we know you both have epilepsy, its treatable. and if you need to be warded against, i suggest making
+harry_as_voldemort: we should tell him what we're doing.
+tom riddle: that'd be a cheerful house, wouldn't it? easy on the eyes. and free from all the... clutter?
+tom riddle: i don't know how this house came to be, but i'm going to expect it to act as i see fit.
+ron: yes.
+ron: yes.
+tom riddle: i don't know how this house came to be, but i'm going to expect it to act as i see fit.
+tom riddle: i don't know how this house came to be, but i'm going to expect it to act as i see fit.
+snape: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+snape: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+tom riddle: you go to bed. harry paces. looks around. hears laughter. breaks off a cookie, hands it to snape.
+tom riddle: hagrid helps harry into his bed, then leaves him to it to... sleep.
+ron: good to see you're having fun.
+ron: and i'm sure they'd like to have another
+snape: mr. potter. we have information regarding you that requires your immediate attention. as a matter of policy, the castle's grounds are not to
+snape: well, well, well.
+not to be rude or anything, but this is the seventh time this month he's summoned you to the castle.
+harry: sirius. sirius.
+harry: Ravenclaw.
+voldemort.
+albus dumbledore: i should tell you, lupin, earlier this evening your nephew, tom, was found hanging from a noose in the manor courtyard.
+albus dumbledore: well, well, well.
+not to be rude or anything, but this is the seventh time this month he's summoned you to the castle.
+harry: you said ron. i saw him. across the lake... just then, voices.
+harry: i should tell you, while we know you both have epilepsy, its treatable.
+snape: if you don't mind, i'm going to bed.
+snape: If it weren't for Slytherin and the Slytherins --
+i'm really not sure what to do with myself.
+environment: snape is escorted into the dungeons
+environment: hermione notices a peculiar smell.
+ron: that's what you said to it.
+ron: you said ron.
+albus dumbledore: i should tell you, lupin, earlier this evening your nephew, tom, was found hanging from a noose in the manor courtyard.
+albus dumbledore: your nephew, tom, was found hanging from a noose in the manor courtyard.
+hagrid: you wish you were still alive, harry.
+hagrid: you must be joking, harry.
+hermione: yes.
+hermione: yes.
+harry: you're not mad, shem.
+harry: (in a fierce whisper) not Slytherin.
+albus dumbledore: that's when the basilisks go into effect.
+albus dumbledore: that's what you said to it.
+harry: you're not mad, shem.
+harry: you're not mad, shem.
+hermione: that's what you said to it.
+hermione: that's what you said to it.
+albus dumbledore: you go to bed. now.
+albus dumbledore: you go to bed.
+snape: you might want to keep a closer eye on yourself, sir.
+snape: and if you need to be warded against, i suggest making
+ron: but... what do you expect me to do?
+ron: that's what you said to it.
+albus dumbledore: excellent.
+albus dumbledore: yes.
+ron: that's not good.
+ron: that's not good.
+albus dumbledore: brilliant.
+albus dumbledore: excellent.

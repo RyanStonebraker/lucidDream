@@ -59,3 +59,87 @@ Harry_as_voldemort: You must be Tom Riddle.
 Environment: hagrid and others are in the hall.
 Tom riddle: It's not wise to be wandering around this late, Tom.
 Harry_as_voldemort: You must be Harry.
+Tom riddle: Well, Harry, you're going to be fine. I've just had a bit of... practice.
+Harry: You're a professor, aren't you?
+Albus dumbledore: Calm yourself, all of you! (steely-eyed) if you want to be on the lookout for anything untoward, come on. I
+Harry: You don't think Snape could be the heir of Slytherin, do you?
+Snape: You are not to meet any other wizard than my own assistant, sir.
+Harry: Why are you trying to kill me?
+Tom riddle: Come on, Harry. This is what Dumbledore wants. A list of all the people Hogwarts has welcomed into its walls in the last year.
+Ron: That's when the fire sizzles. Fires start. People get hurt.
+Snape: That's when the match begins. Who's going to win?
+Ron: (smile drooping) That was no stranger I met at Hogwarts. It was Tom Riddle, and he and his friends really are dangerous.
+Albus dumbledore: It's not wise, Tom, it's dangerous.
+Tom riddle: You'll be safe, Harry. I've just been following the attackers.
+Snape: Here, boy. Take your pen and paper and write something.
+Ron: What's that?
+Albus dumbledore: Everyone's been accounted for.
+Hagrid: (eyeing ron) Do you remember me telling you, before we all went to Diagon Alley, that if you were to get yourself and
+Ron: What are you doing?
+Hagrid: Sir, if you want to stop the killing, you're going to have to kill Lord Voldemort.
+Harry_as_voldemort: voldemort wants to see you. he's looking for something.
+Environment: as they enter a dark room, the others snore.
+Ron: You're not mad, are you?
+Albus dumbledore: Yes, I think so.
+Harry_as_voldemort: lord_voldemort_i_know_every_thing_you_didnt_know_is_scared_of_himself.
+Ron: You solved it! You solved it!
+Harry_as_voldemort: lord_voldemort_i_know_every_thing_you_didnt_know_is_scared_of_himself.
+Hagrid: AHHHHHHHH!!!!!!!!
+Albus dumbledore: Morning. Good morning.
+Harry_as_voldemort: professor_dumbledore_sent_me_on_this_mission_you_will_be_working_with_me_tomorrow.
+Snape: i need you to answer two questions for me.
+Hagrid: Yes, Professor?
+Snape: you say you do. right. so. you're saying...
+Harry_as_voldemort: professor_dumbledore_sent_me_on_this_mission_you_will_be_working_with_me_tomorrow.
+Hagrid: (nodding) i didn't want to send you on a mission without telling you what it was all about.
+Albus dumbledore: yes.
+Environment: marge leads harry down stairs to an upper floor.
+Harry_as_voldemort: it's here! crack!_snape hands harry_as_voldemort's wand to hagrid.
+Hagrid: breakfast!
+Harry_as_voldemort: i went into the forest, i-i-i wanted to see if i could find you.
+Hagrid: i don't reckon we've seen your face since you set fire to the picture frame in b.j.
+Environment: he's sitting in front of a tree in the forest, with his cat, Scabbers, by his side.
+Hagrid: so you know,
+Harry_as_voldemort: lord_dumbledore_has_appointed_me_to_study_the_rules_of_the_game.html?pg=PA
+Hagrid: so you know, harry_as_
+Harry_as_voldemort: Parseltongue.
+Hagrid: so you know, harry_as_
+Hermione: he keeps changing the password. i've taken to keeping a list.
+Hagrid: ahhhhhhhh! the door opens, and she goes in.
+Harry_as_voldemort: Come, all of you.
+Hermione: ron! you've got to help me!
+Harry_as_voldemort: you ever hear of a basilisk, hagrid?
+Hermione: RON! you've got to help me!
+Environment: very early_on_harry_
+Hagrid: never in a million years would i have imagined i'd one day be leading my own army! but i'm blessed, and i'm eager to serve
+Hermione: i can't believe they're going to kill buckbeak! it's too horrible.
+Environment: as the group approaches buckbeak's den, shemione is hurrying, shouting.
+Hermione: here! crack! -- the basilisk springs free, landing in a sad, pathetic display in front of harry.
+Harry_as_voldemort: i knew it would one day be your turn to kill sirius! but i didn't expect the full force of the chain of command to come crashing
+Hagrid: i didn't want to send you on a mission!
+Harry_as_voldemort: this is it, harry. this is the moment when you make the ultimate sacrifice. when you give your all to the dark lord, he will
+Hermione: that's not good enough, harry.
+Environment: as the trio exit through the back door, snape is gone.
+Tom riddle: it's about time someone got in touch. harry's right, it's about time someone checked up on him.
+Hermione: that's not good enough, harry.
+Harry: sirius! harry eyes the giant serpent. it glows with a brilliant amber light.
+Environment: dark, brooding, and sinister, the room falls silent. in the portrait of sirius black, crossed out is the pupil of harry's
+Albus dumbledore: here! crack! -- the ghost of a battleship prowls the ceiling.
+Harry_as_voldemort: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
+Albus dumbledore: according to legend, when the time came to grant the house seat to sirius black, i chose hogwarts over a million miles away, because,
+Snape: i don't know how you did it, harry, but i'm certain you do know how the school is. you're in.
+Tom riddle: you're going into school, aren't you?
+Harry: yes. i've got something else to tell you.
+Hagrid: you're not going into school, are you?
+Albus dumbledore: very well then. i'll just be going. come on.
+Hagrid: you're a Malfoy!
+Harry_as_voldemort: you must be joking, aren't you?
+Albus dumbledore: they will not stand a chance. i have given them enough warning. destroy them all!
+Ron: that's not what you wanted to hear!
+Harry_as_voldemort: if you want proof that he's the heir of Slytherin, i can show you how it all started...
+Albus dumbledore: i didn't want to send you on a mission without telling you what it was all about.
+Snape: you're wrong!
+Environment: they all look at each other. riddle looks at his watch.
+Hagrid: you don't think he'd come to hogwarts, do you?
+Albus dumbledore: they have a point. where's the proof?
+Hagrid: he killed no. i'm afraid we shall have another case of the boys' catching the bends tomorrow. go on.
