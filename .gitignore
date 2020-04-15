@@ -5,23 +5,16 @@ encoder/*
 .DS_Store
 models/encoder/*
 lucidDream.code-workspace
-notebooks/samples/albus dumbledore_run1
-notebooks/samples/anger_run1
-notebooks/samples/disgust_run1
-notebooks/samples/environment_run1
-notebooks/samples/fear_run1
-notebooks/samples/full_model_run1
-notebooks/samples/guilt_run1
-notebooks/samples/harry_as_voldemort_run1
-notebooks/samples/harry_run1
-notebooks/samples/hermione_run1
-notebooks/samples/joy_run1
-notebooks/samples/ron_run1
-notebooks/samples/sadness_run1
-notebooks/samples/shame_run1
-notebooks/samples/snape_run1
-notebooks/samples/tom riddle_run1
+notebooks/samples/*
 notebooks/checkpoint
-notebooks/samples/
+notebooks/samples
+discord_bot/samples/*
 notebooks/models
 .env
+models
+checkpoint
+__pycache__
+notebooks/output/*
+history/*
+history
+corpora/*

@@ -1,100 +1,228 @@
-	environment: Diagon Alley was completely empty because of the coronavirus.	hagrid: Where is everybody?	albus dumbledore: Hopefully at home.Ron: They're not home. They're going to school.
-Hermione: (rising from her desk) I've got a few things I've got to take care of.
-Environment: They're walking down an empty street in the night. They pass a statue of a hunched over a sickly grey form. it reads MAJ
-Harry: , iv. voldemort.
-Harry_as_voldemort: Diagon Alley.
-Hermione: (rising from her desk) I've got a few things I've got to take care of.
-Environment: _Across the street_, inside a shop. the boy, TOM RIDDLE, is inside, buying his first muggle clothes.
-Harry_as_voldemort: Well, what are those?
-Harry: Diagon Alley.
-Environment: purchasing his first set of clothes, as he nicknames them.
-Harry_as_voldemort: These are my new favorite muggle clothes. You should wear them. They're—"
-Environment: he's in a quidditch tower, facing a brick wall. ron and hermione are striding toward him with cartwheels.
-Harry_as_voldemort: Tom, you're in Gryffindor!
-Harry_as_voldemort: Ravenclaw. Hufflepuff. And you?
-Harry_as_voldemort: Ravenclaw. Hufflepuff. And you?
-Harry_as_voldemort: {snickers} You know, Harry. If it weren't for Slytherin and the Slytherins --
-Hermione: voldemort. i can't believe i'm actually going to be going to school with you.
-Harry_as_voldemort: You're going to Hogwarts, aren't you?
-Hermione: i'm really not sure what to do with myself. we've got to help Harry, sir.
-Hagrid: we've got to help Harry, sir.
-Hermione: where are you?
-Hagrid: (in a fierce whisper) not Slytherin. They laugh.
-Harry_as_voldemort: i have a few things to say, sir.
-Hermione: where are you?
-Harry_as_voldemort: i have a few things to say, sir.
-Hermione: where are you?
-Harry_as_voldemort: i have a few things to say, sir.
-Hermione: where are you?
-Harry_as_voldemort: go on.
-Tom riddle: well, well, well. hagrid helps harry into his bed, then leaves him to it to... sleep.
-Harry_as_voldemort: {snores}
-Harry_as_voldemort: A.K.A. THE BURROW.
-Harry_as_voldemort: I went about my daily activities as if nothing happened.
-Harry: i feel... refreshed.
-Harry_as_voldemort: You have twenty-seven hours.
-Harry: well, i guess i got something.
-Harry: i felt... refreshed.
-Harry: i felt... refreshed.
-Hermione: what happened?
-Hermione: you're... dead.
-Hermione: me? maybe you're dreaming. i just thought, hey, if harry's memory's any indication, he might be able to help us sort
-Hermione: that's not good.
-Albus dumbledore: It can't be done. It's too complicated.
-Harry: you don't think it was Snape, do you?
-Albus dumbledore: Very well then. I'll just be going. You'll still have to wait outside, of course, but i expect you'll be able to find
-Harry: yes.
-Albus dumbledore: we should tell him what we're doing. he might be able to stop us being seen.
-Harry: and you?
-Environment: dark. ominous. dementors drift in the distance. ron lies awake, staring at the empty bed.
-Albus dumbledore: you do not want this at night!
-Environment: his glasses. as he looks at them, hagrid comes over, smokes a blunt and...
-Albus dumbledore: ron! she turns, goes the wrong way.
-Environment: he's thrown onto the bed, wearing nothing but his nightgown. as he's stood up, he's wearing nothing but his nightcap.
-Harry: i don't think i need to see this man.
-Environment: he's dressed in rags, wand at his side.
-Snape: i don't know how this house came to be, but i'm going to expect it to act as i see fit. no one here cares what
-Ron: i can't believe he's letting that snake go!
-Harry: i don't think he'd want us to kill him.
-Snape: if you want proof that you've been in there, show yourself. prove yourself.
-Ron: whew, this is going to be bad. this is going to be really, really bad. as ron draws back in disgust, the snake
-Snape: nothing, harry. they'd know i wasn't who i pretended to be. and i'm sure they'd like to have another word with me
-Ron: you'd better clear off before that snake of a son gets himself bitten. if he doesn't, i'll kill him.
-Harry_as_voldemort: you must be joking, harry. they'd know i wasn't who i pretended to be. and i'm sure they'd like to have another
-Ron: if you want proof that you've been in there, show yourself. prove yourself.
-Hermione: ron, you're denying yourselves!
-Harry_as_voldemort: hiding. i assumed they'd find me. but they haven't.
-Hermione: that's not good.
-Ron: that's no time for idle talk. harry_as_voldemort is about to kill snape.
-Snape: here! crack! -- the dementor vanishes and a roiling mist appears, which becomes clouds. hermione notices a peculiar smell.
-Tom riddle: not to be rude or anything, but this is the seventh time this month he's summoned you to the castle. it's obvious he's trying to
-Harry: professor, i swear i didn't!
-Harry_as_voldemort: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
-Ron: nox.
-Harry_as_voldemort: i should tell you, while we know you both have epilepsy, its treatable. and if you need to be warded against, i suggest making
-Tom riddle: that'd be a cheerful house, wouldn't it? easy on the eyes. and free from all the... clutter?
-Ron: yes.
-Tom riddle: i don't know how this house came to be, but i'm going to expect it to act as i see fit.
-Snape: you may recall, prior to the start of term, i did express my concerns when you appointed professor --
-Tom riddle: you go to bed. harry paces. looks around. hears laughter. breaks off a cookie, hands it to snape.
-Ron: good to see you're having fun.
-Snape: mr. potter. we have information regarding you that requires your immediate attention. as a matter of policy, the castle's grounds are not to
-Harry: sirius. sirius.
-Albus dumbledore: i should tell you, lupin, earlier this evening your nephew, tom, was found hanging from a noose in the manor courtyard.
-Harry: you said ron. i saw him. across the lake... just then, voices.
-Snape: if you don't mind, i'm going to bed.
-Environment: snape is escorted into the dungeons
-Ron: that's what you said to it.
-Albus dumbledore: i should tell you, lupin, earlier this evening your nephew, tom, was found hanging from a noose in the manor courtyard.
-Hagrid: you wish you were still alive, harry.
-Hermione: yes.
-Harry: you're not mad, shem.
-Albus dumbledore: that's when the basilisks go into effect.
-Harry: you're not mad, shem.
-Hermione: that's what you said to it.
-Albus dumbledore: you go to bed. now.
-Snape: you might want to keep a closer eye on yourself, sir.
-Ron: but... what do you expect me to do?
-Albus dumbledore: excellent.
-Ron: that's not good.
-Albus dumbledore: brilliant.
+environment: Diagon Alley was completely empty because of the coronavirus.
+hagrid: Where is everybody?
+albus dumbledore: Hopefully at home.
+ron: They haven't seen each other in years. What if they've come to visit you?
+harry_as_voldemort: They haven't. What would I get if I added wood to their fire?
+hermione: I'd get nothing. Dumbledore turns, walks off with harry.
+hermione: Diagon Alley was completely empty because of the coronavirus.
+hagrid: Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry.
+hagrid: What if they've come to visit you?
+ron: They've come to visit you!
+ron: What if they've come to visit you?
+hermione: Just then, voices echo and three kids -- ALICIA, FRED, JAMES and HARRY POTTER -- run up.
+hermione: Here's where you'll get your quills and ink, and over there
+harry: I'm going to be a wizard. I'm going to be famous.
+harry: They've come to visit you!
+environment: ron and hermione sit in front of a mirror. harry is reflecting.
+environment: Dumbledore turns, walks off with harry.
+hermione: It can't be...
+hermione: They haven't.
+environment: as they all run down the stairs, reaching the end of the hall. ron is holding a SMALL VIAL in his hands.
+environment: Just then, voices echo and three kids -- ALICIA, FRED, JAMES and HARRY POTTER -- run up.
+harry: Where are we? A graveyard. Silent. Harry and Ron turn. See a huge, ugly death's head peering out of a tombstone.
+harry: What would I get if I added wood to their fire?
+ron: Whoa! Ahh! {excited}.
+ron: A graveyard.
+environment: they approach a stone marker that says, The Giant's Tomb.
+environment: Here's where you'll get your quills and ink, and over there
+albus dumbledore: Welcome, everyone. To Hogwarts. Where, if you're looking for a school, you'll be pleased to know that there is indeed one here in
+albus dumbledore: What if they've come to visit you?
+environment: very early morning. it's a small shack, with a door that says, cannot open until death do you part. it's for that reason that
+environment: Where, if you're looking for a school, you'll be pleased to know that there is indeed one here in
+hermione: It's not a school, Harry. It's a hospital.
+hermione: it's a small shack, with a door that says, cannot open until death do you part.
+snape: If you want to know what to do, just ask. I've got a few ideas.
+snape: What if they've come to visit you?
+environment: very early morning. harry, sitting by himself, opens the door. ron is attempting to wake him from a dream. harry turns away
+environment: it's a small shack, with a door that says, cannot open until death do you part.
+hermione: that's not good.
+hermione: It can't be...
+tom riddle: It can't be...
+tom riddle: It can't be...
+hermione: I don't know what to think.
+hermione: It can't be...
+snape: It can't be...
+snape: It can't be...
+harry: tom. you killed my brother. i don't believe him. but i didn't expect him to be as cunning as he is.
+harry: I don't know what to think.
+tom riddle: we're not allowed to leave the tower except for school. otherwise, you'd have to give me a reason.
+tom riddle: it's a small shack, with a door that says, cannot open until death do you part.
+environment: as they approach a stone door, harry and hermione approach.
+environment: they approach a stone marker that says, The Giant's Tomb.
+snape: mr. potter. is that you?
+snape: Where are we?
+hermione: (eyeing riddle) he's got a point. tom riddle's got a point. we're not allowed to leave the tower except for
+hermione: we're not allowed to leave the tower except for school.
+harry_as_voldemort: (eyeing riddle) not to worry. ssssst! snape soars through the sky and hits the wall with a thud
+harry_as_voldemort: we're not allowed to leave the tower except for
+albus dumbledore: (aroused) mr. potter! as dumbledore draws his wand, the trio leap into the air and soar away.
+albus dumbledore: as they all run down the stairs, reaching the end of the hall.
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+snape: we're not allowed to leave the tower except for school.
+ron: i didn't mean to.
+ron: i don't believe him.
+environment: very far below, harry is lowering himself into a stone sarcophagus. in the chamber, the others stare in shock.
+environment: it's a small shack, with a door that says, cannot open until death do you part.
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+ron: i didn't know you could speak Parseltongue.
+ron: i didn't mean to.
+harry_as_voldemort: lord_tom. i have a few things to say, before i plunge you into the lake. before i unleash the dementors.
+harry_as_voldemort: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+harry: professor. i was... i was... sleepwalking...
+harry: is that you?
+harry_as_voldemort: you must be one of the guards of dragons. they guard the seven secret doors of Hogwarts. the ones that lead to the seventh floor. the ones
+harry_as_voldemort: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+hermione: and?
+hermione: mr. potter.
+harry: nox.
+harry: mr. potter.
+snape: if you do. i will kill you.
+snape: If you want to know what to do, just ask.
+tom riddle: you'd better clear off before that kid in peter pettigrew's class resets his clocks.
+tom riddle: it's for that reason that
+Where, if you're looking for a school, you'll be pleased to know that there is indeed one here in
+ron: excellent. i'm sure of it.
+ron: if you do.
+hagrid: shhh! i'm not Harry.
+hagrid: (eyeing riddle) not to worry.
+harry_as_voldemort: you might want to wash that nasty smile off your face, riddle.
+harry_as_voldemort: If you want to know what to do, just ask.
+harry: i don't know.
+harry: i don't believe him.
+ron: but... what did he do?
+ron: if you do.
+harry_as_voldemort: you know, sir, i'm surprised that you didn't return the scarf.
+harry_as_voldemort: i didn't know you could speak Parseltongue.
+harry: i didn't know either.
+harry: i didn't mean to.
+snape: if you do. i will kill you.
+snape: i will kill you.
+harry: nox.
+harry: mr. potter.
+hagrid: right then. shall we?
+hagrid: if you do.
+harry_as_voldemort: i'll ask you three to just... go... to the seventh floor.
+harry_as_voldemort: the ones that lead to the seventh floor.
+ron: i don't think we've heard the end of this.
+ron: I don't know what to think.
+hermione: that's not good.
+hermione: that's not good.
+hagrid: i don't know, harry. But i'm guessing there's another way. If you've got a way --
+hagrid: i don't think we've heard the end of this.
+harry: yes.
+harry: mr. potter.
+albus dumbledore: if you're interested, i've got a few moments to give a speech. before i'm forced to leave for work. harry, you should
+albus dumbledore: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+harry: you don't think it's true, do you?
+harry: I don't know what to think.
+harry_as_voldemort: you must be Tom Riddle.
+harry_as_voldemort: harry, you should
+tom riddle: i'll ask him. why?
+tom riddle: but... what did he do?
+environment: they all stare at each other.
+environment: Welcome, everyone.
+albus dumbledore: if you're interested, i've got a few moments to give a speech. before i'm forced to leave for work. harry, you should
+albus dumbledore: if you're interested, i've got a few moments to give a speech.
+harry: professor. dare i tell you i was? and i swear i didn't --
+harry: you know, sir, i'm surprised that you didn't return the scarf.
+albus dumbledore: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+albus dumbledore: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+harry_as_voldemort: professor, i swear i didn't --
+harry_as_voldemort: and i swear i didn't --
+environment: they all sit together in a great hall.
+environment: as they all run down the stairs, reaching the end of the hall.
+harry_as_voldemort: professor, i swear i didn't --
+harry_as_voldemort: professor, i swear i didn't --
+environment: as they all go, the_vault door opens and harry_as_voldemort drifts out, unseen.
+environment: as they approach a stone door, harry and hermione approach.
+albus dumbledore: he'll have another talk with him tomorrow.
+albus dumbledore: i'll ask him.
+snape: i should tell you, mr. potter, earlier this year your nephew did come to hogwarts with a mysterious illness. he was put under
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+professor.
+hagrid: you don't think there's any point in talking to strangers, do you?
+hagrid: you don't think it's true, do you?
+ron: he's lying!
+ron: Whoa!
+albus dumbledore: yes.
+albus dumbledore: yes.
+harry_as_voldemort: professor, i swear i didn't!
+harry_as_voldemort: professor, i swear i didn't --
+hagrid: he'll have another talk tomorrow.
+hagrid: he'll have another talk with him tomorrow.
+albus dumbledore: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+albus dumbledore: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+harry_as_voldemort: professor, i swore i wouldn't tell anyone about that one.
+harry_as_voldemort: professor, i swear i didn't --
+he'll have another talk tomorrow.
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+hermione: that's not good.
+hermione: that's not good.
+harry_as_voldemort: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+harry_as_voldemort: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+snape: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+albus dumbledore: i need to have a word with him. he-who-shall-not-be-named.
+albus dumbledore: otherwise, you'd have to give me a reason.
+tom riddle: that's not good, harry.
+tom riddle: that's not good.
+hermione: and what would that be?
+hermione: is that you?
+environment: as they approach a house, the dog yelps and the door opens. harry_as_voldemort approaches ron_glassey.
+environment: as they approach a stone door, harry and hermione approach.
+ron: by the way, harry. your parents were quite strict. if you break any of them out of prison, they'll expel you. otherwise,
+ron: you may recall, prior to the start of term, i stated that if the school did not wish to accept me as a new student, i would
+we're not allowed to leave the tower except for school.
+environment: as they approach a house, the dog yelps and the door opens. harry_as_voldemort approaches ron_glassey.
+environment: as they approach a house, the dog yelps and the door opens.
+snape: that's not good, harry.
+snape: that's not good, harry.
+harry: nox.
+harry: mr. potter.
+albus dumbledore: yes, harry. we expect you've made arrangements with the ministry to help with the investigation.
+albus dumbledore: harry, you should
+if you're interested, i've got a few moments to give a speech.
+harry_as_voldemort: if you want to know how i was able to accomplish what i did, well, i don't know. i just... found a way.
+harry_as_voldemort: you know, sir, i'm surprised that you didn't return the scarf.
+albus dumbledore: nox. 52 EXT. QUIDDITCH STADIUM - DAY 52 Harry, dressed in his Quidditch robes, dashes onto the
+albus dumbledore: by the way, harry.
+hagrid: he's not dead, harry. i just saw what he did...
+hagrid: but i didn't expect him to be as cunning as he is.
+hermione: that's not good.
+hermione: that's not good.
+hagrid: you see, sir, the only one who can defeat me is... you. bravely, harry.
+hagrid: if you want to know how i was able to accomplish what i did, well, i don't know.
+albus dumbledore: you all right, hagrid?
+albus dumbledore: right then.
+tom riddle: they're not.
+tom riddle: i'm not Harry.
+hermione: and?
+hermione: and?
+mr. potter.
+tom riddle: it was brilliant. we used every trick in the book.
+tom riddle: it's for that reason that
+Where, if you're looking for a school, you'll be pleased to know that there is indeed one here in
+excellent.
+ron: really? i didn't know which one to go with. after all, there are some things you just can't explain.
+ron: if you want to know how i was able to accomplish what i did, well, i don't know.
