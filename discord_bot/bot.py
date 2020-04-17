@@ -55,7 +55,7 @@ async def write_history(message):
 async def on_message(message):
     global save_counter
     global continue_talking
-    if message.author == client.user and "!free" in message.content and "!help" not in message.content:
+    if message.author == client.user and "!free" in message.content and "Commands:" not in message.content:
         continue_talking = True
     if not message.content.startswith("!") and message.author == client.user:
         return
@@ -110,7 +110,8 @@ async def on_message(message):
                 emotion_writer.write(f"{emotion}, {old_content}\n")
         return
     elif message.content.startswith("!models"):
-        await message.channel.send(str(os.listdir("checkpoint")))
+        available_models = "\n\t".join(os.listdir("checkpoint"))
+        await message.channel.send(f"Currently using: {lucidDream.run_name}\nAvailable:\n\t{available_models}")
         return
     elif message.content.startswith("!useModel"):
         model = message.content.replace("!useModel", "").strip()
@@ -123,16 +124,17 @@ async def on_message(message):
         return
     elif message.content.startswith("!help"):
         await message.channel.send(
-            "**!save <no args>**: save the current chat history to a file on Ryan's computer." +
-            "**!breakdown <exact name>**: gives an emotional breakdown of the user based on their past conversation." +
-            "**!users <no args>**: returns a list of users and aliases for users that, if mentioned, will trigger the bot. Format: alias:username"
-            "**!add <alias:username>**: Adds an alias/username as a trigger word for the bot. passing one argument is equivalent to saying username:username (ex. !add user == !add user:user)." +
-            "**!remove <alias>**: Removes an alias as a trigger word for the bot." +
-            "**!label <emotion>**: Label the past message sent as a certain emotion (doesn't have to be a bot's last message). This helps the model learn emotions better and get better profiles." +
-            "**!models <no args>**: Show a list of available models to switch the chatbot to." +
-            "**!useModel <model_name>**: Switch the chatbot to use the model specified." +
-            "**!shutup <no args>**: If the model manages to say \"!free\", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this." +
-            "**NOTE:** The AI model is free to use any of the above commands as well and they will all work for it."
+            "Commands:\n" +
+            "**!save <no args>**: save the current chat history to a file on Ryan's computer.\n" +
+            "**!breakdown <exact name>**: gives an emotional breakdown of the user based on their past conversation.\n" +
+            "**!users <no args>**: returns a list of users and aliases for users that, if mentioned, will trigger the bot. Format: alias:username\n"
+            "**!add <alias:username>**: Adds an alias/username as a trigger word for the bot. passing one argument is equivalent to saying username:username (ex. !add user == !add user:user).\n" +
+            "**!remove <alias>**: Removes an alias as a trigger word for the bot.\n" +
+            "**!label <emotion>**: Label the past message sent as a certain emotion (doesn't have to be a bot's last message). This helps the model learn emotions better and get better profiles.\n" +
+            "**!models <no args>**: Show a list of available models to switch the chatbot to.\n" +
+            "**!useModel <model_name>**: Switch the chatbot to use the model specified.\n" +
+            "**!shutup <no args>**: If the model manages to say \"!free\", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.\n" +
+            "**NOTE:** The AI model is free to use any of the above commands as well and they will all work for it.\n"
         )
         return
 
@@ -141,24 +143,15 @@ async def on_message(message):
         if character.lower() in message.content.lower() or continue_talking:
             character = random.choice(list(amended_characters.values())) if continue_talking else character
             history = await message.channel.history(limit=50).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
-            # await message.channel.send(f"{character}: let me think...")
             await message.guild.me.edit(nick=real_character)
             lucidDream.characters = [real_character]
 
-            # channel_history = await message.channel.history(limit=31).flatten()
-            # print("CHANNEL HISTORY", channel_history)
             print(f"{real_character} is responding")
             async with message.channel.typing():
                 response = lucidDream.start_conversation(history, filtered=True)
 
                 for member in message.guild.members:
                     response = response.replace(member.display_name, member.mention) if member.display_name in response else response
-                        # print(member.nick, member.display_name)
-                # for _, character in characters.items():
-                #     if character in response:
-                #         member_mention = discord.utils.get(message.guild.members, name=character)
-                #         member_mention = member_mention.mention if member_mention else character
-                #         response = response.replace(character, member_mention)
                 await message.channel.send(response)
 
     if save_counter[message.guild.name] > 5:

@@ -76,39 +76,26 @@ class LucidDream:
     def generate_holistic_model_response(self, conversation, character, filtered=True):
         common_letters = "tiiiiiiainosriiiitainosiatwbmtikgdpr"
         seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in conversation[-30::-1]]) + f"\n{character}:" if not self.run_name.startswith("new") else f"<|start_text|>{character}: "
-        # print(f"Seed: {seed}")
         gpt2.reset_session(self.sess)
         self.sess = gpt2.start_tf_sess()
         gpt2.load_gpt2(self.sess, run_name=self.run_name)
         response = gpt2.generate(
             self.sess,
             length=self.response_length,
-            temperature=0.73,
-            prefix=seed,# + random.choice(common_letters + common_letters.upper()),
+            temperature=random.randrange(55,90)/100,
+            prefix=seed + random.choice(common_letters + common_letters.upper()) if not self.run_name.startswith("new") else seed,
             nsamples=1,
             batch_size=1,
             run_name=self.run_name,
             return_as_list=True
         )[0]
-        print("RAW:\n", response[len(seed):])
         response = response[len(seed):].strip()
-        # print("R", response)
-        
-        # if len(response.split(":")) > 1:
-        #     response = response.split(":")[0].strip()
-        # filtered_words = " ".join(re.findall(r".+?[.?!]", response)).strip()
 
         if "<|end_text|>" in response:
             output = re.findall(r"(.+?)<\|end_text\|>", response)
             return output[0] if output else response.replace("<|start_text|>", "").strip()
         else:
             return response
-        # print("R", response, len(re.split(r"[\s\t\n]", response)) - len(re.split(r"[\s\t\n]", filtered_words)))
-
-        # return response
-
-        # filtered_response = filtered_words if len(re.split(r"[\s\t\n]", response)) - len(re.split(r"[\s\t\n]", filtered_words)) <= 3 and filtered_words.strip() else response
-        # print("FR", filtered_response)
         split_response = response.split(":")
         formatted = []
         for res in split_response:
@@ -118,16 +105,9 @@ class LucidDream:
                 formatted.append(res)
                 break
         return "\n".join(formatted)
-        # return filtered_response
-        # return re.split(r"[a-z A-Z0-9]+:", response)[0].strip().split("\n")[0] if filtered else response
 
 
-    def start_conversation(
-        self,
-        conversation=[],
-        filtered=True
-    ):
-        # with open(os.devnull, "w") as f, contextlib.redirect_stdout(f):
+    def start_conversation(self, conversation=[], filtered=True):
         character = random.choice(self.characters)
         response = self.generate_holistic_model_response(conversation, character, filtered=filtered)
         return response
