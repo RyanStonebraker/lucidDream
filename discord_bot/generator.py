@@ -27,11 +27,13 @@ class LucidDream:
     def __init__(
         self,
         characters=["trump", "harry", "ron", "hermione", "snape", "albus dumbledore", "tom riddle", "hagrid", "environment"],
-        response_length=30
+        response_length=30,
+        run_name="small_uafcsc_better"
     ):
         self.characters = characters
-        self.sess = None
+        self.sess = gpt2.start_tf_sess()
         self.response_length=response_length
+        self.run_name=run_name
 
         self.init_classifier()
 
@@ -72,19 +74,20 @@ class LucidDream:
 
 
     def generate_holistic_model_response(self, conversation, character, filtered=True):
-        common_letters = "tainosrtainosiatwbmtikgdpr"
-        seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in conversation[-30::-1]]) + f"\n{character}:"
+        common_letters = "tiiiiiiainosriiiitainosiatwbmtikgdpr"
+        seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in conversation[-30::-1]]) + f"\n{character}:" if not self.run_name.startswith("new") else f"<|start_text|>{character}: "
         # print(f"Seed: {seed}")
+        gpt2.reset_session(self.sess)
         self.sess = gpt2.start_tf_sess()
-        gpt2.load_gpt2(self.sess, run_name=f"csc_model")
+        gpt2.load_gpt2(self.sess, run_name=self.run_name)
         response = gpt2.generate(
             self.sess,
             length=self.response_length,
-            temperature=0.7,
-            prefix=seed + random.choice(common_letters + common_letters.upper()),
+            temperature=0.73,
+            prefix=seed,# + random.choice(common_letters + common_letters.upper()),
             nsamples=1,
             batch_size=1,
-            run_name=f"csc_model",
+            run_name=self.run_name,
             return_as_list=True
         )[0]
         print("RAW:\n", response[len(seed):])
@@ -95,16 +98,26 @@ class LucidDream:
         #     response = response.split(":")[0].strip()
         # filtered_words = " ".join(re.findall(r".+?[.?!]", response)).strip()
 
-        gpt2.reset_session(self.sess)
-        self.sess = gpt2.start_tf_sess()
-
+        if "<|end_text|>" in response:
+            output = re.findall(r"(.+?)<\|end_text\|>", response)
+            return output[0] if output else response.replace("<|start_text|>", "").strip()
+        else:
+            return response
         # print("R", response, len(re.split(r"[\s\t\n]", response)) - len(re.split(r"[\s\t\n]", filtered_words)))
 
         # return response
 
         # filtered_response = filtered_words if len(re.split(r"[\s\t\n]", response)) - len(re.split(r"[\s\t\n]", filtered_words)) <= 3 and filtered_words.strip() else response
         # print("FR", filtered_response)
-        return "\n".join(response.split("\n")[:1])
+        split_response = response.split(":")
+        formatted = []
+        for res in split_response:
+            if res.endswith(character):
+                formatted.append(res[:res.rfind(character)])
+            else:
+                formatted.append(res)
+                break
+        return "\n".join(formatted)
         # return filtered_response
         # return re.split(r"[a-z A-Z0-9]+:", response)[0].strip().split("\n")[0] if filtered else response
 
@@ -133,8 +146,9 @@ class LucidDream:
     def get_emotional_profile(self, character, guild):
         history = {"character": [], "text": []}
         with open (f"history/{guild}.txt", "r") as history_reader:
-            raw_lines = history_reader.readlines()
+            raw_lines = history_reader.read().split("<|end_text|>")
             for line in raw_lines:
+                line = line.replace("<|start_text|>", "").strip()
                 history["character"].append(line[:line.find(":")])
                 history["text"].append(line[line.find(":")+1:].strip())
         df = pd.DataFrame(history)
