@@ -11,26 +11,9 @@ import random
 import re
 import asyncio
 
-# characters = ["arsh", "bradley", "percy", "charlie", "neville", "fred", "george", "molly", "percival graves", "lucas", "flinch", "grindelwald", "dobby", "cedric", "myrtle", "harry", "ron", "hermione", "snape", "albus dumbledore", "dumbledore", "tom riddle", "hagrid", "environment", "voldemort", "malfoy", "draco", "mcgonagall", "lupin", "sirius", "hedwig", "headless nick", "dudley", "vernon", "arthur", "ginny", "crab", "goyle", "voldemort"]
-
-# characters = ["arsh", "bradley", "nathan", "addeline", "tristan", "ryan", "george", "andrew", "matt", "ian", "izac", "jason", "tyler", "harry", "hermione", "ron", "tyler"]
-
 characters = {
-    "arsh": "Van Arsh",
-    "bradley": "Bradley Morton",
-    "nathan": "Nathan VanOverbeke",
-    "addeline": "Addeline",
-    "tristan": "Tristan Van Cise",
-    "ryan": "Ryan Van Stonebraker",
-    "george": "george",
-    "matt": "Matt Perry",
-    "tyler": "Tyler Chase",
-    "harry": "harry",
-    "hermione": "hermione",
-    "ron": "ron",
-    "andrew": "Andrew Van Adler",
-    "trump": "Donald Julio Trump",
-    "izac": "Izac Lorimer"
+    "harry": "Harry Potter",
+    "george": "george"
 }
 
 lucidDream = generator.LucidDream(
@@ -208,8 +191,11 @@ async def on_message(message):
                 response = lucidDream.start_conversation(history, filtered=True).strip()
                 if not response:
                     response = lucidDream.start_conversation(history, random_seed=True).strip()
-                for member in message.guild.members:
-                    response = re.sub(r"\b({})\b".format(member.display_name), member.mention, response)
+                if message.guild.name.lower() == "uaf-cs":
+                    response = response.replace(member.mention, "@member")
+                else:
+                    for member in message.guild.members:
+                        response = re.sub(r"\b({})\b".format(member.display_name), member.mention, response)
                 try:
                     await message.channel.send(response)
                 except Exception as err:
@@ -224,9 +210,5 @@ async def on_message(message):
 
 @client.event
 async def on_ready():
-    print('Logged in as')
-    print(client.user.name)
-    print(client.user.id)
-    print('------')
-
+    print(f"Connected {client.user.name} - {client.user.id}\n------")
 client.run(TOKEN)

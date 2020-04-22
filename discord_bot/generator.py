@@ -88,7 +88,7 @@ class LucidDream:
         else:
             seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in past_messages])
             seed += f"\n{character}: "
-        # print(seed)
+
         gpt2.reset_session(self.sess)
         self.sess = gpt2.start_tf_sess()
         gpt2.load_gpt2(self.sess, run_name=self.run_name)
@@ -109,7 +109,7 @@ class LucidDream:
         truncate = re.findall(r"(.+?)(?:\<\|?end_text\|?\>)", response)
         response = truncate[0] if truncate else response
         
-        return re.sub(r"<\|.*?\|>", "", response)
+        return re.sub(r"<\.*?\>", "", response)
 
 
     def start_conversation(self, conversation=[], filtered=True, random_seed=False):
@@ -151,8 +151,8 @@ if __name__ == "__main__":
     lucidDream = LucidDream(
         characters=["harry", "ron", "hermione"],
         response_length=40,
-        run_name="new_reddit_feb_28"
+        run_name="med_first_three_harry_potter"
     )
 
-    lucidDream.characters = ["random"]
-    print(lucidDream.start_conversation([("random", "What do you think of random?")], filtered=True))
+    lucidDream.characters = ["harry"]
+    print(lucidDream.start_conversation([], filtered=True))
