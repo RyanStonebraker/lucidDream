@@ -1,22 +1,27 @@
 # lucidDream
-Three dimensional, emotionally-based AI character models applied to dynamic story telling.
+Dynamic Story Generation through directed chatbot interactions.
 
-## Development Stages
-1. Establish word vector interpretation system for defining key parts of response
-    - Ex. ("good", "weather", "tomorrow") -> "The weather looks good for tomorrow."
-    - Use GAN architecture to interpolate word vectors to full sentences
-2. Generate meaningful word vectors based on probability queue
-    - Create list of topics that have an assigned probability for the response to be about
-    - Each topic also has a list of adjectives that have a probability of being selected
-    - Length of response should be determined by specificity rating of question (ex. "why?" is open ended, "what time is it?" is not)
-3. Build 3 dimensional emotion models by using a clustering approach to evaluate specific written work by individual authors
-    - These emotion models should impactt the probability queue word choices
-4. Add in LSTM model to give historical value to previous responses
-5. Assign physical constraints to model ("health", "height", etc.)
-6. Have first-person verbs correspond to actions that must take into account physical constraints when being a part of responses
-7. Add in environment
-    - Conditions in environment influence responses
-    - User can influence environmental conditions
-8. Have responses over time impact emotion model
-9. Add multiple character models to shared environment
-10. Record interactions and actions to create story
+# Summary
+This repository contains exploratory efforts towards controlling text generation using the GPT-2 model in a chatbot environment. It also houses an experimental Discord bot for interacting with simplified trained models.
+
+## Dynamically Generating Stories
+The `notebooks/Lucid Dream.ipynb` is the main notebook that aggregates the exploratory efforts from the others and provides the `start_conversation` function, which allows for a scene to by dynamically created and modified.
+
+## Discord Bot
+The Discord Bot located in `discord_bot/bot.py` serves as an interface for the gpt-2-simple library and aims to replicate some of the techniques used in the Lucid Dream notebook. The follow commands are available to use the bot:
+```
+!help:
+    !save <no args>: save the current chat history to a local file on the server.
+    !breakdown <exact name>: gives an emotional breakdown of the user based on their past conversation.
+    !users <no args>: returns a list of users and aliases for users that, if mentioned, will trigger the bot. Format: alias:username
+    !add <alias:username>: Adds an alias/username as a trigger word for the bot. passing one argument is equivalent to saying username:username (ex. !add user == !add user:user).
+    !remove <alias>: Removes an alias as a trigger word for the bot.
+    !label <emotion>: Label the past message sent as a certain emotion (doesn't have to be a bot's last message). This helps the model learn emotions better and get better profiles.
+    !models <no args>: Show a list of available models to switch the chatbot to.
+    !useModel <model_name>: Switch the chatbot to use the model specified.
+    !shutup <no args>: If the model manages to say "!free", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.
+    !temperature <optional temperature>**: Either see the current temperature level or set a new one.
+    !trumpOrAI <no args>: Try to guess whether the next message was sent by trump or an AI. Game ends when someone guesses trump or AI correctly.
+
+NOTE: The AI model is free to use any of the above commands as well and they will all work for it.
+```
