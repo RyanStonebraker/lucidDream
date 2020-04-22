@@ -8,6 +8,8 @@ import generator
 import pandas as pd
 import os
 import random
+import re
+import asyncio
 
 # characters = ["arsh", "bradley", "percy", "charlie", "neville", "fred", "george", "molly", "percival graves", "lucas", "flinch", "grindelwald", "dobby", "cedric", "myrtle", "harry", "ron", "hermione", "snape", "albus dumbledore", "dumbledore", "tom riddle", "hagrid", "environment", "voldemort", "malfoy", "draco", "mcgonagall", "lupin", "sirius", "hedwig", "headless nick", "dudley", "vernon", "arthur", "ginny", "crab", "goyle", "voldemort"]
 
@@ -45,6 +47,11 @@ client = discord.Client()
 save_counter = {}
 filter_users = {}
 continue_talking = False
+last_message = "ai"
+game_mode = False
+
+with open("../corpora/trump.txt", "r") as trump_reader:
+    trump_tweets = [tweet.strip() for tweet in re.findall(r"<|start_text|>Donald Trump:(.+?)<|end_text|>", trump_reader.read()) if tweet.strip()]
 
 async def write_history(message):
     with open(f"history/{message.guild.name}.txt", "w") as discord_writer:
@@ -55,9 +62,25 @@ async def write_history(message):
 async def on_message(message):
     global save_counter
     global continue_talking
+    global game_mode
+    global last_message
+    global trump_tweets
     if message.author == client.user and "!free" in message.content and "Commands:" not in message.content:
         continue_talking = True
+    elif message.author == client.user and message.content.startswith("!knight"):
+        user = message.content.replace("!knight", "").strip()
+        for member in message.guild.members:
+            if member.display_name == user:
+                print(f"Knighting {member.display_name}")
+                await client.add_roles(member, discord.utils.get(message.server.roles, name="king_george"))
+        return
+
     if not message.content.startswith("!") and message.author == client.user:
+        return
+
+    if game_mode and last_message.lower() in message.content.lower():
+        await message.channel.send(f"{message.author.display_name} wins! The last message was sent by: {last_message}.")
+        game_mode = False
         return
 
     save_counter[message.guild.name] = 1 if message.guild.name not in save_counter else save_counter[message.guild.name] + 1
@@ -122,6 +145,34 @@ async def on_message(message):
     elif message.content.startswith("!shutup"):
         continue_talking = False
         return
+    elif message.content.startswith("!temperature"):
+        temperature = message.content.replace("!temperature", "").strip()
+        if temperature:
+            try:
+                temperature = float(temperature)
+                lucidDream.temperature = temperature
+            except:
+                pass
+        await message.channel.send(f"Temperature: {lucidDream.temperature}")
+        return
+    elif message.content.startswith("!trumpOrAI"):
+        game_mode = True
+
+        history = await message.channel.history(limit=50).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
+        await message.guild.me.edit(nick="Donald Trump")
+
+        last_message = random.choice(["ai", "trump"])
+        async with message.channel.typing():
+            if last_message == "trump":
+                response = random.choice(trump_tweets)
+                await asyncio.sleep(random.randrange(7,15))
+            else:
+                lucidDream.characters = ["Donald Trump"]
+                response = lucidDream.start_conversation(history, filtered=True)
+            response = re.sub(r"(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?", "", response)
+            await message.channel.send(response)
+        return
+
     elif message.content.startswith("!help"):
         await message.channel.send(
             "Commands:\n" +
@@ -134,25 +185,38 @@ async def on_message(message):
             "**!models <no args>**: Show a list of available models to switch the chatbot to.\n" +
             "**!useModel <model_name>**: Switch the chatbot to use the model specified.\n" +
             "**!shutup <no args>**: If the model manages to say \"!free\", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.\n" +
+            "**!temperature <optional temperature>**: Either see the current temperature level or set a new one.\n" +
+            "**!trumpOrAI <no args>**: Try to guess whether the next message was sent by trump or an AI. Game ends when someone guesses trump or AI correctly.\n" +
             "**NOTE:** The AI model is free to use any of the above commands as well and they will all work for it.\n"
         )
         return
 
 
+
     for character, real_character in amended_characters.items():
         if character.lower() in message.content.lower() or continue_talking:
             character = random.choice(list(amended_characters.values())) if continue_talking else character
-            history = await message.channel.history(limit=50).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
+            if "sysadmin" in lucidDream.run_name:
+                history = [(message.author.display_name, message.content.replace(character, "").strip())]
+            else:
+                history = await message.channel.history(limit=50).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
             await message.guild.me.edit(nick=real_character)
             lucidDream.characters = [real_character]
 
             print(f"{real_character} is responding")
             async with message.channel.typing():
-                response = lucidDream.start_conversation(history, filtered=True)
-
+                response = lucidDream.start_conversation(history, filtered=True).strip()
+                if not response:
+                    response = lucidDream.start_conversation(history, random_seed=True).strip()
                 for member in message.guild.members:
-                    response = response.replace(member.display_name, member.mention) if member.display_name in response else response
-                await message.channel.send(response)
+                    response = re.sub(r"\b({})\b".format(member.display_name), member.mention, response)
+                try:
+                    await message.channel.send(response)
+                except Exception as err:
+                    print(err)
+                    print(f"RAW: {response}")
+                    await message.channel.send("I HAVE FAILED AT RESPONDING. YOU BROKE ME.")
+            return
 
     if save_counter[message.guild.name] > 5:
         save_counter[message.guild.name] = 0

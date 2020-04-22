@@ -34,6 +34,7 @@ class LucidDream:
         self.sess = gpt2.start_tf_sess()
         self.response_length=response_length
         self.run_name=run_name
+        self.temperature = random.randrange(65,90)/100
 
         self.init_classifier()
 
@@ -73,43 +74,47 @@ class LucidDream:
         return cleaned_text
 
 
-    def generate_holistic_model_response(self, conversation, character, filtered=True):
+    def generate_holistic_model_response(self, conversation, character, filtered=True, random_seed=False):
         common_letters = "tiiiiiiainosriiiitainosiatwbmtikgdpr"
-        seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in conversation[-30::-1]]) + f"\n{character}:" if not self.run_name.startswith("new") else f"<|start_text|>{character}: "
+        past_messages = conversation[::-1][-30:]
+        if "sysadmin" in self.run_name:
+            seed = f"<|start_text|>{past_messages[-1][1].strip()}\n<|command|> "
+        elif self.run_name.startswith("new"):
+            seed = "\n".join([f"<|start_text|>{sentence[0].strip()}: {sentence[1].strip()}<|end_text|>" for sentence in past_messages])
+            seed += f"\n<|start_text|>{character}: "
+        elif "reddit" in self.run_name:
+            seed = "\n".join([f"<|start_text|>{character}: {sentence[1].strip()} @{sentence[0].strip()}<|end_text|>" for sentence in past_messages])
+            seed += f"\n<|start_text|>{character}: "
+        else:
+            seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in past_messages])
+            seed += f"\n{character}: "
+        # print(seed)
         gpt2.reset_session(self.sess)
         self.sess = gpt2.start_tf_sess()
         gpt2.load_gpt2(self.sess, run_name=self.run_name)
         response = gpt2.generate(
             self.sess,
             length=self.response_length,
-            temperature=random.randrange(55,90)/100,
-            prefix=seed + random.choice(common_letters + common_letters.upper()) if not self.run_name.startswith("new") else seed,
+            temperature=self.temperature,
+            prefix=seed + random.choice(common_letters + common_letters.upper()) if random_seed else seed,
             nsamples=1,
             batch_size=1,
             run_name=self.run_name,
-            return_as_list=True
-        )[0]
-        response = response[len(seed):].strip()
+            return_as_list=True,
+            # include_prefix=False,
+            # truncate="<|end_text|>"
+        )[0][len(seed):].strip()
 
-        if "<|end_text|>" in response:
-            output = re.findall(r"(.+?)<\|end_text\|>", response)
-            return output[0] if output else response.replace("<|start_text|>", "").strip()
-        else:
-            return response
-        split_response = response.split(":")
-        formatted = []
-        for res in split_response:
-            if res.endswith(character):
-                formatted.append(res[:res.rfind(character)])
-            else:
-                formatted.append(res)
-                break
-        return "\n".join(formatted)
+        print(f"Response Length: {len(response)}\n{response}")
+        truncate = re.findall(r"(.+?)(?:\<\|?end_text\|?\>)", response)
+        response = truncate[0] if truncate else response
+        
+        return re.sub(r"<\|.*?\|>", "", response)
 
 
-    def start_conversation(self, conversation=[], filtered=True):
+    def start_conversation(self, conversation=[], filtered=True, random_seed=False):
         character = random.choice(self.characters)
-        response = self.generate_holistic_model_response(conversation, character, filtered=filtered)
+        response = self.generate_holistic_model_response(conversation, character, filtered=filtered, random_seed=random_seed)
         return response
 
 
@@ -143,24 +148,11 @@ class LucidDream:
 
 
 if __name__ == "__main__":
-    # import gpt_2_simple as gpt2
-    # sess = gpt2.start_tf_sess()
-    # gpt2.finetune(
-    #     sess,
-    #     "../corpora/harry_potter/small_text.txt",
-    #     model_name="124M",
-    #     steps=100,
-    #     restore_from="fresh",
-    #     run_name="small_text_small_run1",
-    #     print_every=10,
-    #     sample_every=200,
-    #     save_every=100
-    # )
-
-
     lucidDream = LucidDream(
-        characters=["harry", "ron", "hermione", "snape", "albus dumbledore", "tom riddle", "hagrid", "environment"],
-        response_length=50
+        characters=["harry", "ron", "hermione"],
+        response_length=40,
+        run_name="new_reddit_feb_28"
     )
 
-    print(lucidDream.start_conversation([("harry", "this is a test.")], filtered=True))
+    lucidDream.characters = ["random"]
+    print(lucidDream.start_conversation([("random", "What do you think of random?")], filtered=True))

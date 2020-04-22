@@ -6,7 +6,7 @@ dumbledore:  I'm afraid so, Professor. The good, and the bad.
 mcgonagall:  And the boy?
 dumbledore:  Hagrid is bringing him.
 mcgonagall:  Do you think it wise to trust Hagrid with something as important as this?
-albus:  Ah, Professor, I would trust Hagrid with my life.
+dumbledore:  Ah, Professor, I would trust Hagrid with my life.
 environment: There is a motor sound, and the two professors look up to see a flying motorcycle coming down from the air. It skids on the street and halts. A large man, RUBEUS HAGRID, takes off his goggles.
 hagrid:  Professor Dumbledore, Sir. Professor McGonagall.
 dumbledore:  No problems, I trust, Hagrid?
