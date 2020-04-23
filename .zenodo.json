@@ -1,0 +1,27 @@
+{
+    "description": "This release marks all public code that was used to generate my thesis for my masters in Computer Science at the University of Alaska Fairbanks.", 
+    "license": "GNU GPL v3.0", 
+    "title": "Dynamic Story Generation Using Chatbots", 
+    "version": "v0.1.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-04-23", 
+    "creators": [
+        {
+            "affiliation": University of Alaska Fairbanks", 
+            "name": "Ryan Stonebraker"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/RyanStonebraker/lucidDream/tree/v0.1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3762839", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
