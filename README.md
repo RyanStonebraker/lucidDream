@@ -1,5 +1,8 @@
-# lucidDream
+# Lucid Dream
+[![DOI](https://zenodo.org/badge/189282514.svg)](https://zenodo.org/badge/latestdoi/189282514)
+
 Dynamic Story Generation through directed chatbot interactions.
+
 
 # Summary
 This repository contains exploratory efforts towards controlling text generation using the GPT-2 model in a chatbot environment. It also houses an experimental Discord bot for interacting with simplified trained models.
@@ -64,4 +67,18 @@ The Discord Bot located in `discord_bot/bot.py` serves as an interface for the g
     !shutup <no args>: If the model manages to say "!free", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.
     !temperature <optional temperature>**: Either see the current temperature level or set a new one.
     !trumpOrAI <no args>: Try to guess whether the next message was sent by trump or an AI. Game ends when someone guesses trump or AI correctly.
+```
+
+# Cite
+```
+@software{ryan_stonebraker_2020_3762840,
+  author       = {Ryan Stonebraker},
+  title        = {{Dynamic Story Generation through Directed Chatbot Interactions}},
+  month        = {4},
+  year         = {2020},
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
+  doi          = {10.5281/zenodo.3762840},
+  url          = {https://doi.org/10.5281/zenodo.3762840}
+}
 ```
