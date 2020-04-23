@@ -35,7 +35,7 @@ class ResponseClient:
         return message.content.replace(command, "").strip()
 
     async def show_characters(self, message):
-        await message.channel.send("Users:\n" + "\n\t".join([f"{character}: {full_name}" for character, full_name in self.characters.items()]))
+        await message.channel.send("Users:\n\t" + "\n\t".join([f"{character}: {full_name}" for character, full_name in self.characters.items()]))
 
     async def add_character(self, message):
         character = self.get_parameter_string(message, "!add")
@@ -97,7 +97,7 @@ class ResponseClient:
     async def get_leaderboard(self, message):
         sorted_leaderboard = "Leaderboard:\n"
         for person, position in sorted(self.leaderboard.items(), key=lambda leader: leader[1]["wins"]/(leader[1]["wins"] + leader[1]["losses"])):
-            sorted_leaderboard += f"\t{person}: {position['wins']} wins, {position['losses']} losses"
+            sorted_leaderboard += f"\t{person}: {position['wins']} wins, {position['losses']} losses\n"
         await message.channel.send(sorted_leaderboard)
 
     async def channel_or_ai(self, message):        
