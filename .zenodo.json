@@ -12,16 +12,13 @@
         }
     ], 
     "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/RyanStonebraker/lucidDream/tree/v0.1.0", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.3762839", 
-            "relation": "isVersionOf"
-        }
+    "keywords": [
+        "natural language understanding",
+        "natural language processing",
+        "GPT-2",
+        "text generation",
+        "chatbots",
+        "emotion classification",
+        "question-answering"
     ]
 }
