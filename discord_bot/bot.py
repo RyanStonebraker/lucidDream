@@ -37,7 +37,9 @@ async def execute_commands(session, message):
         "shutup": session.stop_talking,
         "temperature": session.modify_temperature,
         "trumpOrAI": session.trump_or_ai,
+        "channelOrAI": session.channel_or_ai,
         "answer": session.answer,
+        "leaderboard": session.get_leaderboard,
         "help": session.send_help
     }
     for command_name, command in commands.items():

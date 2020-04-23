@@ -17,6 +17,7 @@ class ResponseClient:
         self.game_mode = False
         self.tweets = []
         self.last_message = ""
+        self.leaderboard = {}
 
         self.knight_role = "king_george"
     
@@ -60,11 +61,11 @@ class ResponseClient:
             async for message in message.channel.history(limit=100000):
                 discord_writer.write(f"<|start_text|>{message.author.display_name}: {message.content}<|end_text|>\n")
 
-    async def get_history(self, message):
+    async def get_history(self, message, limit=30):
         if "sysadmin" in self.lucid_dream.run_name:
             history = [(message.author.display_name, message.content.strip())]
         else:
-            history = await message.channel.history(limit=30).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
+            history = await message.channel.history(limit=limit).map(lambda old_message: (old_message.author.display_name, old_message.content)).flatten()
         return history
 
     def get_trump_tweets(self):
@@ -79,11 +80,47 @@ class ResponseClient:
             await message.channel.send("Start a game first!")
         
         self.game_mode = False
-        await message.channel.send(f"{message.author.display_name} {'wins' if self.last_message.lower() == answer else 'loses'}! The last message was sent by: {self.last_message}.")
+        if self.last_message.lower().strip() == answer.lower().strip():
+            await message.channel.send(f"{message.author.display_name} wins! The last message was sent by: {self.last_message}.")
+            if message.author.display_name not in self.leaderboard:
+                self.leaderboard[message.author.display_name] = {"wins": 1, "losses": 0}
+            else:
+                self.leaderboard[message.author.display_name]["wins"] += 1
+        else:
+            await message.channel.send(f"{message.author.display_name} loses! The last message was sent by: {self.last_message}.")
+            if message.author.display_name not in self.leaderboard:
+                self.leaderboard[message.author.display_name] = {"wins": 0, "losses": 1}
+            else:
+                self.leaderboard[message.author.display_name]["losses"] += 1
+
+    async def get_leaderboard(self, message):
+        sorted_leaderboard = "Leaderboard:\n"
+        for person, position in sorted(self.leaderboard.items(), key=lambda leader: leader[1]["wins"]/(leader[1]["wins"] + leader[1]["losses"])):
+            sorted_leaderboard += f"\t{person}: {position['wins']} wins, {position['losses']} losses"
+        await message.channel.send(sorted_leaderboard)
+
+    async def channel_or_ai(self, message):        
+        self.game_mode = True
+        await message.guild.me.edit(nick="channel_or_ai")
+        history = await self.get_history(message, limit=1000)
+
+        self.last_message = random.choice(["ai", "channel"])
+        async with message.channel.typing():
+            character_response = random.choice([message for message in history if message[0] != "channel_or_ai"])
+            if self.last_message == "channel":
+                self.last_message = character_response[0]
+                response = character_response[1]
+                await asyncio.sleep(random.randrange(7,15))
+            else:
+                response = self.lucid_dream.start_conversation([character_response], run_name=self.model, character=character_response[0], characters=list(self.characters.keys())).strip()
+                response = re.findall(r"(.+?)<e", response)[0] if "<e" in response else response
+                multi_speakers = [output.strip() for output in re.findall(r"[a-zA-Z ]+:(.+)\b", response) if output.strip()]
+                response = multi_speakers[0] if multi_speakers else response
+
+            await message.channel.send(response)
 
     async def trump_or_ai(self, message):        
         self.game_mode = True
-        history = await self.get_history(message)
         await message.guild.me.edit(nick="Donald Trump")
 
         self.last_message = random.choice(["ai", "trump"])
@@ -94,6 +131,8 @@ class ResponseClient:
             else:
                 response = self.lucid_dream.start_conversation([("Donald Trump", response)], run_name=self.model, character="Donald Trump", characters=list(self.characters.keys())).strip()
             response = re.sub(r"(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?", "", response)
+            truncate_response = re.findall(r"(.+?)<", response)
+            response = truncate_response[0] if truncate_response else response
             await message.channel.send(response)
 
     async def label_emotion(self, message):
@@ -191,6 +230,7 @@ class ResponseClient:
             "**!shutup <no args>**: If the model manages to say \"!free\", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.\n" +
             "**!temperature <optional temperature>**: Either see the current temperature level or set a new one.\n" +
             "**!trumpOrAI <no args>**: Try to guess whether the next message was sent by trump or an AI. Game ends when someone !answers trump or AI correctly.\n" +
-            "**!answer <trump|ai>**: Ends the trumpOrAI game by answering.\n" +
+            "**!channelOrAI <no args>**: Try to guess whether the next message was sent by someone in the channel or an AI. Game ends when someone !answers the correct full name of the person in the channel or AI correctly.\n" +
+            "**!answer <person|trump|ai>**: Ends the trumpOrAI or channelOrAI game by submitting an answer.\n" +
             "**NOTE:** The AI model is free to use any of the above commands as well and they will all work for it.\n"
         )

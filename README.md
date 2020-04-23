@@ -53,7 +53,7 @@ Each generation method used a model or series of models created by fine-tuning t
 The Discord Bot located in `discord_bot/bot.py` serves as an interface for the gpt-2-simple library and aims to replicate some of the techniques used in the Lucid Dream notebook. It additionally includes some commands tailored specifically for the Discord environment. The bot is also structured in such a way that it can freely call upon commands itself. The following commands are available to use the bot:
 ```
 !help:
-    !save <no args>: save the current chat history to a local file on the server.
+    !save <no args>: save the current chat history to a file on the server.
     !breakdown <exact name>: gives an emotional breakdown of the user based on their past conversation.
     !users <no args>: returns a list of users and aliases for users that, if mentioned, will trigger the bot. Format: alias:username
     !add <alias:username>: Adds an alias/username as a trigger word for the bot. passing one argument is equivalent to saying username:username (ex. !add user == !add user:user).
@@ -64,4 +64,6 @@ The Discord Bot located in `discord_bot/bot.py` serves as an interface for the g
     !shutup <no args>: If the model manages to say "!free", it will no longer be bound to waiting for trigger words to respond and will be able to talk freely. !shutup will end this.
     !temperature <optional temperature>**: Either see the current temperature level or set a new one.
     !trumpOrAI <no args>: Try to guess whether the next message was sent by trump or an AI. Game ends when someone guesses trump or AI correctly.
+    !channelOrAI <no args>: Try to guess whether the next message was sent by someone in the channel or an AI. Game ends when someone !answers the correct full name of the person in the channel or AI correctly.
+    !answer <person|trump|ai>**: Ends the trumpOrAI or channelOrAI game by submitting an answer.
 ```
