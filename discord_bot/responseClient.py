@@ -78,6 +78,7 @@ class ResponseClient:
         answer = self.get_parameter_string(message, "!answer")
         if not self.game_mode:
             await message.channel.send("Start a game first!")
+            return
         
         self.game_mode = False
         if self.last_message.lower().strip() == answer.lower().strip():
