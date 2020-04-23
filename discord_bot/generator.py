@@ -26,7 +26,7 @@ from sklearn.model_selection import train_test_split
 class LucidDream:
     def __init__(
         self,
-        characters=["trump", "harry", "ron", "hermione", "snape", "albus dumbledore", "tom riddle", "hagrid", "environment"],
+        characters=[],
         response_length=30,
         run_name="small_uafcsc_better"
     ):
@@ -74,16 +74,17 @@ class LucidDream:
         return cleaned_text
 
 
-    def generate_holistic_model_response(self, conversation, character, filtered=True, random_seed=False):
-        common_letters = "tiiiiiiainosriiiitainosiatwbmtikgdpr"
+    def generate_holistic_model_response(self, conversation, character, filtered=True, random_seed=False, run_name=None):
         past_messages = conversation[::-1][-30:]
-        if "sysadmin" in self.run_name:
+        
+        model_run = run_name if run_name else self.run_name
+        if "sysadmin" in model_run:
             seed = f"<|start_text|>{past_messages[-1][1].strip()}\n<|command|> "
-        elif self.run_name.startswith("new"):
-            seed = "\n".join([f"<|start_text|>{sentence[0].strip()}: {sentence[1].strip()}<|end_text|>" for sentence in past_messages])
-            seed += f"\n<|start_text|>{character}: "
-        elif "reddit" in self.run_name:
+        elif "reddit" in model_run:
             seed = "\n".join([f"<|start_text|>{character}: {sentence[1].strip()} @{sentence[0].strip()}<|end_text|>" for sentence in past_messages])
+            seed += f"\n<|start_text|>{character}: "
+        elif model_run.startswith("new"):
+            seed = "\n".join([f"<|start_text|>{sentence[0].strip()}: {sentence[1].strip()}<|end_text|>" for sentence in past_messages])
             seed += f"\n<|start_text|>{character}: "
         else:
             seed = "\n".join([f"{sentence[0].strip()}: {sentence[1].strip()}" for sentence in past_messages])
@@ -91,7 +92,9 @@ class LucidDream:
 
         gpt2.reset_session(self.sess)
         self.sess = gpt2.start_tf_sess()
-        gpt2.load_gpt2(self.sess, run_name=self.run_name)
+        gpt2.load_gpt2(self.sess, run_name=model_run)
+
+        common_letters = "tiiiiiiainosriiiitainosiatwbmtikgdpr"
         response = gpt2.generate(
             self.sess,
             length=self.response_length,
@@ -99,22 +102,20 @@ class LucidDream:
             prefix=seed + random.choice(common_letters + common_letters.upper()) if random_seed else seed,
             nsamples=1,
             batch_size=1,
-            run_name=self.run_name,
-            return_as_list=True,
-            # include_prefix=False,
-            # truncate="<|end_text|>"
+            run_name=model_run,
+            return_as_list=True
         )[0][len(seed):].strip()
 
-        print(f"Response Length: {len(response)}\n{response}")
+        print(f"{character} Response Length: {len(response)}\n{response}")
         truncate = re.findall(r"(.+?)(?:\<\|?end_text\|?\>)", response)
         response = truncate[0] if truncate else response
         
         return re.sub(r"<\.*?\>", "", response)
 
 
-    def start_conversation(self, conversation=[], filtered=True, random_seed=False):
-        character = random.choice(self.characters)
-        response = self.generate_holistic_model_response(conversation, character, filtered=filtered, random_seed=random_seed)
+    def start_conversation(self, conversation=[], filtered=True, random_seed=False, run_name=None, character=None, characters=None):
+        character = character if character else random.choice(self.characters or characters)
+        response = self.generate_holistic_model_response(conversation, character, filtered=filtered, random_seed=random_seed, run_name=run_name)
         return response
 
 
@@ -128,9 +129,9 @@ class LucidDream:
         return probabilities
 
     
-    def get_emotional_profile(self, character, guild):
+    def get_emotional_profile(self, character, filename):
         history = {"character": [], "text": []}
-        with open (f"history/{guild}.txt", "r") as history_reader:
+        with open (filename, "r") as history_reader:
             raw_lines = history_reader.read().split("<|end_text|>")
             for line in raw_lines:
                 line = line.replace("<|start_text|>", "").strip()
@@ -138,6 +139,8 @@ class LucidDream:
                 history["text"].append(line[line.find(":")+1:].strip())
         df = pd.DataFrame(history)
 
+        if df[df.character == character].empty:
+            return f"{character} not found in channel history."
 
         emotion_breakdown = pd.concat([self.get_class_probs(row.text) for i, row in df[df.character == character].iterrows()], sort=False)
 
@@ -148,11 +151,9 @@ class LucidDream:
 
 
 if __name__ == "__main__":
-    lucidDream = LucidDream(
-        characters=["harry", "ron", "hermione"],
+    lucid_dream = LucidDream(
         response_length=40,
         run_name="med_first_three_harry_potter"
     )
 
-    lucidDream.characters = ["harry"]
-    print(lucidDream.start_conversation([], filtered=True))
+    print(lucidDream.start_conversation(conversation=[], character="harry", filtered=True))
